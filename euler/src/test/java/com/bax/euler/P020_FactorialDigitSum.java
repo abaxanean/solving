@@ -24,7 +24,7 @@ import static org.testng.Assert.*;
 public class P020_FactorialDigitSum {
 
     @Test
-    public void testIt() {
+    public void solve() {
         BigInteger factorial = BigInteger.valueOf(1L);
         for (int i = 1; i <= 100; i++) {
             factorial = factorial.multiply(BigInteger.valueOf(i));

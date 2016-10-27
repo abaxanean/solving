@@ -23,7 +23,7 @@ import static org.testng.Assert.*;
 public class P010_SummationOfPrimes extends Primes {
 
     @Test
-    public void sumOfPrimesBelowTwoMillion() {
+    public void solve() {
         IntStream.range(2, 2_000_000).forEach(this::isPrime);
         long sum = primes.stream().mapToLong(Integer::longValue).sum();
         assertEquals(sum, 142913828922L);

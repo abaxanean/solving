@@ -27,7 +27,7 @@ import static org.testng.Assert.*;
 public class P006_SumSquareDifference {
 
     @Test
-    public void test() {
+    public void solve() {
         int sumOfSquares = IntStream.rangeClosed(1, 100).map(i -> i * i).sum();
         int sum = IntStream.rangeClosed(1, 100).sum();
         int squareOfSum = sum * sum;

@@ -8,10 +8,13 @@ package com.bax.euler.util;
 import java.util.ArrayDeque;
 import java.util.Collections;
 import java.util.Deque;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Primes {
 
     protected final Deque<Integer> primes = new ArrayDeque<>(Collections.singletonList(2));
+    protected final Set<Integer> primesSet = new HashSet<>(primes);
 
     // a function which does have side effects (adds to the primes collection)
     protected boolean isPrime(final int i) {
@@ -26,8 +29,13 @@ public class Primes {
                 break;
             }
         }
-        primes.addLast(i);
+        addPrime(i);
         return true;
+    }
+
+    private void addPrime(final int i) {
+        primes.addLast(i);
+        primesSet.add(i);
     }
 
     //    private boolean isPrimeSlow(final int number) {

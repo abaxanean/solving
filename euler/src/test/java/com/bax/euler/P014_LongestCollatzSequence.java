@@ -26,7 +26,7 @@ import static org.testng.Assert.*;
 public class P014_LongestCollatzSequence {
 
     @Test
-    public void testIt() {
+    public void solve() {
         int maxChain = 0;
         int number = 0;
         for (int i = 1; i < 1_000_000; i++) {

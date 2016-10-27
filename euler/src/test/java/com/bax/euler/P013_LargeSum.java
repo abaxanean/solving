@@ -222,7 +222,7 @@ public class P013_LargeSum {
             "53503534226472524250874054075591789781264330331690";
 
     @Test
-    public void testIt() {
+    public void solve() {
         BigInteger[][] array = Util.parseArray(s, new BigInteger[100][1], BigInteger::new);
         BigInteger sum = new BigInteger("0");
         for (int i = 0; i < 100; i++) {
