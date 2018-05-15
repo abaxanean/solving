@@ -5,16 +5,29 @@
 
 package com.bax.other;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
 import java.util.concurrent.TimeUnit;
 
 import org.testng.annotations.Test;
 
-import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.*;
 
 public class StatComputer {
 
-    @Test
-    public void computeStats() {
+//    @Test
+    public void testStats() {
+        LocalDate visitDate = LocalDate.of(2016, Month.OCTOBER, 25);
+        LocalDate pregnancyStartDate = visitDate.minusWeeks(14).minusDays(3);
+        System.out.println(pregnancyStartDate);
+        System.out.println(pregnancyStartDate.plusWeeks(40));
 //        System.out.println(TimeUnit.DAYS.toMillis(1));
 //        System.out.println(24 * 3600 * 1000L);
         assertEquals(TimeUnit.MILLISECONDS.convert(2, TimeUnit.MINUTES), TimeUnit.MINUTES.toMillis(2));
@@ -39,6 +52,19 @@ public class StatComputer {
 //            }
 //        }
 
+    }
+
+    @Test
+    public void df() {
+        System.out.println(
+        DateTimeFormatter.ofLocalizedDateTime(FormatStyle.SHORT)
+                .withZone(ZoneId.systemDefault())
+                .format(Instant.now()));
+    }
+
+    @Test
+    public void walk() throws IOException {
+        Files.walk(Paths.get("/"), 1).forEach(System.out::println);
     }
 
 }

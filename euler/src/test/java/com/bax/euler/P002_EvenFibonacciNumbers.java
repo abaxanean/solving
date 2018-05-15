@@ -33,6 +33,7 @@ public class P002_EvenFibonacciNumbers {
     @Test
     public void solve() {
         int count = 1;
+        Integer h = 4;
         long sum = 0;
         for (long i = fib(count); i <= 4_000_000L; i = fib(++count)) {
             if (i % 2 == 0) {
@@ -41,9 +42,13 @@ public class P002_EvenFibonacciNumbers {
         }
 
         assertEquals(sum, 4613732);
+//        System.out.println(sum);
     }
 
     private long fib(int i) {
+//        if (i <=2) {
+//            return i;
+//        }
 
         if(cache.length > i && cache[i] != 0) {
             return cache[i];
