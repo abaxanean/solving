@@ -7,7 +7,6 @@ import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
 import java.util.List;
-import java.util.stream.IntStream;
 
 public class MinimumDistance {
 
@@ -47,7 +46,6 @@ public class MinimumDistance {
             }
         }
         return -1;
-//        return recursiveSearch(area, 0, 0, 0);
     }
 
     private void addIfValid(Deque<int[]> queue, List<List<Integer>> area, int x, int y, int cost) {
@@ -60,28 +58,4 @@ public class MinimumDistance {
         visited[x][y] = true;
         queue.addLast(new int[]{x, y, cost});
     }
-
-//    int recursiveSearch(List<List<Integer>> area, int cost, int x, int y) {
-//        if (x < 0 || y < 0 || x >= area.size() || y >= area.get(x).size()) {
-//            return -1;
-//        }
-//        if (area.get(x).get(y) == 9) {
-//            return cost;
-//        }
-//        if (this.visited[x][y] || area.get(x).get(y) == 0) {
-//            return -1;
-//        }
-//        if (this.visited[x][y]) {
-////            return cost + this.costsCache[x][y];
-//        }
-//        int minCost = IntStream.of(
-//                recursiveSearch(area, cost + 1, x - 1, y),
-//                recursiveSearch(area, cost + 1, x + 1, y),
-//                recursiveSearch(area, cost + 1, x, y - 1),
-//                recursiveSearch(area, cost + 1, x, y + 1)
-//        ).filter(c -> c > 0).min().orElse(-1);
-////        costsCache[x][y] = minCost;
-//        return minCost;
-//    }
-
 }
