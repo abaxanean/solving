@@ -29,7 +29,7 @@ class TopCounter {
 
     void processWeek(LocalDate localDate) {
         count();
-        combinations(localDate);
+//        combinations(localDate);
     }
 
     private void combinations(LocalDate localDate) {

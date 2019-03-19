@@ -38,7 +38,7 @@ public class ATPRankings {
     private static final String DJOKOVIC = "Novak Djokovic";
     private static final String MURRAY = "Andy Murray";
 
-    final String template = "http://www.atpworldtour.com/en/rankings/singles?rankRange=0-100&ajax=true&rankDate=";
+    final String template = "https://www.atptour.com/en/rankings/singles?rankRange=0-100&ajax=true&rankDate=";
     LocalDate startDate = LocalDate.of(2001, Month.JANUARY, 1);
     // start of Monday only rankings
     LocalDate firstMonday = LocalDate.of(1985, Month.JANUARY, 14);

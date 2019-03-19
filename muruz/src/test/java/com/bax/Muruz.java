@@ -26,6 +26,21 @@ public class Muruz {
     }
 
     @Test
+    public void test() {
+        int exp = 60;
+        int points = 1000;
+        int totalPoints = 0;
+        int res=0;
+        while(exp >=1 && points > 0) {
+            res++;
+            totalPoints+=points;
+            exp--;
+            points -=10;
+        }
+        System.out.printf("res %d  total points %d", res, totalPoints);
+    }
+
+    @Test
     public void track() throws IOException, InterruptedException {
         System.out.println(character);
         while (true) {
