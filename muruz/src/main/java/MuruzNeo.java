@@ -5,6 +5,7 @@
 
 import java.awt.Dimension;
 import java.io.IOException;
+import java.time.LocalDateTime;
 import java.util.AbstractMap;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -29,18 +30,18 @@ import org.jsoup.select.Elements;
 
 public class MuruzNeo {
 
-    private static Set<String> PLAYERS = Collections.unmodifiableSet(new HashSet<>(Arrays.asList("Bacs", "Minato", /*"Funtik",*/ "Astro")));
+    private static Set<String> PLAYERS = Collections.unmodifiableSet(new HashSet<>(Arrays.asList("Bacs", "Minato", "Funtik", "Astro")));
 
     public static void main(String[] args) throws IOException, InterruptedException {
 //        printTop();
-
         monitor();
 
-//        List<Player> players =  getPlayers();
+        //        List<Player> players =  getPlayers();
 //        group(players, p -> p.location);
     }
 
     private static void clearScreen() throws IOException {
+
 //        System.out.print(String.format("\033[%dA", 4)); // Move up
 //        System.out.print("\033[2K");
 //        Runtime.getRuntime().exec("clear");
@@ -67,6 +68,10 @@ public class MuruzNeo {
 
     private static void monitor() throws InterruptedException, IOException {
         while (true) {
+            if (LocalDateTime.now().getMinute() == 24 && new HashSet<>(Arrays.asList(2, 5, 8, 11, 14, 17, 20, 23)).contains(LocalDateTime.now().getHour())) {
+                createAndShowGUI("BC");
+                return;
+            }
             clearScreen();
             List<Map.Entry<String, Integer>> entries = new ArrayList<>();
             Set<String> players = new HashSet<>(PLAYERS);
@@ -95,7 +100,7 @@ public class MuruzNeo {
     }
 
     static <T> void group(List<Player> playerList, Function<Player, T> f) {
-        Map<T, Long> map =  playerList.stream().collect(Collectors.groupingBy(f, Collectors.counting()));
+        Map<T, Long> map = playerList.stream().collect(Collectors.groupingBy(f, Collectors.counting()));
         List<T> keys = new ArrayList<>(map.keySet());
         keys.sort((key1, key2) -> (int)(map.get(key2) - map.get(key1)));
         for (T key : keys) {
@@ -154,6 +159,9 @@ public class MuruzNeo {
         for (Element tr : elements) {
             Elements tds = tr.select("td");
             String res = tds.get(3).text();
+            if (res.length() < 3) {
+                continue;
+            }
             String[] parts = res.split("\\D");
             int resInt = Integer.parseInt(parts[2]);
             if (resInt > 0) {
