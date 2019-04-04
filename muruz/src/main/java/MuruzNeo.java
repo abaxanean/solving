@@ -9,12 +9,11 @@ import java.time.LocalDateTime;
 import java.util.AbstractMap;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.concurrent.TimeUnit;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -30,7 +29,16 @@ import org.jsoup.select.Elements;
 
 public class MuruzNeo {
 
-    private static Set<String> PLAYERS = Collections.unmodifiableSet(new HashSet<>(Arrays.asList("Bacs", "Minato", "Funtik", "Astro")));
+    private static Map<String, Boolean> PLAYERS = new HashMap<>();// Collections.unmodifiableSet(new HashSet<>(Arrays.asList("Bacs", "Minato", /*"Funtik",*/ "Astro", "TriBorG")));
+
+    static {
+        PLAYERS.put("Minato", false);
+        PLAYERS.put("Astro", false);
+        PLAYERS.put("TriBorG", false);
+        PLAYERS.put("Bacs", true);
+        PLAYERS.put("Funtik", true);
+    }
+//    private static final JFrame frame = createGUI();
 
     public static void main(String[] args) throws IOException, InterruptedException {
 //        printTop();
@@ -74,21 +82,22 @@ public class MuruzNeo {
             }
             clearScreen();
             List<Map.Entry<String, Integer>> entries = new ArrayList<>();
-            Set<String> players = new HashSet<>(PLAYERS);
+            Map<String, Boolean> players = new HashMap<>(PLAYERS);
             List<Player> playerList = getPlayers();
             for (Player player : playerList) {
-                if (players.remove(player.name)) {
-                    if (player.lvl == 400) {
-                        createAndShowGUI(player.name + ' ' + player.lvl);
-                        return;
-                    } else {
-                        entries.add(new AbstractMap.SimpleEntry<>(player.name, player.lvl));
-//                        System.out.println(String.format("%10s %s", player.name, player.lvl));
-                    }
+                if (!players.containsKey(player.name)) {
+                    continue;
+                }
+                boolean mma = players.remove(player.name);
+                if (player.lvl == 400 && !mma) {
+                    createAndShowGUI(player.name + ' ' + player.lvl);
+                    return;
+                } else {
+                    entries.add(new AbstractMap.SimpleEntry<>(player.name, player.lvl));
                 }
             }
             if (!players.isEmpty()) {
-                createAndShowGUI(players.toString());
+                createAndShowGUI(players.keySet().toString());
                 return;
             }
             entries.sort(Comparator.comparing(Map.Entry::getValue));
@@ -121,7 +130,21 @@ public class MuruzNeo {
         //Display the window.
         frame.pack();
         frame.setVisible(true);
+        frame.requestFocus();
     }
+
+//    private static void showNotification(final String message) {
+//        frame.setVisible(true);
+//        JDialog dialogue =  new JDialog(frame, true);
+//        dialogue.setPreferredSize(new Dimension(400, 400));
+//        JLabel label = new JLabel(message);
+//        frame.getContentPane().add(label);
+//        dialogue.getContentPane().add(label);
+//        dialogue.pack();
+//        dialogue.setVisible(true);
+//        frame.requestFocus();
+//        dialogue.requestFocus();
+//    }
 
     static class Player implements Comparable<Player> {
         final int res;
