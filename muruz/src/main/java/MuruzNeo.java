@@ -29,14 +29,16 @@ import org.jsoup.select.Elements;
 
 public class MuruzNeo {
 
-    private static Map<String, Boolean> PLAYERS = new HashMap<>();// Collections.unmodifiableSet(new HashSet<>(Arrays.asList("Bacs", "Minato", /*"Funtik",*/ "Astro", "TriBorG")));
+    private static Map<String, Boolean> PLAYERS = new HashMap<>();
 
     static {
-        PLAYERS.put("Minato", false);
-        PLAYERS.put("Astro", false);
-        PLAYERS.put("TriBorG", false);
+        PLAYERS.put("Minato", true);
+        PLAYERS.put("Astro", true);
         PLAYERS.put("Bacs", true);
         PLAYERS.put("Funtik", true);
+
+        PLAYERS.put("Lagertha", true);
+        PLAYERS.put("Pycckuj", true);
     }
 //    private static final JFrame frame = createGUI();
 
@@ -76,10 +78,10 @@ public class MuruzNeo {
 
     private static void monitor() throws InterruptedException, IOException {
         while (true) {
-            if (LocalDateTime.now().getMinute() == 24 && new HashSet<>(Arrays.asList(2, 5, 8, 11, 14, 17, 20, 23)).contains(LocalDateTime.now().getHour())) {
-                createAndShowGUI("BC");
-                return;
-            }
+//            if (LocalDateTime.now().getMinute() == 24 && new HashSet<>(Arrays.asList(2, 5, 8, 11, 14, 17, 20, 23)).contains(LocalDateTime.now().getHour())) {
+//                createAndShowGUI("BC");
+//                return;
+//            }
             clearScreen();
             List<Map.Entry<String, Integer>> entries = new ArrayList<>();
             Map<String, Boolean> players = new HashMap<>(PLAYERS);
