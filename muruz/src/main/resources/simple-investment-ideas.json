@@ -1,0 +1,2360 @@
+[ {
+  "stock" : "TTWO",
+  "date" : [ 2021, 1, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 205.56,
+  "spyPrice" : 384.24
+}, {
+  "stock" : "PRLB",
+  "date" : [ 2021, 1, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 175.02,
+  "spyPrice" : 378.46
+}, {
+  "stock" : "NNDM",
+  "date" : [ 2020, 12, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.15,
+  "spyPrice" : 372.17
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2020, 12, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 273.5,
+  "spyPrice" : 365.2331
+}, {
+  "stock" : "LTHM",
+  "date" : [ 2020, 11, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.17,
+  "spyPrice" : 360.5232
+}, {
+  "stock" : "TTWO",
+  "date" : [ 2020, 11, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 169.83,
+  "spyPrice" : 361.6783
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2020, 11, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.32,
+  "spyPrice" : 353.055
+}, {
+  "stock" : "PRLB",
+  "date" : [ 2020, 10, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 142.2,
+  "spyPrice" : 340.5583
+}, {
+  "stock" : "PLL",
+  "date" : [ 2020, 10, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 33.71,
+  "spyPrice" : 346.4532
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2020, 10, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 104.43,
+  "spyPrice" : 350.9341
+}, {
+  "stock" : "SQ",
+  "date" : [ 2020, 10, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 180.92,
+  "spyPrice" : 338.3179
+}, {
+  "stock" : "LMND",
+  "date" : [ 2020, 9, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 51.25,
+  "spyPrice" : 332.7715
+}, {
+  "stock" : "EA",
+  "date" : [ 2020, 9, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 128.2491,
+  "spyPrice" : 321.2705
+}, {
+  "stock" : "LTHM",
+  "date" : [ 2020, 9, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.38,
+  "spyPrice" : 325.5822
+}, {
+  "stock" : "ADSK",
+  "date" : [ 2020, 9, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 230.76,
+  "spyPrice" : 336.0365
+}, {
+  "stock" : "NEE",
+  "date" : [ 2020, 9, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 70.151,
+  "spyPrice" : 335.6794
+}, {
+  "stock" : "NIO",
+  "date" : [ 2020, 9, 10 ],
+  "sellDate" : [ 2020, 12, 16 ],
+  "sellPrice" : 44.67,
+  "price" : 17.74,
+  "spyPrice" : 331.147
+}, {
+  "stock" : "NVTA",
+  "date" : [ 2020, 9, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 30.23,
+  "spyPrice" : 330.4726
+}, {
+  "stock" : "TWLO",
+  "date" : [ 2020, 9, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 226.16,
+  "spyPrice" : 330.4726
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2020, 9, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 71.56,
+  "spyPrice" : 330.4726
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2020, 9, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 447.37,
+  "spyPrice" : 354.7614
+}, {
+  "stock" : "LMT",
+  "date" : [ 2020, 9, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 384.1234,
+  "spyPrice" : 349.7033
+}, {
+  "stock" : "TSM",
+  "date" : [ 2020, 8, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 79.838,
+  "spyPrice" : 345.4684
+}, {
+  "stock" : "TTWO",
+  "date" : [ 2020, 8, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 173.02,
+  "spyPrice" : 341.2929
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2020, 8, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.83,
+  "spyPrice" : 334.0727
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2020, 8, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 211.5,
+  "spyPrice" : 332.8132
+}, {
+  "stock" : "ALB",
+  "date" : [ 2020, 7, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 83.1453,
+  "spyPrice" : 318.5315
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2020, 7, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 72.23,
+  "spyPrice" : 320.5646
+}, {
+  "stock" : "JKS",
+  "date" : [ 2020, 7, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.36,
+  "spyPrice" : 320.3068
+}, {
+  "stock" : "NEE",
+  "date" : [ 2020, 7, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 62.7057,
+  "spyPrice" : 313.5825
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2020, 6, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 137.06,
+  "spyPrice" : 301.9588
+}, {
+  "stock" : "AES",
+  "date" : [ 2020, 6, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.5214,
+  "spyPrice" : 309.4864
+}, {
+  "stock" : "TTWO",
+  "date" : [ 2020, 6, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 137.15,
+  "spyPrice" : 303.193
+}, {
+  "stock" : "ADSK",
+  "date" : [ 2020, 6, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 234.15,
+  "spyPrice" : 316.7604
+}, {
+  "stock" : "TSM",
+  "date" : [ 2020, 5, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.4808,
+  "spyPrice" : 300.4973
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2020, 5, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 136.51,
+  "spyPrice" : 291.1759
+}, {
+  "stock" : "LMT",
+  "date" : [ 2020, 5, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 355.6529,
+  "spyPrice" : 293.2001
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2020, 5, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 59.27,
+  "spyPrice" : 283.069
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2020, 5, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 59.0,
+  "spyPrice" : 282.5951
+}, {
+  "stock" : "TWLO",
+  "date" : [ 2020, 4, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 112.3,
+  "spyPrice" : 286.8312
+}, {
+  "stock" : "PRLB",
+  "date" : [ 2020, 4, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 76.54,
+  "spyPrice" : 275.5941
+}, {
+  "stock" : "JKS",
+  "date" : [ 2020, 4, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.57,
+  "spyPrice" : 272.1973
+}, {
+  "stock" : "ALB",
+  "date" : [ 2020, 4, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 56.2931,
+  "spyPrice" : 261.533
+}, {
+  "stock" : "NEE",
+  "date" : [ 2020, 3, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 60.5746,
+  "spyPrice" : 258.3633
+}, {
+  "stock" : "LMT",
+  "date" : [ 2020, 3, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 271.5641,
+  "spyPrice" : 220.1494
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2020, 3, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.04,
+  "spyPrice" : 283.1327
+}, {
+  "stock" : "AVAV",
+  "date" : [ 2020, 3, 9 ],
+  "sellDate" : [ 2020, 7, 6 ],
+  "sellPrice" : 77.76,
+  "price" : 56.01,
+  "spyPrice" : 269.2028
+}, {
+  "stock" : "AES",
+  "date" : [ 2020, 3, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.2684,
+  "spyPrice" : 292.0069
+}, {
+  "stock" : "LTHM",
+  "date" : [ 2020, 3, 4 ],
+  "sellDate" : [ 2020, 6, 15 ],
+  "sellPrice" : 7.04,
+  "price" : 8.97,
+  "spyPrice" : 307.1246
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2020, 2, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.97,
+  "spyPrice" : 290.8289
+}, {
+  "stock" : "TTWO",
+  "date" : [ 2020, 2, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 110.97,
+  "spyPrice" : 306.9185
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2020, 2, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 135.63,
+  "spyPrice" : 316.5094
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2020, 2, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.11,
+  "spyPrice" : 331.2344
+}, {
+  "stock" : "NEE",
+  "date" : [ 2020, 2, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 66.5624,
+  "spyPrice" : 328.5446
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2020, 1, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 31.52,
+  "spyPrice" : 315.832
+}, {
+  "stock" : "AES",
+  "date" : [ 2020, 1, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.5918,
+  "spyPrice" : 325.2659
+}, {
+  "stock" : "JKS",
+  "date" : [ 2020, 1, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.21,
+  "spyPrice" : 325.2266
+}, {
+  "stock" : "ALB",
+  "date" : [ 2020, 1, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 76.8806,
+  "spyPrice" : 321.4472
+}, {
+  "stock" : "ATVI",
+  "date" : [ 2020, 1, 8 ],
+  "sellDate" : [ 2020, 2, 20 ],
+  "sellPrice" : 63.5818,
+  "price" : 59.4888,
+  "spyPrice" : 318.5022
+}, {
+  "stock" : "AVAV",
+  "date" : [ 2020, 1, 3 ],
+  "sellDate" : [ 2020, 7, 6 ],
+  "sellPrice" : 77.76,
+  "price" : 67.31,
+  "spyPrice" : 316.4996
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2019, 12, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 95.09,
+  "spyPrice" : 315.9596
+}, {
+  "stock" : "TTWO",
+  "date" : [ 2019, 12, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 122.57,
+  "spyPrice" : 312.1768
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 12, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.02,
+  "spyPrice" : 306.2765
+}, {
+  "stock" : "ATVI",
+  "date" : [ 2019, 12, 5 ],
+  "sellDate" : [ 2020, 2, 20 ],
+  "sellPrice" : 63.5818,
+  "price" : 54.6307,
+  "spyPrice" : 304.8015
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2019, 9, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 77.54,
+  "spyPrice" : 282.7086
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2019, 5, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 54.96,
+  "spyPrice" : 276.3958
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2018, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 36.63,
+  "spyPrice" : 258.6912
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 11, 23 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 4.4653,
+  "spyPrice" : 203.4864
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 11, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 36.754,
+  "spyPrice" : 201.2551
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 11, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.642,
+  "spyPrice" : 196.5253
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 10, 26 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 5.3361,
+  "spyPrice" : 197.0692
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 10, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.302,
+  "spyPrice" : 196.4976
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 10, 7 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 37.58,
+  "spyPrice" : 198.2679
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2016, 9, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.25,
+  "spyPrice" : 198.7565
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 9, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.566,
+  "spyPrice" : 200.9323
+}, {
+  "stock" : "FTNT",
+  "date" : [ 2016, 7, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 34.12,
+  "spyPrice" : 197.996
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 7, 14 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 47.35,
+  "spyPrice" : 198.2621
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 7, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.888,
+  "spyPrice" : 192.3358
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2016, 7, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.51,
+  "spyPrice" : 192.5751
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2016, 6, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.47,
+  "spyPrice" : 192.1661
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 6, 29 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 9.9585,
+  "spyPrice" : 189.5837
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 6, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.358,
+  "spyPrice" : 186.4094
+}, {
+  "stock" : "ABB",
+  "date" : [ 2016, 6, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.917,
+  "spyPrice" : 186.4094
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 6, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.63,
+  "spyPrice" : 186.3454
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 6, 23 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 48.65,
+  "spyPrice" : 193.3908
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2016, 6, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.35,
+  "spyPrice" : 191.2167
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 6, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.094,
+  "spyPrice" : 189.4553
+}, {
+  "stock" : "EKSO",
+  "date" : [ 2016, 6, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 87.3,
+  "spyPrice" : 190.1631
+}, {
+  "stock" : "NXPI",
+  "date" : [ 2016, 6, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 90.6666,
+  "spyPrice" : 192.4812
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 5, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.646,
+  "spyPrice" : 191.5047
+}, {
+  "stock" : "CTSH",
+  "date" : [ 2016, 5, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 58.6671,
+  "spyPrice" : 191.5047
+}, {
+  "stock" : "PANW",
+  "date" : [ 2016, 5, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 145.69,
+  "spyPrice" : 190.9936
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2016, 5, 23 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 38.03,
+  "spyPrice" : 187.2792
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2016, 5, 20 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 18.06,
+  "spyPrice" : 187.5348
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2016, 5, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.51,
+  "spyPrice" : 187.0054
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 5, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.658,
+  "spyPrice" : 188.712
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2016, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.1,
+  "spyPrice" : 188.4565
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 5, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.738,
+  "spyPrice" : 190.2361
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 5, 9 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 11.0323,
+  "spyPrice" : 187.8991
+}, {
+  "stock" : "LMT",
+  "date" : [ 2016, 5, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 210.3929,
+  "spyPrice" : 187.0967
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 5, 3 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 52.85,
+  "spyPrice" : 188.1455
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 4, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.152,
+  "spyPrice" : 188.3021
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 4, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 50.748,
+  "spyPrice" : 190.6643
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 4, 18 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 60.36,
+  "spyPrice" : 190.9564
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 4, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 50.902,
+  "spyPrice" : 189.6247
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 3, 28 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 14.3649,
+  "spyPrice" : 185.4814
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 3, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.516,
+  "spyPrice" : 185.4532
+}, {
+  "stock" : "RUN",
+  "date" : [ 2016, 3, 17 ],
+  "sellDate" : [ 2016, 5, 25 ],
+  "sellPrice" : 6.29,
+  "price" : 6.895,
+  "spyPrice" : 185.792
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 3, 10 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 69.25,
+  "spyPrice" : 181.1706
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2016, 3, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.03,
+  "spyPrice" : 181.0253
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2016, 3, 1 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 31.69,
+  "spyPrice" : 179.8722
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 2, 29 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 15.4649,
+  "spyPrice" : 175.7411
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2016, 2, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.09,
+  "spyPrice" : 176.8488
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 2, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 31.034,
+  "spyPrice" : 172.3091
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 2, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.52,
+  "spyPrice" : 170.6475
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2016, 1, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.27,
+  "spyPrice" : 175.8871
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 1, 15 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 14.869,
+  "spyPrice" : 170.5204
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2016, 1, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.7,
+  "spyPrice" : 174.2612
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 1, 8 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 65.62,
+  "spyPrice" : 174.2548
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2016, 1, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.808,
+  "spyPrice" : 180.5169
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2016, 1, 5 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 27.5,
+  "spyPrice" : 182.823
+}, {
+  "stock" : "CTSH",
+  "date" : [ 2015, 12, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 57.3112,
+  "spyPrice" : 185.102
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 12, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.79,
+  "spyPrice" : 186.3186
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 12, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.94,
+  "spyPrice" : 187.054
+}, {
+  "stock" : "CYBR",
+  "date" : [ 2015, 12, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.41,
+  "spyPrice" : 183.1045
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2015, 12, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.95,
+  "spyPrice" : 181.6071
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 12, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.902,
+  "spyPrice" : 187.762
+}, {
+  "stock" : "LMT",
+  "date" : [ 2015, 12, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 190.0846,
+  "spyPrice" : 185.055
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 12, 14 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 9.55,
+  "spyPrice" : 183.1325
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 12, 14 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 58.41,
+  "spyPrice" : 183.1325
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 12, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.404,
+  "spyPrice" : 182.2112
+}, {
+  "stock" : "AVAV",
+  "date" : [ 2015, 12, 10 ],
+  "sellDate" : [ 2020, 7, 6 ],
+  "sellPrice" : 77.76,
+  "price" : 29.04,
+  "spyPrice" : 185.8124
+}, {
+  "stock" : "AMAT",
+  "date" : [ 2015, 12, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.6558,
+  "spyPrice" : 185.3341
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 12, 8 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 8.39,
+  "spyPrice" : 186.7863
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 12, 8 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 59.07,
+  "spyPrice" : 186.7863
+}, {
+  "stock" : "EKSO",
+  "date" : [ 2015, 12, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 139.65,
+  "spyPrice" : 188.2124
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 11, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.052,
+  "spyPrice" : 188.3577
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 11, 19 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 7.63,
+  "spyPrice" : 188.2313
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2015, 11, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.69,
+  "spyPrice" : 188.3938
+}, {
+  "stock" : "RUN",
+  "date" : [ 2015, 11, 16 ],
+  "sellDate" : [ 2016, 5, 25 ],
+  "sellPrice" : 6.29,
+  "price" : 7.0,
+  "spyPrice" : 185.5868
+}, {
+  "stock" : "RUN",
+  "date" : [ 2015, 11, 16 ],
+  "sellDate" : [ 2016, 5, 25 ],
+  "sellPrice" : 6.29,
+  "price" : 7.0,
+  "spyPrice" : 185.5868
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2015, 11, 13 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 21.31,
+  "spyPrice" : 182.8068
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 11, 13 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 15.2946,
+  "spyPrice" : 182.8068
+}, {
+  "stock" : "AVAV",
+  "date" : [ 2015, 11, 12 ],
+  "sellDate" : [ 2020, 7, 6 ],
+  "sellPrice" : 77.76,
+  "price" : 22.15,
+  "spyPrice" : 184.8828
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2015, 11, 11 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 31.95,
+  "spyPrice" : 187.5002
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 11, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.472,
+  "spyPrice" : 189.5761
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 11, 6 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 59.67,
+  "spyPrice" : 189.5761
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2015, 11, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.18,
+  "spyPrice" : 189.865
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 11, 4 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 11.27,
+  "spyPrice" : 189.865
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 10, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.386,
+  "spyPrice" : 187.6717
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 10, 28 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 16.1196,
+  "spyPrice" : 188.5923
+}, {
+  "stock" : "SOL",
+  "date" : [ 2015, 10, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.75,
+  "spyPrice" : 179.1334
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 10, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.23,
+  "spyPrice" : 179.1334
+}, {
+  "stock" : "RUN",
+  "date" : [ 2015, 9, 29 ],
+  "sellDate" : [ 2015, 11, 2 ],
+  "sellPrice" : 7.36,
+  "price" : 9.81,
+  "spyPrice" : 169.7918
+}, {
+  "stock" : "PANW",
+  "date" : [ 2015, 9, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 180.09,
+  "spyPrice" : 175.0177
+}, {
+  "stock" : "NVMI",
+  "date" : [ 2015, 9, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.53,
+  "spyPrice" : 177.3192
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 9, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.7846,
+  "spyPrice" : 175.854
+}, {
+  "stock" : "LMT",
+  "date" : [ 2015, 8, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 176.6979,
+  "spyPrice" : 177.3715
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 8, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.006,
+  "spyPrice" : 168.1141
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 8, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.774,
+  "spyPrice" : 170.1972
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2015, 8, 20 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 18.78,
+  "spyPrice" : 183.145
+}, {
+  "stock" : "PANW",
+  "date" : [ 2015, 8, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 160.62,
+  "spyPrice" : 183.145
+}, {
+  "stock" : "AMAT",
+  "date" : [ 2015, 8, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.1669,
+  "spyPrice" : 187.0509
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2015, 8, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.88,
+  "spyPrice" : 188.5414
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 8, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 50.998,
+  "spyPrice" : 189.0622
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 8, 17 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 13.85,
+  "spyPrice" : 189.0622
+}, {
+  "stock" : "RUN",
+  "date" : [ 2015, 8, 14 ],
+  "sellDate" : [ 2015, 11, 2 ],
+  "sellPrice" : 7.36,
+  "price" : 10.04,
+  "spyPrice" : 188.0385
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2015, 8, 12 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 30.66,
+  "spyPrice" : 187.5896
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 8, 11 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 51.44,
+  "spyPrice" : 187.3651
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2015, 8, 10 ],
+  "sellDate" : [ 2015, 11, 9 ],
+  "sellPrice" : 2.1,
+  "price" : 6.14,
+  "spyPrice" : 189.125
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 8, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.228,
+  "spyPrice" : 189.125
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 7, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.358,
+  "spyPrice" : 189.2956
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 7, 29 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 18.4897,
+  "spyPrice" : 189.2507
+}, {
+  "stock" : "ONTO",
+  "date" : [ 2015, 7, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.71,
+  "spyPrice" : 189.2507
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 7, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.9907,
+  "spyPrice" : 189.2507
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 7, 24 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 15.85,
+  "spyPrice" : 186.7097
+}, {
+  "stock" : "FTNT",
+  "date" : [ 2015, 7, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.99,
+  "spyPrice" : 186.7097
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 7, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.4455,
+  "spyPrice" : 186.7097
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 7, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.574,
+  "spyPrice" : 189.7176
+}, {
+  "stock" : "ROK",
+  "date" : [ 2015, 7, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 106.6374,
+  "spyPrice" : 190.1396
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 7, 20 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 17.2326,
+  "spyPrice" : 190.8849
+}, {
+  "stock" : "CGNX",
+  "date" : [ 2015, 7, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.0115,
+  "spyPrice" : 190.7861
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 7, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.13,
+  "spyPrice" : 189.1699
+}, {
+  "stock" : "LMT",
+  "date" : [ 2015, 7, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 172.5304,
+  "spyPrice" : 188.3438
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2015, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 31.89,
+  "spyPrice" : 186.2966
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 51.83,
+  "spyPrice" : 186.2966
+}, {
+  "stock" : "EKSO",
+  "date" : [ 2015, 7, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 121.695,
+  "spyPrice" : 183.6478
+}, {
+  "stock" : "AVAV",
+  "date" : [ 2015, 7, 7 ],
+  "sellDate" : [ 2020, 7, 6 ],
+  "sellPrice" : 77.76,
+  "price" : 27.25,
+  "spyPrice" : 186.7815
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 6, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.2991,
+  "spyPrice" : 184.4469
+}, {
+  "stock" : "AMAT",
+  "date" : [ 2015, 6, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.3979,
+  "spyPrice" : 188.4067
+}, {
+  "stock" : "AVAV",
+  "date" : [ 2015, 6, 24 ],
+  "sellDate" : [ 2020, 7, 6 ],
+  "sellPrice" : 77.76,
+  "price" : 26.7,
+  "spyPrice" : 189.0173
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2015, 6, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 52.83,
+  "spyPrice" : 190.4
+}, {
+  "stock" : "HQCL",
+  "date" : [ 2015, 6, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.19,
+  "spyPrice" : 190.2564
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 6, 22 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 13.73,
+  "spyPrice" : 190.2564
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 6, 19 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 20.7289,
+  "spyPrice" : 189.0083
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 6, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 52.378,
+  "spyPrice" : 190.0677
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2015, 6, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.91,
+  "spyPrice" : 187.8696
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 6, 16 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 52.15,
+  "spyPrice" : 187.8696
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2015, 6, 15 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 32.42,
+  "spyPrice" : 186.8509
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 6, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 50.076,
+  "spyPrice" : 186.8509
+}, {
+  "stock" : "NVMI",
+  "date" : [ 2015, 6, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.71,
+  "spyPrice" : 189.1206
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2015, 6, 11 ],
+  "sellDate" : [ 2015, 11, 9 ],
+  "sellPrice" : 2.1,
+  "price" : 9.03,
+  "spyPrice" : 189.1206
+}, {
+  "stock" : "YGE",
+  "date" : [ 2015, 6, 10 ],
+  "sellDate" : [ 2015, 9, 10 ],
+  "sellPrice" : 5.732,
+  "price" : 11.7,
+  "spyPrice" : 188.4951
+}, {
+  "stock" : "SOL",
+  "date" : [ 2015, 6, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.8,
+  "spyPrice" : 188.4951
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 6, 9 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 13.19,
+  "spyPrice" : 186.2612
+}, {
+  "stock" : "JKS",
+  "date" : [ 2015, 6, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.88,
+  "spyPrice" : 186.2612
+}, {
+  "stock" : "PANW",
+  "date" : [ 2015, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 172.82,
+  "spyPrice" : 186.2344
+}, {
+  "stock" : "RWLK",
+  "date" : [ 2015, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 304.25,
+  "spyPrice" : 186.2344
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 6, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.184,
+  "spyPrice" : 187.7617
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2015, 5, 29 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 32.66,
+  "spyPrice" : 188.6649
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 5, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.486,
+  "spyPrice" : 190.0588
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 5, 19 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 20.6307,
+  "spyPrice" : 190.3537
+}, {
+  "stock" : "AMAT",
+  "date" : [ 2015, 5, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.3337,
+  "spyPrice" : 190.3537
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 5, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.6708,
+  "spyPrice" : 190.4162
+}, {
+  "stock" : "EKSO",
+  "date" : [ 2015, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 196.35,
+  "spyPrice" : 189.621
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 5, 14 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 14.15,
+  "spyPrice" : 189.621
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2015, 5, 13 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 38.99,
+  "spyPrice" : 187.6641
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2015, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 33.96,
+  "spyPrice" : 188.1868
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.898,
+  "spyPrice" : 188.1868
+}, {
+  "stock" : "RDWR",
+  "date" : [ 2015, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.26,
+  "spyPrice" : 188.1868
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2015, 5, 7 ],
+  "sellDate" : [ 2015, 11, 9 ],
+  "sellPrice" : 2.1,
+  "price" : 10.92,
+  "spyPrice" : 186.6365
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 5, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.086,
+  "spyPrice" : 185.8948
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2015, 5, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.54,
+  "spyPrice" : 186.6633
+}, {
+  "stock" : "DUK",
+  "date" : [ 2015, 5, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 60.1611,
+  "spyPrice" : 188.8257
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 5, 4 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 56.78,
+  "spyPrice" : 188.8257
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 5, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.102,
+  "spyPrice" : 188.8257
+}, {
+  "stock" : "ONTO",
+  "date" : [ 2015, 5, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.69,
+  "spyPrice" : 188.2896
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 5, 1 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 20.9843,
+  "spyPrice" : 188.2896
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 4, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.49,
+  "spyPrice" : 188.1555
+}, {
+  "stock" : "NEE",
+  "date" : [ 2015, 4, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.0744,
+  "spyPrice" : 188.1555
+}, {
+  "stock" : "AMAT",
+  "date" : [ 2015, 4, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.2611,
+  "spyPrice" : 188.1555
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 4, 28 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 14.58,
+  "spyPrice" : 188.9329
+}, {
+  "stock" : "KLAC",
+  "date" : [ 2015, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 51.0613,
+  "spyPrice" : 188.3342
+}, {
+  "stock" : "FTNT",
+  "date" : [ 2015, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.2,
+  "spyPrice" : 188.3342
+}, {
+  "stock" : "RTX",
+  "date" : [ 2015, 4, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 63.8192,
+  "spyPrice" : 189.1205
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.72,
+  "spyPrice" : 188.6827
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2015, 4, 23 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 34.09,
+  "spyPrice" : 188.6827
+}, {
+  "stock" : "LMT",
+  "date" : [ 2015, 4, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 170.9617,
+  "spyPrice" : 188.2091
+}, {
+  "stock" : "CHKP",
+  "date" : [ 2015, 4, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 87.17,
+  "spyPrice" : 188.2091
+}, {
+  "stock" : "RTX",
+  "date" : [ 2015, 4, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 64.2533,
+  "spyPrice" : 187.2888
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 4, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.882,
+  "spyPrice" : 187.2888
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 4, 20 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 22.2938,
+  "spyPrice" : 187.5122
+}, {
+  "stock" : "FEYE",
+  "date" : [ 2015, 4, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.43,
+  "spyPrice" : 187.5122
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 4, 20 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 14.16,
+  "spyPrice" : 187.5122
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 4, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.6784,
+  "spyPrice" : 187.9768
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 4, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.492,
+  "spyPrice" : 187.1905
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2015, 4, 7 ],
+  "sellDate" : [ 2015, 11, 9 ],
+  "sellPrice" : 2.1,
+  "price" : 13.27,
+  "spyPrice" : 185.2157
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 4, 6 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 12.36,
+  "spyPrice" : 185.7072
+}, {
+  "stock" : "RDWR",
+  "date" : [ 2015, 4, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.2,
+  "spyPrice" : 185.7072
+}, {
+  "stock" : "DUK",
+  "date" : [ 2015, 4, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 60.3772,
+  "spyPrice" : 185.7072
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 3, 30 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 20.5914,
+  "spyPrice" : 186.0825
+}, {
+  "stock" : "LMT",
+  "date" : [ 2015, 3, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 177.242,
+  "spyPrice" : 186.0825
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 3, 30 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 60.69,
+  "spyPrice" : 186.0825
+}, {
+  "stock" : "YGE",
+  "date" : [ 2015, 3, 30 ],
+  "sellDate" : [ 2015, 9, 10 ],
+  "sellPrice" : 5.732,
+  "price" : 18.8,
+  "spyPrice" : 186.0825
+}, {
+  "stock" : "EKSO",
+  "date" : [ 2015, 3, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 145.95,
+  "spyPrice" : 183.8397
+}, {
+  "stock" : "JKS",
+  "date" : [ 2015, 3, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.39,
+  "spyPrice" : 183.8397
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 3, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.86,
+  "spyPrice" : 183.8575
+}, {
+  "stock" : "CHKP",
+  "date" : [ 2015, 3, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 83.78,
+  "spyPrice" : 186.5918
+}, {
+  "stock" : "YGE",
+  "date" : [ 2015, 3, 24 ],
+  "sellDate" : [ 2015, 9, 10 ],
+  "sellPrice" : 5.732,
+  "price" : 23.4,
+  "spyPrice" : 186.5918
+}, {
+  "stock" : "KLAC",
+  "date" : [ 2015, 3, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 54.3149,
+  "spyPrice" : 187.6462
+}, {
+  "stock" : "RTX",
+  "date" : [ 2015, 3, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 65.2038,
+  "spyPrice" : 187.6462
+}, {
+  "stock" : "RWLK",
+  "date" : [ 2015, 3, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 331.5,
+  "spyPrice" : 188.0126
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 3, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.616,
+  "spyPrice" : 188.0126
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 3, 20 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 60.26,
+  "spyPrice" : 188.0126
+}, {
+  "stock" : "FTNT",
+  "date" : [ 2015, 3, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.475,
+  "spyPrice" : 186.3677
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2015, 3, 18 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 32.34,
+  "spyPrice" : 187.2217
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 3, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.946,
+  "spyPrice" : 184.9977
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 3, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.9827,
+  "spyPrice" : 184.9977
+}, {
+  "stock" : "NVMI",
+  "date" : [ 2015, 3, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.7,
+  "spyPrice" : 185.5493
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 3, 16 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 21.2756,
+  "spyPrice" : 185.5493
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 3, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 37.736,
+  "spyPrice" : 183.1004
+}, {
+  "stock" : "PANW",
+  "date" : [ 2015, 3, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 141.34,
+  "spyPrice" : 184.2327
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 3, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.748,
+  "spyPrice" : 181.9198
+}, {
+  "stock" : "SOL",
+  "date" : [ 2015, 3, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.45,
+  "spyPrice" : 181.9198
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2015, 3, 10 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 31.65,
+  "spyPrice" : 182.3468
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 3, 9 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 11.52,
+  "spyPrice" : 185.3536
+}, {
+  "stock" : "AES",
+  "date" : [ 2015, 3, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.224,
+  "spyPrice" : 187.0172
+}, {
+  "stock" : "JKS",
+  "date" : [ 2015, 3, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.65,
+  "spyPrice" : 187.0172
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 3, 3 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 8.14,
+  "spyPrice" : 187.8088
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 3, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.465,
+  "spyPrice" : 188.5828
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 2, 25 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 58.54,
+  "spyPrice" : 188.2625
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 2, 25 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 21.5212,
+  "spyPrice" : 188.2625
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 2, 24 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 21.4753,
+  "spyPrice" : 188.4226
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 2, 24 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 54.7,
+  "spyPrice" : 188.4226
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 2, 23 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 8.08,
+  "spyPrice" : 187.888
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 2, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.467,
+  "spyPrice" : 187.888
+}, {
+  "stock" : "NVMI",
+  "date" : [ 2015, 2, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.45,
+  "spyPrice" : 187.9147
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 2, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.422,
+  "spyPrice" : 187.9147
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2015, 2, 18 ],
+  "sellDate" : [ 2015, 11, 9 ],
+  "sellPrice" : 2.1,
+  "price" : 14.065,
+  "spyPrice" : 186.9281
+}, {
+  "stock" : "PANW",
+  "date" : [ 2015, 2, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 136.89,
+  "spyPrice" : 186.9104
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2015, 2, 17 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 18.6501,
+  "spyPrice" : 186.9104
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 2, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.87,
+  "spyPrice" : 186.9104
+}, {
+  "stock" : "NVMI",
+  "date" : [ 2015, 2, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.02,
+  "spyPrice" : 186.6168
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 2, 13 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 48.84,
+  "spyPrice" : 186.6168
+}, {
+  "stock" : "DUK",
+  "date" : [ 2015, 2, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 62.5534,
+  "spyPrice" : 185.8517
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2015, 2, 11 ],
+  "sellDate" : [ 2015, 11, 9 ],
+  "sellPrice" : 2.1,
+  "price" : 14.79,
+  "spyPrice" : 184.0815
+}, {
+  "stock" : "ONTO",
+  "date" : [ 2015, 2, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.42,
+  "spyPrice" : 182.0354
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 2, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.496,
+  "spyPrice" : 182.0354
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 2, 9 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 46.33,
+  "spyPrice" : 182.0354
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2015, 2, 6 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 25.66,
+  "spyPrice" : 182.8539
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2015, 2, 6 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 30.89,
+  "spyPrice" : 182.8539
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 2, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.7988,
+  "spyPrice" : 183.3609
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 2, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.71,
+  "spyPrice" : 181.5284
+}, {
+  "stock" : "RTX",
+  "date" : [ 2015, 2, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 64.969,
+  "spyPrice" : 182.2222
+}, {
+  "stock" : "YGE",
+  "date" : [ 2015, 2, 2 ],
+  "sellDate" : [ 2015, 9, 10 ],
+  "sellPrice" : 5.732,
+  "price" : 19.3,
+  "spyPrice" : 179.6247
+}, {
+  "stock" : "LMT",
+  "date" : [ 2015, 1, 30 ],
+  "sellDate" : [ 2015, 3, 18 ],
+  "sellPrice" : 175.261,
+  "price" : 161.7581,
+  "spyPrice" : 177.4274
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2015, 1, 29 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 8.18,
+  "spyPrice" : 179.6871
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2015, 1, 22 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 41.895,
+  "spyPrice" : 183.3431
+}, {
+  "stock" : "LMT",
+  "date" : [ 2015, 1, 22 ],
+  "sellDate" : [ 2015, 3, 18 ],
+  "sellPrice" : 175.261,
+  "price" : 170.1049,
+  "spyPrice" : 183.3431
+}, {
+  "stock" : "NRG",
+  "date" : [ 2015, 1, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.1675,
+  "spyPrice" : 179.7448
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2015, 1, 15 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 31.1,
+  "spyPrice" : 177.0448
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2015, 1, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.85,
+  "spyPrice" : 179.767
+}, {
+  "stock" : "HQCL",
+  "date" : [ 2015, 1, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.5,
+  "spyPrice" : 177.7565
+}, {
+  "stock" : "SOL",
+  "date" : [ 2015, 1, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.85,
+  "spyPrice" : 179.4467
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2015, 1, 2 ],
+  "sellDate" : [ 2015, 11, 9 ],
+  "sellPrice" : 2.1,
+  "price" : 14.21,
+  "spyPrice" : 182.7471
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2014, 12, 26 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 9.45,
+  "spyPrice" : 185.4247
+}, {
+  "stock" : "NRG",
+  "date" : [ 2014, 12, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.916,
+  "spyPrice" : 184.8287
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2014, 12, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.452,
+  "spyPrice" : 184.8287
+}, {
+  "stock" : "JKS",
+  "date" : [ 2014, 12, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.99,
+  "spyPrice" : 184.8109
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2014, 12, 18 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 16.8202,
+  "spyPrice" : 182.9384
+}, {
+  "stock" : "CSIQ",
+  "date" : [ 2014, 12, 18 ],
+  "sellDate" : [ 2020, 1, 15 ],
+  "sellPrice" : 23.28,
+  "price" : 21.11,
+  "spyPrice" : 182.9384
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2014, 12, 16 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 33.95,
+  "spyPrice" : 175.0911
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2014, 12, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.808,
+  "spyPrice" : 176.5067
+}, {
+  "stock" : "YGE",
+  "date" : [ 2014, 12, 15 ],
+  "sellDate" : [ 2015, 9, 10 ],
+  "sellPrice" : 5.732,
+  "price" : 22.0,
+  "spyPrice" : 176.5067
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2014, 12, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.808,
+  "spyPrice" : 176.5067
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2014, 12, 12 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 42.12,
+  "spyPrice" : 177.7275
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2014, 12, 8 ],
+  "sellDate" : [ 2019, 12, 23 ],
+  "sellPrice" : 57.86,
+  "price" : 44.65,
+  "spyPrice" : 182.788
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2014, 12, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.872,
+  "spyPrice" : 182.788
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2014, 12, 4 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 17.0035,
+  "spyPrice" : 183.717
+}, {
+  "stock" : "NRG",
+  "date" : [ 2014, 12, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.7094,
+  "spyPrice" : 183.2083
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2014, 11, 26 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 10.19,
+  "spyPrice" : 183.6993
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2014, 11, 21 ],
+  "sellDate" : [ 2019, 12, 30 ],
+  "sellPrice" : 50.71,
+  "price" : 34.78,
+  "spyPrice" : 182.85
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2014, 11, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.742,
+  "spyPrice" : 181.8768
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2014, 11, 12 ],
+  "sellDate" : [ 2019, 11, 18 ],
+  "sellPrice" : 5.4081,
+  "price" : 19.0855,
+  "spyPrice" : 180.4436
+}, {
+  "stock" : "VSLR",
+  "date" : [ 2014, 11, 4 ],
+  "sellDate" : [ 2016, 2, 18 ],
+  "sellPrice" : 5.99,
+  "price" : 14.96,
+  "spyPrice" : 177.8868
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2014, 10, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.334,
+  "spyPrice" : 173.5429
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2014, 10, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.412,
+  "spyPrice" : 166.0583
+} ]

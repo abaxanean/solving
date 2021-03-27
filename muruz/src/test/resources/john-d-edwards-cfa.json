@@ -1,0 +1,36 @@
+[ {
+  "stock" : "PWR",
+  "date" : [ 2020, 11, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 69.6312,
+  "spyPrice" : 361.1207
+}, {
+  "stock" : "APD",
+  "date" : [ 2020, 11, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 285.2729,
+  "spyPrice" : 328.7984
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2020, 9, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 189.44,
+  "spyPrice" : 321.2705
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2020, 9, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 70.27,
+  "spyPrice" : 321.2705
+}, {
+  "stock" : "VST",
+  "date" : [ 2020, 9, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.7569,
+  "spyPrice" : 325.5822
+} ]

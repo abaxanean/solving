@@ -1,0 +1,85 @@
+[ {
+  "stock" : "EVR",
+  "date" : [ 2020, 12, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 111.57,
+  "spyPrice" : 372.17
+}, {
+  "stock" : "BILL",
+  "date" : [ 2020, 11, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 122.71,
+  "spyPrice" : 360.5232
+}, {
+  "stock" : "SLQT",
+  "date" : [ 2020, 10, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.98,
+  "spyPrice" : 336.7844
+}, {
+  "stock" : "EV",
+  "date" : [ 2020, 9, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.831,
+  "spyPrice" : 332.7715
+}, {
+  "stock" : "FCX",
+  "date" : [ 2020, 9, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.72,
+  "spyPrice" : 330.4726
+}, {
+  "stock" : "PLAN",
+  "date" : [ 2020, 7, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.98,
+  "spyPrice" : 312.2535
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2020, 7, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 50.64,
+  "spyPrice" : 311.2022
+}, {
+  "stock" : "TSN",
+  "date" : [ 2020, 6, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 58.9115,
+  "spyPrice" : 305.8267
+}, {
+  "stock" : "DIN",
+  "date" : [ 2020, 6, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.75,
+  "spyPrice" : 306.1044
+}, {
+  "stock" : "DISCA",
+  "date" : [ 2020, 6, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.17,
+  "spyPrice" : 314.993
+}, {
+  "stock" : "EV",
+  "date" : [ 2020, 5, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 36.1355,
+  "spyPrice" : 299.7173
+}, {
+  "stock" : "AZPN",
+  "date" : [ 2017, 11, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 66.92,
+  "spyPrice" : 249.2844
+} ]

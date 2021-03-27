@@ -1,0 +1,302 @@
+[ {
+  "stock" : "HEC",
+  "date" : [ 2021, 2, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.84,
+  "spyPrice" : 389.434713
+}, {
+  "stock" : "PACE",
+  "date" : [ 2021, 2, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.75,
+  "spyPrice" : 389.235366
+}, {
+  "stock" : "OPEN",
+  "date" : [ 2021, 1, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.74,
+  "spyPrice" : 382.985832
+}, {
+  "stock" : "PRCH",
+  "date" : [ 2021, 1, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.65,
+  "spyPrice" : 382.636974
+}, {
+  "stock" : "AFTPY",
+  "date" : [ 2021, 1, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 104.0288,
+  "spyPrice" : 377.414077
+}, {
+  "stock" : "TRIT",
+  "date" : [ 2020, 12, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.92,
+  "spyPrice" : 370.775816
+}, {
+  "stock" : "MWK",
+  "date" : [ 2020, 12, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.47,
+  "spyPrice" : 366.370243
+}, {
+  "stock" : "FSRVU",
+  "date" : [ 2020, 12, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.05,
+  "spyPrice" : 366.659296
+}, {
+  "stock" : "ROKU",
+  "date" : [ 2020, 12, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 329.48,
+  "spyPrice" : 369.450157
+}, {
+  "stock" : "GOGO",
+  "date" : [ 2020, 12, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.65,
+  "spyPrice" : 367.395671
+}, {
+  "stock" : "DIS",
+  "date" : [ 2020, 12, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 173.94,
+  "spyPrice" : 366.820018
+}, {
+  "stock" : "IPOD",
+  "date" : [ 2020, 12, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.15,
+  "spyPrice" : 361.926967
+}, {
+  "stock" : "CLOV",
+  "date" : [ 2020, 12, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.5,
+  "spyPrice" : 363.981453
+}, {
+  "stock" : "DGNR",
+  "date" : [ 2020, 12, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.49,
+  "spyPrice" : 364.100554
+}, {
+  "stock" : "SKLZ",
+  "date" : [ 2020, 12, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.84,
+  "spyPrice" : 366.323765
+}, {
+  "stock" : "FUBO",
+  "date" : [ 2020, 12, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.6,
+  "spyPrice" : 366.323765
+}, {
+  "stock" : "CRWD",
+  "date" : [ 2020, 12, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 167.26,
+  "spyPrice" : 367.078069
+}, {
+  "stock" : "DOCU",
+  "date" : [ 2020, 12, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 215.71,
+  "spyPrice" : 363.276774
+}, {
+  "stock" : "WORK",
+  "date" : [ 2020, 11, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.88,
+  "spyPrice" : 359.346453
+}, {
+  "stock" : "PTON",
+  "date" : [ 2020, 10, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 111.31,
+  "spyPrice" : 332.419786
+}, {
+  "stock" : "SSSS",
+  "date" : [ 2020, 9, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.914687,
+  "spyPrice" : 331.685332
+}, {
+  "stock" : "CHGG",
+  "date" : [ 2020, 9, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 67.94,
+  "spyPrice" : 321.075451
+}, {
+  "stock" : "DOCU",
+  "date" : [ 2020, 9, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 197.01,
+  "spyPrice" : 334.93965
+}, {
+  "stock" : "TWLO",
+  "date" : [ 2020, 9, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 225.91,
+  "spyPrice" : 334.583773
+}, {
+  "stock" : "DDOG",
+  "date" : [ 2020, 6, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 78.26,
+  "spyPrice" : 313.964768
+}, {
+  "stock" : "AYX",
+  "date" : [ 2020, 5, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 136.04,
+  "spyPrice" : 298.738953
+}, {
+  "stock" : "ADBE",
+  "date" : [ 2020, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 355.39,
+  "spyPrice" : 280.471912
+}, {
+  "stock" : "NOW",
+  "date" : [ 2020, 5, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 361.29,
+  "spyPrice" : 277.155106
+}, {
+  "stock" : "VEEV",
+  "date" : [ 2020, 5, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 192.96,
+  "spyPrice" : 279.763277
+}, {
+  "stock" : "PLAN",
+  "date" : [ 2020, 5, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.37,
+  "spyPrice" : 279.763277
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2020, 5, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2315.99,
+  "spyPrice" : 279.09401
+}, {
+  "stock" : "NOW",
+  "date" : [ 2020, 5, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 339.51,
+  "spyPrice" : 278.326322
+}, {
+  "stock" : "FB",
+  "date" : [ 2020, 4, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 182.91,
+  "spyPrice" : 281.219916
+}, {
+  "stock" : "NEE",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 59.668083,
+  "spyPrice" : 282.519081
+}, {
+  "stock" : "ADBE",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 348.5,
+  "spyPrice" : 282.519081
+}, {
+  "stock" : "DKNG",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.52,
+  "spyPrice" : 282.519081
+}, {
+  "stock" : "AYX",
+  "date" : [ 2020, 4, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 116.05,
+  "spyPrice" : 274.694567
+}, {
+  "stock" : "CHGG",
+  "date" : [ 2020, 3, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 36.5,
+  "spyPrice" : 257.520005
+}, {
+  "stock" : "PINS",
+  "date" : [ 2020, 3, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.0,
+  "spyPrice" : 302.433358
+}, {
+  "stock" : "PGR",
+  "date" : [ 2020, 2, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 79.229038,
+  "spyPrice" : 329.478096
+}, {
+  "stock" : "BX",
+  "date" : [ 2020, 1, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 55.448164,
+  "spyPrice" : 320.397953
+}, {
+  "stock" : "DBX",
+  "date" : [ 2020, 1, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.53,
+  "spyPrice" : 316.670006
+}, {
+  "stock" : "AVLR",
+  "date" : [ 2020, 1, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 78.05,
+  "spyPrice" : 317.873516
+} ]

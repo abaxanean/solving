@@ -1,0 +1,792 @@
+[ {
+  "stock" : "BWEN",
+  "date" : [ 2020, 12, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.85,
+  "spyPrice" : 367.57
+}, {
+  "stock" : "QELL",
+  "date" : [ 2020, 12, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.93,
+  "spyPrice" : 364.7452
+}, {
+  "stock" : "FLMN",
+  "date" : [ 2020, 11, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.275,
+  "spyPrice" : 353.8218
+}, {
+  "stock" : "TPIC",
+  "date" : [ 2020, 11, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.48,
+  "spyPrice" : 348.6737
+}, {
+  "stock" : "SWN",
+  "date" : [ 2020, 11, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.62,
+  "spyPrice" : 334.6037
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2020, 10, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 57.71,
+  "spyPrice" : 328.5794
+}, {
+  "stock" : "LBRT",
+  "date" : [ 2020, 10, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.65,
+  "spyPrice" : 325.2735
+}, {
+  "stock" : "PE",
+  "date" : [ 2020, 10, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.5828,
+  "spyPrice" : 341.9225
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2020, 9, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.83,
+  "spyPrice" : 333.4685
+}, {
+  "stock" : "BCEI",
+  "date" : [ 2020, 9, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.72,
+  "spyPrice" : 328.898
+}, {
+  "stock" : "MGY",
+  "date" : [ 2020, 9, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.55,
+  "spyPrice" : 325.5822
+}, {
+  "stock" : "QS",
+  "date" : [ 2020, 9, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.5,
+  "spyPrice" : 339.7557
+}, {
+  "stock" : "LBRT",
+  "date" : [ 2020, 9, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.6,
+  "spyPrice" : 342.5525
+}, {
+  "stock" : "OII",
+  "date" : [ 2020, 8, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.29,
+  "spyPrice" : 345.4684
+}, {
+  "stock" : "GOEV",
+  "date" : [ 2020, 8, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.43,
+  "spyPrice" : 336.6911
+}, {
+  "stock" : "TPIC",
+  "date" : [ 2020, 8, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.555,
+  "spyPrice" : 330.066
+}, {
+  "stock" : "BWEN",
+  "date" : [ 2020, 8, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.99,
+  "spyPrice" : 329.3816
+}, {
+  "stock" : "COG",
+  "date" : [ 2020, 7, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.3941,
+  "spyPrice" : 323.8376
+}, {
+  "stock" : "BWEN",
+  "date" : [ 2020, 7, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.96,
+  "spyPrice" : 318.2439
+}, {
+  "stock" : "BCEI",
+  "date" : [ 2020, 7, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.03,
+  "spyPrice" : 320.3068
+}, {
+  "stock" : "MGY",
+  "date" : [ 2020, 7, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.82,
+  "spyPrice" : 319.2059
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2020, 7, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 37.925,
+  "spyPrice" : 311.7973
+}, {
+  "stock" : "LBRT",
+  "date" : [ 2020, 6, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.67,
+  "spyPrice" : 304.825
+}, {
+  "stock" : "BWEN",
+  "date" : [ 2020, 6, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.24,
+  "spyPrice" : 306.1044
+}, {
+  "stock" : "BCEI",
+  "date" : [ 2020, 6, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.43,
+  "spyPrice" : 300.3888
+}, {
+  "stock" : "TPIC",
+  "date" : [ 2020, 6, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.49,
+  "spyPrice" : 296.834
+}, {
+  "stock" : "GDP",
+  "date" : [ 2020, 6, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.29,
+  "spyPrice" : 307.4489
+}, {
+  "stock" : "BWEN",
+  "date" : [ 2020, 5, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.48,
+  "spyPrice" : 299.1643
+}, {
+  "stock" : "BWEN",
+  "date" : [ 2020, 5, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.7,
+  "spyPrice" : 288.7666
+}, {
+  "stock" : "WPX",
+  "date" : [ 2020, 5, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.94,
+  "spyPrice" : 284.0664
+}, {
+  "stock" : "PE",
+  "date" : [ 2020, 5, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.1164,
+  "spyPrice" : 282.5951
+}, {
+  "stock" : "AR",
+  "date" : [ 2020, 4, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.98,
+  "spyPrice" : 286.8312
+}, {
+  "stock" : "LBRT",
+  "date" : [ 2020, 4, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.86,
+  "spyPrice" : 289.5269
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2020, 4, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.68,
+  "spyPrice" : 282.1409
+}, {
+  "stock" : "BCEI",
+  "date" : [ 2020, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.54,
+  "spyPrice" : 275.5744
+}, {
+  "stock" : "GDP",
+  "date" : [ 2020, 4, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.34,
+  "spyPrice" : 269.6103
+}, {
+  "stock" : "AR",
+  "date" : [ 2020, 4, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.09,
+  "spyPrice" : 269.6103
+}, {
+  "stock" : "FLMN",
+  "date" : [ 2020, 3, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.2948,
+  "spyPrice" : 257.919
+}, {
+  "stock" : "MGY",
+  "date" : [ 2020, 3, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.07,
+  "spyPrice" : 240.0957
+}, {
+  "stock" : "WPX",
+  "date" : [ 2020, 3, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.11,
+  "spyPrice" : 235.6004
+}, {
+  "stock" : "BWEN",
+  "date" : [ 2020, 3, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.365,
+  "spyPrice" : 248.1657
+}, {
+  "stock" : "BCEI",
+  "date" : [ 2020, 3, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.5,
+  "spyPrice" : 248.1657
+}, {
+  "stock" : "COG",
+  "date" : [ 2020, 2, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.5693,
+  "spyPrice" : 327.3667
+}, {
+  "stock" : "MGY",
+  "date" : [ 2020, 2, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.86,
+  "spyPrice" : 330.7731
+}, {
+  "stock" : "BWEN",
+  "date" : [ 2020, 2, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.55,
+  "spyPrice" : 326.1102
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2020, 2, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 34.8632,
+  "spyPrice" : 327.8575
+}, {
+  "stock" : "BCEI",
+  "date" : [ 2020, 1, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.3,
+  "spyPrice" : 320.6324
+}, {
+  "stock" : "PE",
+  "date" : [ 2020, 1, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.1215,
+  "spyPrice" : 317.5696
+}, {
+  "stock" : "COG",
+  "date" : [ 2020, 1, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.9999,
+  "spyPrice" : 325.2659
+}, {
+  "stock" : "MGY",
+  "date" : [ 2020, 1, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.92,
+  "spyPrice" : 316.4996
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2020, 1, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.4166,
+  "spyPrice" : 318.9145
+}, {
+  "stock" : "TPIC",
+  "date" : [ 2019, 12, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.86,
+  "spyPrice" : 315.3314
+}, {
+  "stock" : "MR",
+  "date" : [ 2019, 12, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.73,
+  "spyPrice" : 312.1085
+}, {
+  "stock" : "LBRT",
+  "date" : [ 2019, 12, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.9175,
+  "spyPrice" : 307.146
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2019, 12, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.0516,
+  "spyPrice" : 304.2545
+}, {
+  "stock" : "BCEI",
+  "date" : [ 2019, 11, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.74,
+  "spyPrice" : 306.8139
+}, {
+  "stock" : "LPI",
+  "date" : [ 2019, 11, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.6,
+  "spyPrice" : 304.7136
+}, {
+  "stock" : "MGY",
+  "date" : [ 2019, 11, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.65,
+  "spyPrice" : 301.9491
+}, {
+  "stock" : "BE",
+  "date" : [ 2019, 11, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.56,
+  "spyPrice" : 301.8514
+}, {
+  "stock" : "HPR",
+  "date" : [ 2019, 11, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 66.5,
+  "spyPrice" : 299.927
+}, {
+  "stock" : "COG",
+  "date" : [ 2019, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.1881,
+  "spyPrice" : 294.6226
+}, {
+  "stock" : "HPR",
+  "date" : [ 2019, 10, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 57.5,
+  "spyPrice" : 289.1033
+}, {
+  "stock" : "FLMN",
+  "date" : [ 2019, 10, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.7831,
+  "spyPrice" : 289.4257
+}, {
+  "stock" : "TPIC",
+  "date" : [ 2019, 9, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.31,
+  "spyPrice" : 292.7727
+}, {
+  "stock" : "LBRT",
+  "date" : [ 2019, 8, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.9317,
+  "spyPrice" : 278.9455
+}, {
+  "stock" : "FANG",
+  "date" : [ 2019, 8, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 92.5535,
+  "spyPrice" : 276.0576
+}, {
+  "stock" : "JAG",
+  "date" : [ 2019, 8, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.8,
+  "spyPrice" : 283.5643
+}, {
+  "stock" : "MR",
+  "date" : [ 2019, 8, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.4,
+  "spyPrice" : 280.0152
+}, {
+  "stock" : "HPR",
+  "date" : [ 2019, 8, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 54.0,
+  "spyPrice" : 279.8499
+}, {
+  "stock" : "EOG",
+  "date" : [ 2019, 8, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 79.1814,
+  "spyPrice" : 284.5367
+}, {
+  "stock" : "COG",
+  "date" : [ 2019, 7, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.4301,
+  "spyPrice" : 289.2138
+}, {
+  "stock" : "COG",
+  "date" : [ 2019, 6, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.3266,
+  "spyPrice" : 265.6934
+}, {
+  "stock" : "MR",
+  "date" : [ 2019, 5, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.4,
+  "spyPrice" : 271.093
+}, {
+  "stock" : "EOG",
+  "date" : [ 2019, 5, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 87.0031,
+  "spyPrice" : 284.5243
+}, {
+  "stock" : "LBRT",
+  "date" : [ 2019, 5, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.7216,
+  "spyPrice" : 282.376
+}, {
+  "stock" : "HPR",
+  "date" : [ 2019, 4, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 145.5,
+  "spyPrice" : 282.6083
+}, {
+  "stock" : "MGY",
+  "date" : [ 2019, 4, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.39,
+  "spyPrice" : 280.5955
+}, {
+  "stock" : "JAG",
+  "date" : [ 2019, 3, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.3,
+  "spyPrice" : 270.1642
+}, {
+  "stock" : "TPIC",
+  "date" : [ 2019, 2, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 31.41,
+  "spyPrice" : 267.6882
+}, {
+  "stock" : "MGY",
+  "date" : [ 2018, 8, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.4,
+  "spyPrice" : 272.3911
+}, {
+  "stock" : "FANG",
+  "date" : [ 2018, 8, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 115.7938,
+  "spyPrice" : 272.3911
+}, {
+  "stock" : "WPX",
+  "date" : [ 2015, 6, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.14,
+  "spyPrice" : 188.4067
+}, {
+  "stock" : "CVX",
+  "date" : [ 2015, 2, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 84.0881,
+  "spyPrice" : 188.4227
+}, {
+  "stock" : "NOG",
+  "date" : [ 2014, 12, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.9,
+  "spyPrice" : 182.7881
+}, {
+  "stock" : "HKRS",
+  "date" : [ 2014, 11, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.0045,
+  "spyPrice" : 180.6338
+}, {
+  "stock" : "NOG",
+  "date" : [ 2014, 11, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 113.0,
+  "spyPrice" : 179.8951
+}, {
+  "stock" : "PE",
+  "date" : [ 2014, 8, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.5629,
+  "spyPrice" : 176.4074
+}, {
+  "stock" : "CRZO",
+  "date" : [ 2014, 8, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 58.32,
+  "spyPrice" : 175.4035
+}, {
+  "stock" : "SWN",
+  "date" : [ 2014, 3, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.4,
+  "spyPrice" : 163.8188
+}, {
+  "stock" : "OEDVQ",
+  "date" : [ 2013, 2, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.72,
+  "spyPrice" : 127.4346
+}, {
+  "stock" : "HKRS",
+  "date" : [ 2012, 11, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.01,
+  "spyPrice" : 115.4376
+}, {
+  "stock" : "HKRS",
+  "date" : [ 2012, 10, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.0105,
+  "spyPrice" : 121.7727
+}, {
+  "stock" : "OEDVQ",
+  "date" : [ 2012, 9, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.05,
+  "spyPrice" : 121.5654
+}, {
+  "stock" : "WHZT",
+  "date" : [ 2012, 7, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.9873,
+  "spyPrice" : 116.3449
+}, {
+  "stock" : "SJT",
+  "date" : [ 2012, 7, 16 ],
+  "sellDate" : [ 2019, 5, 30 ],
+  "sellPrice" : 3.8146,
+  "price" : 9.5677,
+  "spyPrice" : 114.402
+}, {
+  "stock" : "AMPY",
+  "date" : [ 2012, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.9963,
+  "spyPrice" : 114.955
+}, {
+  "stock" : "NOG",
+  "date" : [ 2012, 3, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 228.7,
+  "spyPrice" : 114.4201
+}, {
+  "stock" : "SWN",
+  "date" : [ 2012, 2, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 33.06,
+  "spyPrice" : 114.646
+}, {
+  "stock" : "HAL",
+  "date" : [ 2012, 1, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 31.772,
+  "spyPrice" : 110.2951
+}, {
+  "stock" : "NOG",
+  "date" : [ 2011, 10, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 246.3,
+  "spyPrice" : 106.9227
+}, {
+  "stock" : "EQNR",
+  "date" : [ 2011, 10, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.9305,
+  "spyPrice" : 101.9174
+}, {
+  "stock" : "NOG",
+  "date" : [ 2011, 9, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 201.1,
+  "spyPrice" : 93.8359
+}, {
+  "stock" : "NOG",
+  "date" : [ 2011, 7, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 220.4,
+  "spyPrice" : 108.2997
+}, {
+  "stock" : "NOG",
+  "date" : [ 2011, 5, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 185.5,
+  "spyPrice" : 109.6094
+}, {
+  "stock" : "EQNR",
+  "date" : [ 2011, 2, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.8521,
+  "spyPrice" : 108.4466
+}, {
+  "stock" : "EOG",
+  "date" : [ 2011, 2, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.2657,
+  "spyPrice" : 110.2496
+}, {
+  "stock" : "TAT",
+  "date" : [ 2010, 2, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.92,
+  "spyPrice" : 89.3432
+}, {
+  "stock" : "HKRS",
+  "date" : [ 2009, 11, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.31,
+  "spyPrice" : 85.419
+}, {
+  "stock" : "CLR",
+  "date" : [ 2008, 5, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.6528,
+  "spyPrice" : 109.5021
+}, {
+  "stock" : "HKRS",
+  "date" : [ 2008, 4, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.15,
+  "spyPrice" : 104.7073
+}, {
+  "stock" : "NFX",
+  "date" : [ 2007, 7, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.99,
+  "spyPrice" : 112.4093
+}, {
+  "stock" : "EGY",
+  "date" : [ 2007, 5, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.4789,
+  "spyPrice" : 113.9916
+}, {
+  "stock" : "NFX",
+  "date" : [ 2007, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.21,
+  "spyPrice" : 111.9575
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "stock" : "GME",
+  "date" : [ 2020, 7, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.01,
+  "spyPrice" : 320.5647
+}, {
+  "stock" : "BREW",
+  "date" : [ 2020, 6, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.43,
+  "spyPrice" : 309.4864
+}, {
+  "stock" : "BXC",
+  "date" : [ 2020, 6, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.58,
+  "spyPrice" : 303.1931
+}, {
+  "stock" : "CPLG",
+  "date" : [ 2020, 5, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.69,
+  "spyPrice" : 291.7289
+} ]

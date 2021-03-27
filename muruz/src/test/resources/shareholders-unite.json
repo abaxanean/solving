@@ -1,0 +1,5377 @@
+[ {
+  "stock" : "GDYN",
+  "date" : [ 2020, 12, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.96,
+  "spyPrice" : 372.17
+}, {
+  "stock" : "RLGY",
+  "date" : [ 2020, 12, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.04,
+  "spyPrice" : 370.66
+}, {
+  "stock" : "XXII",
+  "date" : [ 2020, 12, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.15,
+  "spyPrice" : 365.1734
+}, {
+  "stock" : "LGIQ",
+  "date" : [ 2020, 12, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.44,
+  "spyPrice" : 365.2331
+}, {
+  "stock" : "BCO",
+  "date" : [ 2020, 12, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 68.77,
+  "spyPrice" : 364.4664
+}, {
+  "stock" : "IMMR",
+  "date" : [ 2020, 11, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.67,
+  "spyPrice" : 361.1207
+}, {
+  "stock" : "XPER",
+  "date" : [ 2020, 11, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.9601,
+  "spyPrice" : 355.9427
+}, {
+  "stock" : "SWIR",
+  "date" : [ 2020, 11, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.03,
+  "spyPrice" : 354.7677
+}, {
+  "stock" : "SNCR",
+  "date" : [ 2020, 11, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.83,
+  "spyPrice" : 359.0893
+}, {
+  "stock" : "APPS",
+  "date" : [ 2020, 11, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.66,
+  "spyPrice" : 355.1561
+}, {
+  "stock" : "PAVM",
+  "date" : [ 2020, 10, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.79,
+  "spyPrice" : 325.154
+}, {
+  "stock" : "ZYXI",
+  "date" : [ 2020, 10, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.14,
+  "spyPrice" : 337.9494
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2020, 10, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.26,
+  "spyPrice" : 337.9494
+}, {
+  "stock" : "CNDT",
+  "date" : [ 2020, 10, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.68,
+  "spyPrice" : 341.9225
+}, {
+  "stock" : "UMC",
+  "date" : [ 2020, 10, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.6,
+  "spyPrice" : 350.9341
+}, {
+  "stock" : "ENTG",
+  "date" : [ 2020, 10, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 78.8183,
+  "spyPrice" : 338.3179
+}, {
+  "stock" : "MTBC",
+  "date" : [ 2020, 10, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.75,
+  "spyPrice" : 335.6094
+}, {
+  "stock" : "SMLR",
+  "date" : [ 2020, 9, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.0,
+  "spyPrice" : 332.7715
+}, {
+  "stock" : "ENLC",
+  "date" : [ 2020, 9, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.4402,
+  "spyPrice" : 325.5822
+}, {
+  "stock" : "EDAP",
+  "date" : [ 2020, 9, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.93,
+  "spyPrice" : 336.0365
+}, {
+  "stock" : "ISDR",
+  "date" : [ 2020, 9, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.12,
+  "spyPrice" : 335.6795
+}, {
+  "stock" : "PERI",
+  "date" : [ 2020, 9, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.02,
+  "spyPrice" : 330.4726
+}, {
+  "stock" : "ELTK",
+  "date" : [ 2020, 9, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.1,
+  "spyPrice" : 349.7033
+}, {
+  "stock" : "KOPN",
+  "date" : [ 2020, 8, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.525,
+  "spyPrice" : 345.4684
+}, {
+  "stock" : "FORM",
+  "date" : [ 2020, 8, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.73,
+  "spyPrice" : 336.6911
+}, {
+  "stock" : "FLGT",
+  "date" : [ 2020, 8, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 50.51,
+  "spyPrice" : 335.5009
+}, {
+  "stock" : "APPS",
+  "date" : [ 2020, 8, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 25.09,
+  "spyPrice" : 334.0629
+}, {
+  "stock" : "IVAC",
+  "date" : [ 2020, 8, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.93,
+  "spyPrice" : 332.8132
+}, {
+  "stock" : "AVID",
+  "date" : [ 2020, 8, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.12,
+  "spyPrice" : 331.5834
+}, {
+  "stock" : "CRNT",
+  "date" : [ 2020, 8, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.72,
+  "spyPrice" : 329.3816
+}, {
+  "stock" : "SKX",
+  "date" : [ 2020, 7, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.38,
+  "spyPrice" : 320.5647
+}, {
+  "stock" : "AEHR",
+  "date" : [ 2020, 7, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.1,
+  "spyPrice" : 322.34
+}, {
+  "stock" : "INVE",
+  "date" : [ 2020, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.2,
+  "spyPrice" : 318.1546
+}, {
+  "stock" : "SYNA",
+  "date" : [ 2020, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 68.44,
+  "spyPrice" : 318.1546
+}, {
+  "stock" : "JCOM",
+  "date" : [ 2020, 7, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 56.25,
+  "spyPrice" : 316.3
+}, {
+  "stock" : "RDCM",
+  "date" : [ 2020, 7, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.79,
+  "spyPrice" : 312.2535
+}, {
+  "stock" : "NH",
+  "date" : [ 2020, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.21,
+  "spyPrice" : 314.9809
+}, {
+  "stock" : "NEWR",
+  "date" : [ 2020, 7, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 67.51,
+  "spyPrice" : 313.5825
+}, {
+  "stock" : "MASI",
+  "date" : [ 2020, 7, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 233.89,
+  "spyPrice" : 311.2022
+}, {
+  "stock" : "TUFN",
+  "date" : [ 2020, 7, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.08,
+  "spyPrice" : 314.4454
+}, {
+  "stock" : "MX",
+  "date" : [ 2020, 7, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.34,
+  "spyPrice" : 314.4454
+}, {
+  "stock" : "DUOT",
+  "date" : [ 2020, 7, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.725,
+  "spyPrice" : 309.6649
+}, {
+  "stock" : "CAMP",
+  "date" : [ 2020, 7, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.93,
+  "spyPrice" : 307.969
+}, {
+  "stock" : "ATOM",
+  "date" : [ 2020, 6, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.9,
+  "spyPrice" : 301.9588
+}, {
+  "stock" : "LIQT",
+  "date" : [ 2020, 6, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.32,
+  "spyPrice" : 297.585
+}, {
+  "stock" : "OPRX",
+  "date" : [ 2020, 6, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.16,
+  "spyPrice" : 309.4864
+}, {
+  "stock" : "JKS",
+  "date" : [ 2020, 6, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.9,
+  "spyPrice" : 309.4864
+}, {
+  "stock" : "XPER",
+  "date" : [ 2020, 6, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.4421,
+  "spyPrice" : 308.0682
+}, {
+  "stock" : "RADA",
+  "date" : [ 2020, 6, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.32,
+  "spyPrice" : 309.0288
+}, {
+  "stock" : "SMLR",
+  "date" : [ 2020, 6, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.0,
+  "spyPrice" : 303.1931
+}, {
+  "stock" : "INS",
+  "date" : [ 2020, 6, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 33.54,
+  "spyPrice" : 303.1931
+}, {
+  "stock" : "FLGT",
+  "date" : [ 2020, 6, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.2,
+  "spyPrice" : 296.834
+}, {
+  "stock" : "APPS",
+  "date" : [ 2020, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.51,
+  "spyPrice" : 319.1402
+}, {
+  "stock" : "RLGY",
+  "date" : [ 2020, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.24,
+  "spyPrice" : 319.1402
+}, {
+  "stock" : "SSTI",
+  "date" : [ 2020, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.95,
+  "spyPrice" : 319.1402
+}, {
+  "stock" : "LITE",
+  "date" : [ 2020, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 78.15,
+  "spyPrice" : 319.1402
+}, {
+  "stock" : "INTZ",
+  "date" : [ 2020, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.7,
+  "spyPrice" : 319.1402
+}, {
+  "stock" : "KRMD",
+  "date" : [ 2020, 6, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.12,
+  "spyPrice" : 307.4489
+}, {
+  "stock" : "MIND",
+  "date" : [ 2020, 6, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.68,
+  "spyPrice" : 304.2101
+}, {
+  "stock" : "PAVM",
+  "date" : [ 2020, 5, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.99,
+  "spyPrice" : 300.4974
+}, {
+  "stock" : "RNWK",
+  "date" : [ 2020, 5, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.73,
+  "spyPrice" : 299.7173
+}, {
+  "stock" : "RAMP",
+  "date" : [ 2020, 5, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.15,
+  "spyPrice" : 295.3232
+}, {
+  "stock" : "TLND",
+  "date" : [ 2020, 5, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 30.74,
+  "spyPrice" : 291.176
+}, {
+  "stock" : "EDAP",
+  "date" : [ 2020, 5, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.175,
+  "spyPrice" : 288.3025
+}, {
+  "stock" : "USIO",
+  "date" : [ 2020, 5, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.73,
+  "spyPrice" : 288.3025
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2020, 5, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.88,
+  "spyPrice" : 291.2944
+}, {
+  "stock" : "ESPR",
+  "date" : [ 2020, 5, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.31,
+  "spyPrice" : 291.2944
+}, {
+  "stock" : "CEVA",
+  "date" : [ 2020, 5, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 31.72,
+  "spyPrice" : 282.684
+}, {
+  "stock" : "PAR",
+  "date" : [ 2020, 5, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.16,
+  "spyPrice" : 278.0628
+}, {
+  "stock" : "MGNI",
+  "date" : [ 2020, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.02,
+  "spyPrice" : 288.8258
+}, {
+  "stock" : "INSG",
+  "date" : [ 2020, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.19,
+  "spyPrice" : 288.8258
+}, {
+  "stock" : "EVER",
+  "date" : [ 2020, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.72,
+  "spyPrice" : 288.8258
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2020, 5, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.3,
+  "spyPrice" : 280.6795
+}, {
+  "stock" : "APPN",
+  "date" : [ 2020, 5, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.52,
+  "spyPrice" : 282.5951
+}, {
+  "stock" : "ZYXI",
+  "date" : [ 2020, 5, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.35,
+  "spyPrice" : 280.008
+}, {
+  "stock" : "TUFN",
+  "date" : [ 2020, 4, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.62,
+  "spyPrice" : 286.8312
+}, {
+  "stock" : "MLSS",
+  "date" : [ 2020, 4, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.58,
+  "spyPrice" : 282.1409
+}, {
+  "stock" : "EDU",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 120.04,
+  "spyPrice" : 283.4443
+}, {
+  "stock" : "DUOT",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.45,
+  "spyPrice" : 283.4443
+}, {
+  "stock" : "AVID",
+  "date" : [ 2020, 4, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.19,
+  "spyPrice" : 269.6103
+}, {
+  "stock" : "AEHR",
+  "date" : [ 2020, 4, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.58,
+  "spyPrice" : 275.5942
+}, {
+  "stock" : "NOW",
+  "date" : [ 2020, 4, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 291.94,
+  "spyPrice" : 275.5942
+}, {
+  "stock" : "SYNC",
+  "date" : [ 2020, 4, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.34,
+  "spyPrice" : 274.271
+}, {
+  "stock" : "USIO",
+  "date" : [ 2020, 4, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.21,
+  "spyPrice" : 280.2253
+}, {
+  "stock" : "LTRX",
+  "date" : [ 2020, 4, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.68,
+  "spyPrice" : 280.2253
+}, {
+  "stock" : "PAYS",
+  "date" : [ 2020, 4, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.61,
+  "spyPrice" : 272.1974
+}, {
+  "stock" : "EYPT",
+  "date" : [ 2020, 4, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.4,
+  "spyPrice" : 270.5879
+}, {
+  "stock" : "FLGT",
+  "date" : [ 2020, 4, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.89,
+  "spyPrice" : 261.533
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2020, 3, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.5,
+  "spyPrice" : 254.5124
+}, {
+  "stock" : "PAR",
+  "date" : [ 2020, 3, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.6,
+  "spyPrice" : 257.919
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2020, 3, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.86,
+  "spyPrice" : 292.007
+}, {
+  "stock" : "EVER",
+  "date" : [ 2020, 3, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.19,
+  "spyPrice" : 294.736
+}, {
+  "stock" : "FVRR",
+  "date" : [ 2020, 2, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.06,
+  "spyPrice" : 292.0561
+}, {
+  "stock" : "ISR",
+  "date" : [ 2020, 2, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.8312,
+  "spyPrice" : 316.5094
+}, {
+  "stock" : "RNG",
+  "date" : [ 2020, 2, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 248.79,
+  "spyPrice" : 332.1376
+}, {
+  "stock" : "INS",
+  "date" : [ 2020, 2, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.86,
+  "spyPrice" : 330.5571
+}, {
+  "stock" : "ATOM",
+  "date" : [ 2020, 2, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.38,
+  "spyPrice" : 330.5571
+}, {
+  "stock" : "APPS",
+  "date" : [ 2020, 2, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.77,
+  "spyPrice" : 331.4112
+}, {
+  "stock" : "RAMP",
+  "date" : [ 2020, 2, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.04,
+  "spyPrice" : 331.4112
+}, {
+  "stock" : "MJCO",
+  "date" : [ 2020, 2, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.33,
+  "spyPrice" : 329.1141
+}, {
+  "stock" : "EDU",
+  "date" : [ 2020, 2, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 135.19,
+  "spyPrice" : 328.5447
+}, {
+  "stock" : "USIO",
+  "date" : [ 2020, 2, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.721,
+  "spyPrice" : 326.1102
+}, {
+  "stock" : "CVV",
+  "date" : [ 2020, 2, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.0,
+  "spyPrice" : 327.8575
+}, {
+  "stock" : "NSSC",
+  "date" : [ 2020, 2, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.11,
+  "spyPrice" : 327.8575
+}, {
+  "stock" : "AGYS",
+  "date" : [ 2020, 2, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 34.155,
+  "spyPrice" : 323.0277
+}, {
+  "stock" : "CASA",
+  "date" : [ 2020, 2, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.82,
+  "spyPrice" : 323.0277
+}, {
+  "stock" : "RLGY",
+  "date" : [ 2020, 1, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.59,
+  "spyPrice" : 315.8321
+}, {
+  "stock" : "RADA",
+  "date" : [ 2020, 1, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.82,
+  "spyPrice" : 321.673
+}, {
+  "stock" : "KRMD",
+  "date" : [ 2020, 1, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.08,
+  "spyPrice" : 317.5696
+}, {
+  "stock" : "PWFL",
+  "date" : [ 2020, 1, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.54,
+  "spyPrice" : 317.5696
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2020, 1, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.02,
+  "spyPrice" : 325.2267
+}, {
+  "stock" : "CEVA",
+  "date" : [ 2020, 1, 21 ],
+  "sellDate" : [ 2020, 2, 21 ],
+  "sellPrice" : 33.25,
+  "price" : 29.28,
+  "spyPrice" : 325.2267
+}, {
+  "stock" : "FPAY",
+  "date" : [ 2020, 1, 16 ],
+  "sellDate" : [ 2020, 7, 27 ],
+  "sellPrice" : 1.51,
+  "price" : 2.5,
+  "spyPrice" : 324.8536
+}, {
+  "stock" : "PERI",
+  "date" : [ 2020, 1, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.95,
+  "spyPrice" : 322.1737
+}, {
+  "stock" : "CAMP",
+  "date" : [ 2020, 1, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.125,
+  "spyPrice" : 321.9381
+}, {
+  "stock" : "LTRX",
+  "date" : [ 2020, 1, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.81,
+  "spyPrice" : 320.6619
+}, {
+  "stock" : "WSTL",
+  "date" : [ 2020, 1, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.99,
+  "spyPrice" : 317.7071
+}, {
+  "stock" : "EVER",
+  "date" : [ 2020, 1, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 30.56,
+  "spyPrice" : 317.7071
+}, {
+  "stock" : "RBBN",
+  "date" : [ 2020, 1, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.15,
+  "spyPrice" : 316.4996
+}, {
+  "stock" : "ZM",
+  "date" : [ 2020, 1, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 68.72,
+  "spyPrice" : 318.9145
+}, {
+  "stock" : "TDOC",
+  "date" : [ 2019, 12, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 83.72,
+  "spyPrice" : 315.9597
+}, {
+  "stock" : "NEOS",
+  "date" : [ 2019, 12, 30 ],
+  "sellDate" : [ 2020, 7, 15 ],
+  "sellPrice" : 0.635,
+  "price" : 1.52,
+  "spyPrice" : 315.194
+}, {
+  "stock" : "SAMOF",
+  "date" : [ 2019, 12, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.9,
+  "spyPrice" : 316.9414
+}, {
+  "stock" : "TLRA",
+  "date" : [ 2019, 12, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.01,
+  "spyPrice" : 316.9414
+}, {
+  "stock" : "MGNI",
+  "date" : [ 2019, 12, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.38,
+  "spyPrice" : 316.9414
+}, {
+  "stock" : "TDOC",
+  "date" : [ 2019, 12, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 79.27,
+  "spyPrice" : 312.1769
+}, {
+  "stock" : "IOTS",
+  "date" : [ 2019, 12, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.47,
+  "spyPrice" : 312.1085
+}, {
+  "stock" : "BOXL",
+  "date" : [ 2019, 12, 11 ],
+  "sellDate" : [ 2020, 7, 17 ],
+  "sellPrice" : 3.67,
+  "price" : 1.33,
+  "spyPrice" : 307.146
+}, {
+  "stock" : "HUBS",
+  "date" : [ 2019, 12, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 152.64,
+  "spyPrice" : 306.2766
+}, {
+  "stock" : "ISR",
+  "date" : [ 2019, 12, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.6824,
+  "spyPrice" : 306.6185
+}, {
+  "stock" : "PAVM",
+  "date" : [ 2019, 12, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.8762,
+  "spyPrice" : 306.6185
+}, {
+  "stock" : "LITE",
+  "date" : [ 2019, 12, 9 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 69.68,
+  "spyPrice" : 306.6185
+}, {
+  "stock" : "FOMX",
+  "date" : [ 2019, 12, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.99,
+  "spyPrice" : 304.8015
+}, {
+  "stock" : "VYNE",
+  "date" : [ 2019, 12, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.13,
+  "spyPrice" : 304.8015
+}, {
+  "stock" : "EYPT",
+  "date" : [ 2019, 12, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.7,
+  "spyPrice" : 302.3887
+}, {
+  "stock" : "ASUR",
+  "date" : [ 2019, 12, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.08,
+  "spyPrice" : 304.4303
+}, {
+  "stock" : "RAMP",
+  "date" : [ 2019, 11, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 50.09,
+  "spyPrice" : 307.0386
+}, {
+  "stock" : "BZUN",
+  "date" : [ 2019, 11, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.87,
+  "spyPrice" : 306.8139
+}, {
+  "stock" : "ATOM",
+  "date" : [ 2019, 11, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.02,
+  "spyPrice" : 306.1203
+}, {
+  "stock" : "ARLO",
+  "date" : [ 2019, 11, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.88,
+  "spyPrice" : 306.1203
+}, {
+  "stock" : "TLND",
+  "date" : [ 2019, 11, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 37.94,
+  "spyPrice" : 303.7661
+}, {
+  "stock" : "MLSS",
+  "date" : [ 2019, 11, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.08,
+  "spyPrice" : 303.5804
+}, {
+  "stock" : "RMBL",
+  "date" : [ 2019, 11, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 30.8,
+  "spyPrice" : 304.7136
+}, {
+  "stock" : "TUFN",
+  "date" : [ 2019, 11, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.33,
+  "spyPrice" : 304.8015
+}, {
+  "stock" : "BEST",
+  "date" : [ 2019, 11, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.8,
+  "spyPrice" : 304.8015
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2019, 11, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.25,
+  "spyPrice" : 304.5768
+}, {
+  "stock" : "FIVN",
+  "date" : [ 2019, 11, 14 ],
+  "sellDate" : [ 2020, 2, 24 ],
+  "sellPrice" : 72.29,
+  "price" : 63.32,
+  "spyPrice" : 302.3887
+}, {
+  "stock" : "FLGT",
+  "date" : [ 2019, 11, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.66,
+  "spyPrice" : 301.8514
+}, {
+  "stock" : "PERI",
+  "date" : [ 2019, 11, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.29,
+  "spyPrice" : 301.2164
+}, {
+  "stock" : "PAR",
+  "date" : [ 2019, 11, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 30.23,
+  "spyPrice" : 301.2164
+}, {
+  "stock" : "PAYS",
+  "date" : [ 2019, 11, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.62,
+  "spyPrice" : 301.2164
+}, {
+  "stock" : "TLRA",
+  "date" : [ 2019, 11, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.28,
+  "spyPrice" : 301.7928
+}, {
+  "stock" : "ESGC",
+  "date" : [ 2019, 11, 6 ],
+  "sellDate" : [ 2020, 4, 7 ],
+  "sellPrice" : 1.53,
+  "price" : 2.33,
+  "spyPrice" : 299.9954
+}, {
+  "stock" : "INS",
+  "date" : [ 2019, 11, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.19,
+  "spyPrice" : 299.9954
+}, {
+  "stock" : "CRNT",
+  "date" : [ 2019, 11, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.8,
+  "spyPrice" : 299.9954
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2019, 11, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1801.71,
+  "spyPrice" : 299.927
+}, {
+  "stock" : "ZBRA",
+  "date" : [ 2019, 11, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 248.35,
+  "spyPrice" : 300.2591
+}, {
+  "stock" : "IVAC",
+  "date" : [ 2019, 10, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.78,
+  "spyPrice" : 296.3126
+}, {
+  "stock" : "ILMN",
+  "date" : [ 2019, 10, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 304.06,
+  "spyPrice" : 296.2833
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2019, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.7,
+  "spyPrice" : 294.6226
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2019, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.22,
+  "spyPrice" : 294.6226
+}, {
+  "stock" : "PERI",
+  "date" : [ 2019, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.4,
+  "spyPrice" : 294.6226
+}, {
+  "stock" : "AYX",
+  "date" : [ 2019, 10, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 92.87,
+  "spyPrice" : 293.0498
+}, {
+  "stock" : "MCHX",
+  "date" : [ 2019, 10, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.25,
+  "spyPrice" : 293.0498
+}, {
+  "stock" : "MASI",
+  "date" : [ 2019, 10, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 148.0,
+  "spyPrice" : 292.3563
+}, {
+  "stock" : "RADA",
+  "date" : [ 2019, 10, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.94,
+  "spyPrice" : 289.1033
+}, {
+  "stock" : "FIVN",
+  "date" : [ 2019, 10, 11 ],
+  "sellDate" : [ 2020, 2, 24 ],
+  "sellPrice" : 72.29,
+  "price" : 55.58,
+  "spyPrice" : 289.4257
+}, {
+  "stock" : "ZYXI",
+  "date" : [ 2019, 10, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.42,
+  "spyPrice" : 281.855
+}, {
+  "stock" : "EDAP",
+  "date" : [ 2019, 10, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.5983,
+  "spyPrice" : 286.2997
+}, {
+  "stock" : "MLSS",
+  "date" : [ 2019, 10, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.798,
+  "spyPrice" : 283.7012
+}, {
+  "stock" : "APPS",
+  "date" : [ 2019, 10, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.05,
+  "spyPrice" : 281.3958
+}, {
+  "stock" : "INTZ",
+  "date" : [ 2019, 9, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.37,
+  "spyPrice" : 289.9043
+}, {
+  "stock" : "TUFN",
+  "date" : [ 2019, 9, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.46,
+  "spyPrice" : 289.9043
+}, {
+  "stock" : "REFR",
+  "date" : [ 2019, 9, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.72,
+  "spyPrice" : 290.129
+}, {
+  "stock" : "ZBRA",
+  "date" : [ 2019, 9, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 203.98,
+  "spyPrice" : 289.0252
+}, {
+  "stock" : "BOXL",
+  "date" : [ 2019, 9, 23 ],
+  "sellDate" : [ 2020, 7, 17 ],
+  "sellPrice" : 3.67,
+  "price" : 1.9,
+  "spyPrice" : 291.311
+}, {
+  "stock" : "PAYS",
+  "date" : [ 2019, 9, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.72,
+  "spyPrice" : 291.3794
+}, {
+  "stock" : "WIFI",
+  "date" : [ 2019, 9, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.89,
+  "spyPrice" : 292.763
+}, {
+  "stock" : "TPL",
+  "date" : [ 2019, 9, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 649.5758,
+  "spyPrice" : 292.6074
+}, {
+  "stock" : "SIMO",
+  "date" : [ 2019, 9, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.6964,
+  "spyPrice" : 291.8684
+}, {
+  "stock" : "NSSC",
+  "date" : [ 2019, 9, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.56,
+  "spyPrice" : 292.7727
+}, {
+  "stock" : "MGNI",
+  "date" : [ 2019, 9, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.39,
+  "spyPrice" : 292.9672
+}, {
+  "stock" : "RMBL",
+  "date" : [ 2019, 9, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 61.4,
+  "spyPrice" : 291.9559
+}, {
+  "stock" : "LVGO",
+  "date" : [ 2019, 9, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.47,
+  "spyPrice" : 289.9626
+}, {
+  "stock" : "RAMP",
+  "date" : [ 2019, 9, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.83,
+  "spyPrice" : 289.8167
+}, {
+  "stock" : "INFU",
+  "date" : [ 2019, 9, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.05,
+  "spyPrice" : 289.8167
+}, {
+  "stock" : "YEXT",
+  "date" : [ 2019, 9, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.4,
+  "spyPrice" : 285.9175
+}, {
+  "stock" : "AGT",
+  "date" : [ 2019, 9, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.6034,
+  "spyPrice" : 282.7086
+}, {
+  "stock" : "ITI",
+  "date" : [ 2019, 8, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.28,
+  "spyPrice" : 280.9097
+}, {
+  "stock" : "LITE",
+  "date" : [ 2019, 8, 26 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 56.09,
+  "spyPrice" : 280.0443
+}, {
+  "stock" : "IOTS",
+  "date" : [ 2019, 8, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.36,
+  "spyPrice" : 282.0766
+}, {
+  "stock" : "EYPT",
+  "date" : [ 2019, 8, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.7,
+  "spyPrice" : 284.2547
+}, {
+  "stock" : "ASUR",
+  "date" : [ 2019, 8, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.42,
+  "spyPrice" : 280.8709
+}, {
+  "stock" : "INSG",
+  "date" : [ 2019, 8, 15 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 3.91,
+  "spyPrice" : 276.7869
+}, {
+  "stock" : "PAR",
+  "date" : [ 2019, 8, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.01,
+  "spyPrice" : 280.161
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 8, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.96,
+  "spyPrice" : 283.5643
+}, {
+  "stock" : "TLRA",
+  "date" : [ 2019, 8, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.32,
+  "spyPrice" : 283.5643
+}, {
+  "stock" : "INS",
+  "date" : [ 2019, 8, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.93,
+  "spyPrice" : 285.5091
+}, {
+  "stock" : "OESX",
+  "date" : [ 2019, 8, 8 ],
+  "sellDate" : [ 2019, 11, 12 ],
+  "sellPrice" : 2.93,
+  "price" : 3.08,
+  "spyPrice" : 285.5091
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2019, 8, 6 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 4.06,
+  "spyPrice" : 279.8499
+}, {
+  "stock" : "IVAC",
+  "date" : [ 2019, 8, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.055,
+  "spyPrice" : 275.9798
+}, {
+  "stock" : "ZYXI",
+  "date" : [ 2019, 8, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.75,
+  "spyPrice" : 275.9798
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2019, 8, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.76,
+  "spyPrice" : 286.6954
+}, {
+  "stock" : "AMSSY",
+  "date" : [ 2019, 7, 30 ],
+  "sellDate" : [ 2020, 4, 1 ],
+  "sellPrice" : 7.11,
+  "price" : 28.285,
+  "spyPrice" : 292.413
+}, {
+  "stock" : "EBIX",
+  "date" : [ 2019, 7, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.5794,
+  "spyPrice" : 293.1325
+}, {
+  "stock" : "SKX",
+  "date" : [ 2019, 7, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.47,
+  "spyPrice" : 291.7128
+}, {
+  "stock" : "MIME",
+  "date" : [ 2019, 7, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.33,
+  "spyPrice" : 293.1131
+}, {
+  "stock" : "CVRS",
+  "date" : [ 2019, 7, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.67,
+  "spyPrice" : 291.742
+}, {
+  "stock" : "GIII",
+  "date" : [ 2019, 7, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.51,
+  "spyPrice" : 289.6709
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2019, 7, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.23,
+  "spyPrice" : 288.961
+}, {
+  "stock" : "NEWR",
+  "date" : [ 2019, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 89.15,
+  "spyPrice" : 291.4309
+}, {
+  "stock" : "THMO",
+  "date" : [ 2019, 7, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.56,
+  "spyPrice" : 291.0419
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2019, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.27,
+  "spyPrice" : 290.3612
+}, {
+  "stock" : "ACIA",
+  "date" : [ 2019, 7, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.06,
+  "spyPrice" : 288.6207
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2019, 7, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.71,
+  "spyPrice" : 290.2154
+}, {
+  "stock" : "JKS",
+  "date" : [ 2019, 7, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.77,
+  "spyPrice" : 288.2415
+}, {
+  "stock" : "CAMP",
+  "date" : [ 2019, 7, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.49,
+  "spyPrice" : 287.4927
+}, {
+  "stock" : "FIVN",
+  "date" : [ 2019, 7, 1 ],
+  "sellDate" : [ 2020, 2, 24 ],
+  "sellPrice" : 72.29,
+  "price" : 52.09,
+  "spyPrice" : 287.4927
+}, {
+  "stock" : "YEXT",
+  "date" : [ 2019, 6, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.97,
+  "spyPrice" : 282.4461
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 6, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.51,
+  "spyPrice" : 282.7281
+}, {
+  "stock" : "TUFN",
+  "date" : [ 2019, 6, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.54,
+  "spyPrice" : 282.7281
+}, {
+  "stock" : "SWIR",
+  "date" : [ 2019, 6, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.85,
+  "spyPrice" : 285.5285
+}, {
+  "stock" : "AMRC",
+  "date" : [ 2019, 6, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.38,
+  "spyPrice" : 283.5856
+}, {
+  "stock" : "FSI",
+  "date" : [ 2019, 6, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.0391,
+  "spyPrice" : 282.947
+}, {
+  "stock" : "INVE",
+  "date" : [ 2019, 6, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.73,
+  "spyPrice" : 280.0149
+}, {
+  "stock" : "XPEL",
+  "date" : [ 2019, 6, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.9,
+  "spyPrice" : 279.9085
+}, {
+  "stock" : "RMBL",
+  "date" : [ 2019, 6, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 90.0,
+  "spyPrice" : 280.2181
+}, {
+  "stock" : "PAYS",
+  "date" : [ 2019, 6, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.44,
+  "spyPrice" : 279.5601
+}, {
+  "stock" : "ZYXI",
+  "date" : [ 2019, 6, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.43,
+  "spyPrice" : 279.6279
+}, {
+  "stock" : "OESX",
+  "date" : [ 2019, 6, 7 ],
+  "sellDate" : [ 2019, 11, 12 ],
+  "sellPrice" : 2.93,
+  "price" : 2.69,
+  "spyPrice" : 278.3505
+}, {
+  "stock" : "ATOM",
+  "date" : [ 2019, 6, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.58,
+  "spyPrice" : 275.5927
+}, {
+  "stock" : "CRNT",
+  "date" : [ 2019, 6, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.98,
+  "spyPrice" : 271.4607
+}, {
+  "stock" : "INSG",
+  "date" : [ 2019, 6, 3 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 4.78,
+  "spyPrice" : 265.6934
+}, {
+  "stock" : "PAR",
+  "date" : [ 2019, 5, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.11,
+  "spyPrice" : 266.3708
+}, {
+  "stock" : "RAMP",
+  "date" : [ 2019, 5, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 51.38,
+  "spyPrice" : 266.3708
+}, {
+  "stock" : "TLRA",
+  "date" : [ 2019, 5, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.86,
+  "spyPrice" : 273.0187
+}, {
+  "stock" : "IVAC",
+  "date" : [ 2019, 5, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.54,
+  "spyPrice" : 276.3958
+}, {
+  "stock" : "TDOC",
+  "date" : [ 2019, 5, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 63.18,
+  "spyPrice" : 277.2474
+}, {
+  "stock" : "BOXL",
+  "date" : [ 2019, 5, 20 ],
+  "sellDate" : [ 2020, 7, 17 ],
+  "sellPrice" : 3.67,
+  "price" : 3.56,
+  "spyPrice" : 274.7702
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2019, 5, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.22,
+  "spyPrice" : 276.5991
+}, {
+  "stock" : "COHU",
+  "date" : [ 2019, 5, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.415,
+  "spyPrice" : 275.8443
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.39,
+  "spyPrice" : 274.2379
+}, {
+  "stock" : "MVIS",
+  "date" : [ 2019, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.8224,
+  "spyPrice" : 274.2379
+}, {
+  "stock" : "DBD",
+  "date" : [ 2019, 5, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.72,
+  "spyPrice" : 271.7801
+}, {
+  "stock" : "AYX",
+  "date" : [ 2019, 5, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 90.05,
+  "spyPrice" : 278.6215
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 5, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.18,
+  "spyPrice" : 283.3534
+}, {
+  "stock" : "ASUR",
+  "date" : [ 2019, 5, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.93,
+  "spyPrice" : 284.5243
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2019, 4, 29 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 5.08,
+  "spyPrice" : 284.3695
+}, {
+  "stock" : "AMSSY",
+  "date" : [ 2019, 4, 29 ],
+  "sellDate" : [ 2020, 4, 1 ],
+  "sellPrice" : 7.11,
+  "price" : 17.129,
+  "spyPrice" : 284.3695
+}, {
+  "stock" : "ZBRA",
+  "date" : [ 2019, 4, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 231.41,
+  "spyPrice" : 282.6083
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2019, 4, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.4,
+  "spyPrice" : 280.8858
+}, {
+  "stock" : "SKX",
+  "date" : [ 2019, 4, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.77,
+  "spyPrice" : 280.8858
+}, {
+  "stock" : "TGLS",
+  "date" : [ 2019, 4, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.6096,
+  "spyPrice" : 280.8858
+}, {
+  "stock" : "SOGO",
+  "date" : [ 2019, 4, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.42,
+  "spyPrice" : 280.6439
+}, {
+  "stock" : "EBIX",
+  "date" : [ 2019, 4, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.1909,
+  "spyPrice" : 280.5955
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 4, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.15,
+  "spyPrice" : 278.8924
+}, {
+  "stock" : "CLDR",
+  "date" : [ 2019, 4, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.63,
+  "spyPrice" : 278.9698
+}, {
+  "stock" : "FLGT",
+  "date" : [ 2019, 4, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.77,
+  "spyPrice" : 279.4537
+}, {
+  "stock" : "BOXL",
+  "date" : [ 2019, 4, 4 ],
+  "sellDate" : [ 2020, 7, 17 ],
+  "sellPrice" : 3.67,
+  "price" : 3.07,
+  "spyPrice" : 277.8957
+}, {
+  "stock" : "RNG",
+  "date" : [ 2019, 4, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 109.33,
+  "spyPrice" : 276.5894
+}, {
+  "stock" : "EGHT",
+  "date" : [ 2019, 3, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.2,
+  "spyPrice" : 273.3477
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 3, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.45,
+  "spyPrice" : 270.6092
+}, {
+  "stock" : "PVTL",
+  "date" : [ 2019, 3, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.75,
+  "spyPrice" : 272.0316
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2019, 3, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.81,
+  "spyPrice" : 270.0189
+}, {
+  "stock" : "PAR",
+  "date" : [ 2019, 3, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.5,
+  "spyPrice" : 275.5249
+}, {
+  "stock" : "INS",
+  "date" : [ 2019, 3, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.35,
+  "spyPrice" : 273.2703
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2019, 3, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.51,
+  "spyPrice" : 273.2025
+}, {
+  "stock" : "NNDM",
+  "date" : [ 2019, 3, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.5,
+  "spyPrice" : 273.2025
+}, {
+  "stock" : "TGNA",
+  "date" : [ 2019, 3, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.1687,
+  "spyPrice" : 271.0505
+}, {
+  "stock" : "BZUN",
+  "date" : [ 2019, 3, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.93,
+  "spyPrice" : 271.0505
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 3, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.17,
+  "spyPrice" : 268.2566
+}, {
+  "stock" : "INWK",
+  "date" : [ 2019, 3, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.86,
+  "spyPrice" : 268.2566
+}, {
+  "stock" : "CSLT",
+  "date" : [ 2019, 3, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.64,
+  "spyPrice" : 267.1872
+}, {
+  "stock" : "YETI",
+  "date" : [ 2019, 3, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.08,
+  "spyPrice" : 268.8154
+}, {
+  "stock" : "FIVN",
+  "date" : [ 2019, 3, 4 ],
+  "sellDate" : [ 2020, 2, 24 ],
+  "sellPrice" : 72.29,
+  "price" : 52.51,
+  "spyPrice" : 269.1815
+}, {
+  "stock" : "APPS",
+  "date" : [ 2019, 3, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.26,
+  "spyPrice" : 269.1815
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 2, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.06,
+  "spyPrice" : 268.9888
+}, {
+  "stock" : "RCM",
+  "date" : [ 2019, 2, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.11,
+  "spyPrice" : 269.1044
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2019, 2, 25 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 6.26,
+  "spyPrice" : 269.2971
+}, {
+  "stock" : "IIN",
+  "date" : [ 2019, 2, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.39,
+  "spyPrice" : 269.2971
+}, {
+  "stock" : "DXC",
+  "date" : [ 2019, 2, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 64.4739,
+  "spyPrice" : 264.0753
+}, {
+  "stock" : "PNTR",
+  "date" : [ 2019, 2, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.069,
+  "spyPrice" : 264.0753
+}, {
+  "stock" : "EGAN",
+  "date" : [ 2019, 2, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.69,
+  "spyPrice" : 260.7226
+}, {
+  "stock" : "SWKS",
+  "date" : [ 2019, 2, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 78.9989,
+  "spyPrice" : 260.7226
+}, {
+  "stock" : "LITE",
+  "date" : [ 2019, 2, 8 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 42.33,
+  "spyPrice" : 260.5781
+}, {
+  "stock" : "MTBC",
+  "date" : [ 2019, 2, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.41,
+  "spyPrice" : 262.765
+}, {
+  "stock" : "KEM",
+  "date" : [ 2019, 2, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.3599,
+  "spyPrice" : 262.0136
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2019, 2, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.64,
+  "spyPrice" : 260.1831
+}, {
+  "stock" : "FTNW",
+  "date" : [ 2019, 1, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.11,
+  "spyPrice" : 253.7763
+}, {
+  "stock" : "INSG",
+  "date" : [ 2019, 1, 28 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 5.2,
+  "spyPrice" : 254.1135
+}, {
+  "stock" : "JKS",
+  "date" : [ 2019, 1, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.76,
+  "spyPrice" : 254.1135
+}, {
+  "stock" : "EDU",
+  "date" : [ 2019, 1, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 77.49,
+  "spyPrice" : 256.0596
+}, {
+  "stock" : "SWIR",
+  "date" : [ 2019, 1, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.18,
+  "spyPrice" : 256.7147
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2019, 1, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.108,
+  "spyPrice" : 253.3427
+}, {
+  "stock" : "TWLO",
+  "date" : [ 2019, 1, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 97.76,
+  "spyPrice" : 247.9861
+}, {
+  "stock" : "SMTX",
+  "date" : [ 2019, 1, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.26,
+  "spyPrice" : 247.9861
+}, {
+  "stock" : "INS",
+  "date" : [ 2019, 1, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.1,
+  "spyPrice" : 247.9861
+}, {
+  "stock" : "MAXR",
+  "date" : [ 2019, 1, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.1508,
+  "spyPrice" : 249.4119
+}, {
+  "stock" : "TTMI",
+  "date" : [ 2019, 1, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.96,
+  "spyPrice" : 247.3791
+}, {
+  "stock" : "GL",
+  "date" : [ 2019, 1, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 76.6356,
+  "spyPrice" : 245.0765
+}, {
+  "stock" : "PVTL",
+  "date" : [ 2019, 1, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.53,
+  "spyPrice" : 235.2785
+}, {
+  "stock" : "MTLS",
+  "date" : [ 2018, 12, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.1,
+  "spyPrice" : 238.689
+}, {
+  "stock" : "ROKU",
+  "date" : [ 2018, 12, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 30.35,
+  "spyPrice" : 237.1764
+}, {
+  "stock" : "SPLK",
+  "date" : [ 2018, 12, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 91.85,
+  "spyPrice" : 231.8968
+}, {
+  "stock" : "EXFO",
+  "date" : [ 2018, 12, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.84,
+  "spyPrice" : 244.3237
+}, {
+  "stock" : "OKTA",
+  "date" : [ 2018, 12, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 60.45,
+  "spyPrice" : 244.5919
+}, {
+  "stock" : "PRTS",
+  "date" : [ 2018, 12, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.2563,
+  "spyPrice" : 254.266
+}, {
+  "stock" : "GV",
+  "date" : [ 2018, 12, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.38,
+  "spyPrice" : 254.266
+}, {
+  "stock" : "ADI",
+  "date" : [ 2018, 12, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 85.0977,
+  "spyPrice" : 252.9921
+}, {
+  "stock" : "MOMO",
+  "date" : [ 2018, 12, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.0449,
+  "spyPrice" : 252.9346
+}, {
+  "stock" : "SWKS",
+  "date" : [ 2018, 12, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 68.1587,
+  "spyPrice" : 258.4613
+}, {
+  "stock" : "IOTS",
+  "date" : [ 2018, 12, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.13,
+  "spyPrice" : 258.854
+}, {
+  "stock" : "YEXT",
+  "date" : [ 2018, 12, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.14,
+  "spyPrice" : 267.5224
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2018, 12, 3 ],
+  "sellDate" : [ 2019, 3, 18 ],
+  "sellPrice" : 42.99,
+  "price" : 42.35,
+  "spyPrice" : 267.5224
+}, {
+  "stock" : "WEX",
+  "date" : [ 2018, 11, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 154.97,
+  "spyPrice" : 264.0263
+}, {
+  "stock" : "TTGT",
+  "date" : [ 2018, 11, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.77,
+  "spyPrice" : 263.0015
+}, {
+  "stock" : "MTEX",
+  "date" : [ 2018, 11, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.7432,
+  "spyPrice" : 257.0821
+}, {
+  "stock" : "TPL",
+  "date" : [ 2018, 11, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 528.6363,
+  "spyPrice" : 256.22
+}, {
+  "stock" : "DXCM",
+  "date" : [ 2018, 11, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 121.61,
+  "spyPrice" : 253.8446
+}, {
+  "stock" : "INTZ",
+  "date" : [ 2018, 11, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.33,
+  "spyPrice" : 252.9825
+}, {
+  "stock" : "ZBRA",
+  "date" : [ 2018, 11, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 169.41,
+  "spyPrice" : 257.7525
+}, {
+  "stock" : "NNDM",
+  "date" : [ 2018, 11, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.0,
+  "spyPrice" : 257.7525
+}, {
+  "stock" : "YY",
+  "date" : [ 2018, 11, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 65.9689,
+  "spyPrice" : 257.7525
+}, {
+  "stock" : "MRIN",
+  "date" : [ 2018, 11, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.47,
+  "spyPrice" : 261.5072
+}, {
+  "stock" : "HUYA",
+  "date" : [ 2018, 11, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.65,
+  "spyPrice" : 258.8062
+}, {
+  "stock" : "TTD",
+  "date" : [ 2018, 11, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 116.51,
+  "spyPrice" : 258.8062
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2018, 11, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.59,
+  "spyPrice" : 261.0762
+}, {
+  "stock" : "AEHR",
+  "date" : [ 2018, 11, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.93,
+  "spyPrice" : 261.0762
+}, {
+  "stock" : "INSG",
+  "date" : [ 2018, 11, 8 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 4.0,
+  "spyPrice" : 268.6718
+}, {
+  "stock" : "PERI",
+  "date" : [ 2018, 11, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.93,
+  "spyPrice" : 269.1603
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2018, 11, 7 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 4.99,
+  "spyPrice" : 269.1603
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2018, 11, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 67.22,
+  "spyPrice" : 263.5187
+}, {
+  "stock" : "AMSSY",
+  "date" : [ 2018, 11, 5 ],
+  "sellDate" : [ 2020, 4, 1 ],
+  "sellPrice" : 7.11,
+  "price" : 20.0,
+  "spyPrice" : 261.8616
+}, {
+  "stock" : "LITE",
+  "date" : [ 2018, 11, 5 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 53.37,
+  "spyPrice" : 261.8616
+}, {
+  "stock" : "FORM",
+  "date" : [ 2018, 11, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.07,
+  "spyPrice" : 261.8616
+}, {
+  "stock" : "MJCO",
+  "date" : [ 2018, 11, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.74,
+  "spyPrice" : 260.4249
+}, {
+  "stock" : "JD",
+  "date" : [ 2018, 10, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.52,
+  "spyPrice" : 259.218
+}, {
+  "stock" : "ARLO",
+  "date" : [ 2018, 10, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.59,
+  "spyPrice" : 259.218
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2018, 10, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.4,
+  "spyPrice" : 252.7335
+}, {
+  "stock" : "VCEL",
+  "date" : [ 2018, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.19,
+  "spyPrice" : 258.6912
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2018, 10, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.91,
+  "spyPrice" : 254.1319
+}, {
+  "stock" : "SKX",
+  "date" : [ 2018, 10, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.25,
+  "spyPrice" : 263.4133
+}, {
+  "stock" : "WDAY",
+  "date" : [ 2018, 10, 22 ],
+  "sellDate" : [ 2018, 12, 24 ],
+  "sellPrice" : 142.41,
+  "price" : 129.72,
+  "spyPrice" : 263.4133
+}, {
+  "stock" : "NEWR",
+  "date" : [ 2018, 10, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 86.88,
+  "spyPrice" : 264.7447
+}, {
+  "stock" : "HIMX",
+  "date" : [ 2018, 10, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.15,
+  "spyPrice" : 268.6239
+}, {
+  "stock" : "CBLK",
+  "date" : [ 2018, 10, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.13,
+  "spyPrice" : 268.576
+}, {
+  "stock" : "CAMP",
+  "date" : [ 2018, 10, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.61,
+  "spyPrice" : 262.8291
+}, {
+  "stock" : "EXTR",
+  "date" : [ 2018, 10, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.82,
+  "spyPrice" : 260.6931
+}, {
+  "stock" : "SIMO",
+  "date" : [ 2018, 10, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.706,
+  "spyPrice" : 260.6931
+}, {
+  "stock" : "CY",
+  "date" : [ 2018, 10, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.1989,
+  "spyPrice" : 275.2809
+}, {
+  "stock" : "ENTG",
+  "date" : [ 2018, 10, 8 ],
+  "sellDate" : [ 2019, 2, 4 ],
+  "sellPrice" : 33.2938,
+  "price" : 27.0851,
+  "spyPrice" : 275.6832
+}, {
+  "stock" : "GILT",
+  "date" : [ 2018, 10, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.1318,
+  "spyPrice" : 275.6832
+}, {
+  "stock" : "BKYI",
+  "date" : [ 2018, 10, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.64,
+  "spyPrice" : 275.6832
+}, {
+  "stock" : "MJCO",
+  "date" : [ 2018, 10, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.0,
+  "spyPrice" : 277.2348
+}, {
+  "stock" : "ICHR",
+  "date" : [ 2018, 10, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.25,
+  "spyPrice" : 277.2348
+}, {
+  "stock" : "ICLK",
+  "date" : [ 2018, 10, 1 ],
+  "sellDate" : [ 2018, 12, 21 ],
+  "sellPrice" : 3.6,
+  "price" : 3.88,
+  "spyPrice" : 279.4283
+}, {
+  "stock" : "BOOM",
+  "date" : [ 2018, 9, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.0529,
+  "spyPrice" : 278.4321
+}, {
+  "stock" : "RAMP",
+  "date" : [ 2018, 9, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.08,
+  "spyPrice" : 277.6563
+}, {
+  "stock" : "MTEX",
+  "date" : [ 2018, 9, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.4347,
+  "spyPrice" : 278.4896
+}, {
+  "stock" : "TEUM",
+  "date" : [ 2018, 9, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.97,
+  "spyPrice" : 278.7482
+}, {
+  "stock" : "INOV",
+  "date" : [ 2018, 9, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.6,
+  "spyPrice" : 278.7482
+}, {
+  "stock" : "MGNI",
+  "date" : [ 2018, 9, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.92,
+  "spyPrice" : 279.9334
+}, {
+  "stock" : "SMSI",
+  "date" : [ 2018, 9, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.67,
+  "spyPrice" : 279.9334
+}, {
+  "stock" : "TNDM",
+  "date" : [ 2018, 9, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.18,
+  "spyPrice" : 275.8905
+}, {
+  "stock" : "INSG",
+  "date" : [ 2018, 9, 17 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 4.35,
+  "spyPrice" : 275.8905
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2018, 9, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.04,
+  "spyPrice" : 277.3589
+}, {
+  "stock" : "EGAN",
+  "date" : [ 2018, 9, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.05,
+  "spyPrice" : 275.614
+}, {
+  "stock" : "DXC",
+  "date" : [ 2018, 9, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 86.0627,
+  "spyPrice" : 274.7082
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2018, 9, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.1,
+  "spyPrice" : 274.7082
+}, {
+  "stock" : "IOTS",
+  "date" : [ 2018, 9, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.8,
+  "spyPrice" : 274.7082
+}, {
+  "stock" : "INSG",
+  "date" : [ 2018, 9, 6 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 3.68,
+  "spyPrice" : 274.7654
+}, {
+  "stock" : "NTNX",
+  "date" : [ 2018, 9, 6 ],
+  "sellDate" : [ 2019, 3, 4 ],
+  "sellPrice" : 33.51,
+  "price" : 51.41,
+  "spyPrice" : 274.7654
+}, {
+  "stock" : "MIXT",
+  "date" : [ 2018, 9, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.7707,
+  "spyPrice" : 276.3387
+}, {
+  "stock" : "JD",
+  "date" : [ 2018, 9, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.43,
+  "spyPrice" : 276.3387
+}, {
+  "stock" : "SMCI",
+  "date" : [ 2018, 8, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.51,
+  "spyPrice" : 276.8154
+}, {
+  "stock" : "IVAC",
+  "date" : [ 2018, 8, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.75,
+  "spyPrice" : 276.8059
+}, {
+  "stock" : "PAR",
+  "date" : [ 2018, 8, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.61,
+  "spyPrice" : 277.931
+}, {
+  "stock" : "AYX",
+  "date" : [ 2018, 8, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 56.64,
+  "spyPrice" : 277.931
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2018, 8, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.95,
+  "spyPrice" : 276.4436
+}, {
+  "stock" : "UI",
+  "date" : [ 2018, 8, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 82.6858,
+  "spyPrice" : 276.3101
+}, {
+  "stock" : "VIAV",
+  "date" : [ 2018, 8, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.47,
+  "spyPrice" : 274.1456
+}, {
+  "stock" : "KEM",
+  "date" : [ 2018, 8, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.3488,
+  "spyPrice" : 272.8679
+}, {
+  "stock" : "MX",
+  "date" : [ 2018, 8, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.25,
+  "spyPrice" : 273.03
+}, {
+  "stock" : "TRIP",
+  "date" : [ 2018, 8, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.8786,
+  "spyPrice" : 272.3911
+}, {
+  "stock" : "FIVN",
+  "date" : [ 2018, 8, 20 ],
+  "sellDate" : [ 2020, 2, 24 ],
+  "sellPrice" : 72.29,
+  "price" : 44.42,
+  "spyPrice" : 272.3911
+}, {
+  "stock" : "SSTI",
+  "date" : [ 2018, 8, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.7,
+  "spyPrice" : 272.3911
+}, {
+  "stock" : "SYNA",
+  "date" : [ 2018, 8, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.04,
+  "spyPrice" : 271.8095
+}, {
+  "stock" : "YY",
+  "date" : [ 2018, 8, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 72.9312,
+  "spyPrice" : 271.8095
+}, {
+  "stock" : "INTZ",
+  "date" : [ 2018, 8, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.01,
+  "spyPrice" : 270.8559
+}, {
+  "stock" : "BZUN",
+  "date" : [ 2018, 8, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.16,
+  "spyPrice" : 268.6819
+}, {
+  "stock" : "CSTE",
+  "date" : [ 2018, 8, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.6175,
+  "spyPrice" : 270.7034
+}, {
+  "stock" : "TTD",
+  "date" : [ 2018, 8, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 133.0,
+  "spyPrice" : 270.7034
+}, {
+  "stock" : "ROKU",
+  "date" : [ 2018, 8, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 55.38,
+  "spyPrice" : 268.9871
+}, {
+  "stock" : "TER",
+  "date" : [ 2018, 8, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.9962,
+  "spyPrice" : 269.9978
+}, {
+  "stock" : "INSG",
+  "date" : [ 2018, 8, 9 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 2.42,
+  "spyPrice" : 271.819
+}, {
+  "stock" : "WIFI",
+  "date" : [ 2018, 8, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.7,
+  "spyPrice" : 272.1909
+}, {
+  "stock" : "IIN",
+  "date" : [ 2018, 8, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 63.4,
+  "spyPrice" : 272.3053
+}, {
+  "stock" : "LOGM",
+  "date" : [ 2018, 8, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 82.3246,
+  "spyPrice" : 271.409
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2018, 8, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.773,
+  "spyPrice" : 271.409
+}, {
+  "stock" : "ACIA",
+  "date" : [ 2018, 8, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 37.38,
+  "spyPrice" : 271.409
+}, {
+  "stock" : "CRUS",
+  "date" : [ 2018, 8, 6 ],
+  "sellDate" : [ 2019, 5, 6 ],
+  "sellPrice" : 49.71,
+  "price" : 42.72,
+  "spyPrice" : 271.409
+}, {
+  "stock" : "ESIO",
+  "date" : [ 2018, 8, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.49,
+  "spyPrice" : 270.4173
+}, {
+  "stock" : "CY",
+  "date" : [ 2018, 8, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.9199,
+  "spyPrice" : 270.4173
+}, {
+  "stock" : "SOGO",
+  "date" : [ 2018, 8, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.45,
+  "spyPrice" : 267.8047
+}, {
+  "stock" : "TEAM",
+  "date" : [ 2018, 7, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 72.41,
+  "spyPrice" : 268.2528
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2018, 7, 30 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 4.99,
+  "spyPrice" : 266.937
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2018, 7, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 51.57,
+  "spyPrice" : 266.937
+}, {
+  "stock" : "UMC",
+  "date" : [ 2018, 7, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.5182,
+  "spyPrice" : 268.3387
+}, {
+  "stock" : "NVRO",
+  "date" : [ 2018, 7, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 55.86,
+  "spyPrice" : 268.3387
+}, {
+  "stock" : "NTGR",
+  "date" : [ 2018, 7, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 66.9,
+  "spyPrice" : 270.8083
+}, {
+  "stock" : "SWKS",
+  "date" : [ 2018, 7, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 90.3391,
+  "spyPrice" : 268.5198
+}, {
+  "stock" : "CSLT",
+  "date" : [ 2018, 7, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.5,
+  "spyPrice" : 268.5198
+}, {
+  "stock" : "CPAH",
+  "date" : [ 2018, 7, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.07,
+  "spyPrice" : 267.1754
+}, {
+  "stock" : "SKX",
+  "date" : [ 2018, 7, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.32,
+  "spyPrice" : 267.1754
+}, {
+  "stock" : "PTC",
+  "date" : [ 2018, 7, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 97.14,
+  "spyPrice" : 267.1754
+}, {
+  "stock" : "BLFS",
+  "date" : [ 2018, 7, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.12,
+  "spyPrice" : 266.9847
+}, {
+  "stock" : "APPN",
+  "date" : [ 2018, 7, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 33.58,
+  "spyPrice" : 267.4328
+}, {
+  "stock" : "FNKO",
+  "date" : [ 2018, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.69,
+  "spyPrice" : 266.3553
+}, {
+  "stock" : "NTIC",
+  "date" : [ 2018, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.3189,
+  "spyPrice" : 266.3553
+}, {
+  "stock" : "CVNA",
+  "date" : [ 2018, 7, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.1,
+  "spyPrice" : 266.5937
+}, {
+  "stock" : "ISR",
+  "date" : [ 2018, 7, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.62,
+  "spyPrice" : 266.384
+}, {
+  "stock" : "STAF",
+  "date" : [ 2018, 7, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.7627,
+  "spyPrice" : 263.9906
+}, {
+  "stock" : "SSTI",
+  "date" : [ 2018, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.31,
+  "spyPrice" : 265.9358
+}, {
+  "stock" : "RACE",
+  "date" : [ 2018, 7, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 134.2894,
+  "spyPrice" : 264.9823
+}, {
+  "stock" : "PAR",
+  "date" : [ 2018, 7, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.63,
+  "spyPrice" : 264.9823
+}, {
+  "stock" : "EGAN",
+  "date" : [ 2018, 7, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.95,
+  "spyPrice" : 262.6176
+}, {
+  "stock" : "RAMP",
+  "date" : [ 2018, 7, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.54,
+  "spyPrice" : 260.4149
+}, {
+  "stock" : "IPGP",
+  "date" : [ 2018, 7, 3 ],
+  "sellDate" : [ 2019, 8, 12 ],
+  "sellPrice" : 118.62,
+  "price" : 218.5,
+  "spyPrice" : 258.3077
+}, {
+  "stock" : "TXN",
+  "date" : [ 2018, 7, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 102.7098,
+  "spyPrice" : 259.223
+}, {
+  "stock" : "FIVN",
+  "date" : [ 2018, 6, 29 ],
+  "sellDate" : [ 2020, 2, 24 ],
+  "sellPrice" : 72.29,
+  "price" : 34.57,
+  "spyPrice" : 258.67
+}, {
+  "stock" : "PKE",
+  "date" : [ 2018, 6, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.6005,
+  "spyPrice" : 256.8297
+}, {
+  "stock" : "APEN",
+  "date" : [ 2018, 6, 26 ],
+  "sellDate" : [ 2019, 6, 6 ],
+  "sellPrice" : 3.65,
+  "price" : 7.05,
+  "spyPrice" : 258.9751
+}, {
+  "stock" : "PAYC",
+  "date" : [ 2018, 6, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 107.22,
+  "spyPrice" : 261.9692
+}, {
+  "stock" : "NSSC",
+  "date" : [ 2018, 6, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.85,
+  "spyPrice" : 261.4924
+}, {
+  "stock" : "CBLK",
+  "date" : [ 2018, 6, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.84,
+  "spyPrice" : 263.142
+}, {
+  "stock" : "MDCA",
+  "date" : [ 2018, 6, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.8,
+  "spyPrice" : 263.7046
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2018, 6, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.25,
+  "spyPrice" : 263.7046
+}, {
+  "stock" : "MORN",
+  "date" : [ 2018, 6, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 128.1095,
+  "spyPrice" : 264.2481
+}, {
+  "stock" : "NIHD",
+  "date" : [ 2018, 6, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.47,
+  "spyPrice" : 264.586
+}, {
+  "stock" : "NNDM",
+  "date" : [ 2018, 6, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.0,
+  "spyPrice" : 263.9216
+}, {
+  "stock" : "CONN",
+  "date" : [ 2018, 6, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.95,
+  "spyPrice" : 264.7664
+}, {
+  "stock" : "ZS",
+  "date" : [ 2018, 6, 11 ],
+  "sellDate" : [ 2018, 12, 7 ],
+  "sellPrice" : 40.39,
+  "price" : 41.25,
+  "spyPrice" : 264.4247
+}, {
+  "stock" : "SOGO",
+  "date" : [ 2018, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.33,
+  "spyPrice" : 264.0734
+}, {
+  "stock" : "YEXT",
+  "date" : [ 2018, 6, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.03,
+  "spyPrice" : 263.295
+}, {
+  "stock" : "ZUO",
+  "date" : [ 2018, 6, 6 ],
+  "sellDate" : [ 2018, 12, 10 ],
+  "sellPrice" : 18.05,
+  "price" : 30.2,
+  "spyPrice" : 263.3235
+}, {
+  "stock" : "DXC",
+  "date" : [ 2018, 6, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 80.3057,
+  "spyPrice" : 261.1402
+}, {
+  "stock" : "ROKU",
+  "date" : [ 2018, 6, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.03,
+  "spyPrice" : 260.9504
+}, {
+  "stock" : "GMED",
+  "date" : [ 2018, 6, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 55.95,
+  "spyPrice" : 259.7164
+}, {
+  "stock" : "MDT",
+  "date" : [ 2018, 5, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 81.2371,
+  "spyPrice" : 257.1913
+}, {
+  "stock" : "MRIN",
+  "date" : [ 2018, 5, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.9,
+  "spyPrice" : 258.7766
+}, {
+  "stock" : "NTAP",
+  "date" : [ 2018, 5, 29 ],
+  "sellDate" : [ 2018, 12, 19 ],
+  "sellPrice" : 54.8928,
+  "price" : 61.3028,
+  "spyPrice" : 255.3688
+}, {
+  "stock" : "KEM",
+  "date" : [ 2018, 5, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.452,
+  "spyPrice" : 258.7766
+}, {
+  "stock" : "KLAC",
+  "date" : [ 2018, 5, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 107.3439,
+  "spyPrice" : 258.7766
+}, {
+  "stock" : "AYX",
+  "date" : [ 2018, 5, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.66,
+  "spyPrice" : 259.498
+}, {
+  "stock" : "HIMX",
+  "date" : [ 2018, 5, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.4928,
+  "spyPrice" : 259.498
+}, {
+  "stock" : "BZUN",
+  "date" : [ 2018, 5, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 54.85,
+  "spyPrice" : 257.5615
+}, {
+  "stock" : "SIMO",
+  "date" : [ 2018, 5, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.0141,
+  "spyPrice" : 258.207
+}, {
+  "stock" : "INSG",
+  "date" : [ 2018, 5, 16 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 1.8,
+  "spyPrice" : 258.4254
+}, {
+  "stock" : "TEAM",
+  "date" : [ 2018, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 62.48,
+  "spyPrice" : 259.1278
+}, {
+  "stock" : "TTD",
+  "date" : [ 2018, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 74.92,
+  "spyPrice" : 259.1278
+}, {
+  "stock" : "UI",
+  "date" : [ 2018, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 78.1354,
+  "spyPrice" : 259.1278
+}, {
+  "stock" : "SYNA",
+  "date" : [ 2018, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.19,
+  "spyPrice" : 259.1278
+}, {
+  "stock" : "IVAC",
+  "date" : [ 2018, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.75,
+  "spyPrice" : 259.0044
+}, {
+  "stock" : "ESIO",
+  "date" : [ 2018, 5, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.82,
+  "spyPrice" : 258.2165
+}, {
+  "stock" : "JD",
+  "date" : [ 2018, 5, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 37.14,
+  "spyPrice" : 255.8244
+}, {
+  "stock" : "FN",
+  "date" : [ 2018, 5, 8 ],
+  "sellDate" : [ 2019, 9, 17 ],
+  "sellPrice" : 55.76,
+  "price" : 35.51,
+  "spyPrice" : 253.3753
+}, {
+  "stock" : "VIAV",
+  "date" : [ 2018, 5, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.09,
+  "spyPrice" : 253.3753
+}, {
+  "stock" : "ACIA",
+  "date" : [ 2018, 5, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 30.97,
+  "spyPrice" : 253.3753
+}, {
+  "stock" : "XXII",
+  "date" : [ 2018, 5, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.32,
+  "spyPrice" : 253.3753
+}, {
+  "stock" : "SMCI",
+  "date" : [ 2018, 5, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.05,
+  "spyPrice" : 253.3753
+}, {
+  "stock" : "CRTO",
+  "date" : [ 2018, 5, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.95,
+  "spyPrice" : 253.3753
+}, {
+  "stock" : "LITE",
+  "date" : [ 2018, 5, 4 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 58.95,
+  "spyPrice" : 252.521
+}, {
+  "stock" : "SHOP",
+  "date" : [ 2018, 5, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 135.17,
+  "spyPrice" : 249.2935
+}, {
+  "stock" : "TZOO",
+  "date" : [ 2018, 5, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.1,
+  "spyPrice" : 249.8441
+}, {
+  "stock" : "MX",
+  "date" : [ 2018, 5, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.55,
+  "spyPrice" : 249.8441
+}, {
+  "stock" : "BOOM",
+  "date" : [ 2018, 5, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.3989,
+  "spyPrice" : 249.8441
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2018, 4, 30 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 6.27,
+  "spyPrice" : 251.0876
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2018, 4, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 96.87,
+  "spyPrice" : 251.0876
+}, {
+  "stock" : "UMC",
+  "date" : [ 2018, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.3186,
+  "spyPrice" : 253.0336
+}, {
+  "stock" : "WDAY",
+  "date" : [ 2018, 4, 25 ],
+  "sellDate" : [ 2018, 12, 24 ],
+  "sellPrice" : 142.41,
+  "price" : 122.58,
+  "spyPrice" : 250.2523
+}, {
+  "stock" : "JD",
+  "date" : [ 2018, 4, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.88,
+  "spyPrice" : 250.2523
+}, {
+  "stock" : "CY",
+  "date" : [ 2018, 4, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.086,
+  "spyPrice" : 249.6353
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2018, 4, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.7,
+  "spyPrice" : 249.6353
+}, {
+  "stock" : "SKX",
+  "date" : [ 2018, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.12,
+  "spyPrice" : 253.0431
+}, {
+  "stock" : "ASML",
+  "date" : [ 2018, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 185.043,
+  "spyPrice" : 253.0431
+}, {
+  "stock" : "CAMP",
+  "date" : [ 2018, 4, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.54,
+  "spyPrice" : 255.2454
+}, {
+  "stock" : "HIMX",
+  "date" : [ 2018, 4, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.0881,
+  "spyPrice" : 256.6692
+}, {
+  "stock" : "NOW",
+  "date" : [ 2018, 4, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 169.45,
+  "spyPrice" : 253.7645
+}, {
+  "stock" : "CRUS",
+  "date" : [ 2018, 4, 16 ],
+  "sellDate" : [ 2019, 5, 6 ],
+  "sellPrice" : 49.71,
+  "price" : 39.52,
+  "spyPrice" : 253.7645
+}, {
+  "stock" : "TLND",
+  "date" : [ 2018, 4, 13 ],
+  "sellDate" : [ 2018, 12, 14 ],
+  "sellPrice" : 35.11,
+  "price" : 49.03,
+  "spyPrice" : 251.6951
+}, {
+  "stock" : "YY",
+  "date" : [ 2018, 4, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 96.0763,
+  "spyPrice" : 252.4356
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2018, 4, 12 ],
+  "sellDate" : [ 2019, 3, 18 ],
+  "sellPrice" : 42.99,
+  "price" : 51.69,
+  "spyPrice" : 252.4356
+}, {
+  "stock" : "FB",
+  "date" : [ 2018, 4, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 166.32,
+  "spyPrice" : 250.3757
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2018, 4, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 94.93,
+  "spyPrice" : 251.6951
+}, {
+  "stock" : "LUNA",
+  "date" : [ 2018, 4, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.4,
+  "spyPrice" : 247.7557
+}, {
+  "stock" : "MTEX",
+  "date" : [ 2018, 4, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.8472,
+  "spyPrice" : 252.1603
+}, {
+  "stock" : "TITN",
+  "date" : [ 2018, 4, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.01,
+  "spyPrice" : 244.4049
+}, {
+  "stock" : "PAR",
+  "date" : [ 2018, 4, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.01,
+  "spyPrice" : 244.4049
+}, {
+  "stock" : "BZUN",
+  "date" : [ 2018, 3, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.73,
+  "spyPrice" : 246.6451
+}, {
+  "stock" : "VEEV",
+  "date" : [ 2018, 3, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 75.56,
+  "spyPrice" : 251.6572
+}, {
+  "stock" : "ETSY",
+  "date" : [ 2018, 3, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.83,
+  "spyPrice" : 256.7642
+}, {
+  "stock" : "INSG",
+  "date" : [ 2018, 3, 12 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 2.2,
+  "spyPrice" : 263.3322
+}, {
+  "stock" : "CMPR",
+  "date" : [ 2018, 3, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 158.38,
+  "spyPrice" : 257.3474
+}, {
+  "stock" : "TTD",
+  "date" : [ 2018, 3, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 54.32,
+  "spyPrice" : 253.1023
+}, {
+  "stock" : "NTAP",
+  "date" : [ 2018, 2, 28 ],
+  "sellDate" : [ 2018, 12, 19 ],
+  "sellPrice" : 54.8928,
+  "price" : 55.2559,
+  "spyPrice" : 256.8369
+}, {
+  "stock" : "ANET",
+  "date" : [ 2018, 2, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 259.85,
+  "spyPrice" : 262.7461
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2018, 2, 26 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 8.02,
+  "spyPrice" : 262.7461
+}, {
+  "stock" : "QUAD",
+  "date" : [ 2018, 2, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 25.1564,
+  "spyPrice" : 259.73
+}, {
+  "stock" : "SKX",
+  "date" : [ 2018, 2, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.96,
+  "spyPrice" : 255.3241
+}, {
+  "stock" : "SIMO",
+  "date" : [ 2018, 2, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.994,
+  "spyPrice" : 250.871
+}, {
+  "stock" : "LITE",
+  "date" : [ 2018, 2, 8 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 55.4,
+  "spyPrice" : 243.5814
+}, {
+  "stock" : "EYES",
+  "date" : [ 2018, 2, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.76,
+  "spyPrice" : 253.0739
+}, {
+  "stock" : "NOVT",
+  "date" : [ 2018, 2, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.45,
+  "spyPrice" : 254.4543
+}, {
+  "stock" : "ESIO",
+  "date" : [ 2018, 2, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.61,
+  "spyPrice" : 260.4297
+}, {
+  "stock" : "FORM",
+  "date" : [ 2018, 2, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.4,
+  "spyPrice" : 266.2254
+}, {
+  "stock" : "COHR",
+  "date" : [ 2018, 1, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 259.52,
+  "spyPrice" : 266.5279
+}, {
+  "stock" : "LRCX",
+  "date" : [ 2018, 1, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 180.0857,
+  "spyPrice" : 266.3956
+}, {
+  "stock" : "KLAC",
+  "date" : [ 2018, 1, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 104.6251,
+  "spyPrice" : 269.1563
+}, {
+  "stock" : "HOLI",
+  "date" : [ 2018, 1, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 25.0582,
+  "spyPrice" : 269.1563
+}, {
+  "stock" : "TXN",
+  "date" : [ 2018, 1, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 104.7107,
+  "spyPrice" : 270.9527
+}, {
+  "stock" : "CL",
+  "date" : [ 2018, 1, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 71.8647,
+  "spyPrice" : 267.8516
+}, {
+  "stock" : "IVAC",
+  "date" : [ 2018, 1, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.2,
+  "spyPrice" : 267.2749
+}, {
+  "stock" : "MRAM",
+  "date" : [ 2018, 1, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.64,
+  "spyPrice" : 267.2749
+}, {
+  "stock" : "FCEL",
+  "date" : [ 2018, 1, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.04,
+  "spyPrice" : 265.1192
+}, {
+  "stock" : "HYGS",
+  "date" : [ 2018, 1, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.35,
+  "spyPrice" : 263.9184
+}, {
+  "stock" : "PLUG",
+  "date" : [ 2018, 1, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.28,
+  "spyPrice" : 261.8668
+}, {
+  "stock" : "BLDP",
+  "date" : [ 2018, 1, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.03,
+  "spyPrice" : 261.8668
+}, {
+  "stock" : "TWLO",
+  "date" : [ 2018, 1, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.16,
+  "spyPrice" : 262.765
+}, {
+  "stock" : "INSG",
+  "date" : [ 2018, 1, 11 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 1.69,
+  "spyPrice" : 261.0631
+}, {
+  "stock" : "KEM",
+  "date" : [ 2018, 1, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.9885,
+  "spyPrice" : 259.5693
+}, {
+  "stock" : "XPER",
+  "date" : [ 2018, 1, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.2157,
+  "spyPrice" : 258.9831
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2018, 1, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1204.2,
+  "spyPrice" : 255.7212
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2018, 1, 3 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 12.29,
+  "spyPrice" : 255.7212
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2018, 1, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1189.01,
+  "spyPrice" : 254.1139
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2017, 12, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1186.1,
+  "spyPrice" : 253.263
+}, {
+  "stock" : "OLED",
+  "date" : [ 2017, 12, 26 ],
+  "sellDate" : [ 2019, 1, 23 ],
+  "sellPrice" : 94.4074,
+  "price" : 169.2369,
+  "spyPrice" : 252.6201
+}, {
+  "stock" : "NXTD",
+  "date" : [ 2017, 12, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.4,
+  "spyPrice" : 252.9888
+}, {
+  "stock" : "IPGP",
+  "date" : [ 2017, 12, 19 ],
+  "sellDate" : [ 2019, 8, 12 ],
+  "sellPrice" : 118.62,
+  "price" : 213.14,
+  "spyPrice" : 252.6012
+}, {
+  "stock" : "MOMO",
+  "date" : [ 2017, 12, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.0898,
+  "spyPrice" : 253.575
+}, {
+  "stock" : "MX",
+  "date" : [ 2017, 12, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.65,
+  "spyPrice" : 251.9772
+}, {
+  "stock" : "YY",
+  "date" : [ 2017, 12, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 107.2279,
+  "spyPrice" : 249.8959
+}, {
+  "stock" : "LITE",
+  "date" : [ 2017, 12, 14 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 50.925,
+  "spyPrice" : 249.8959
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2017, 12, 12 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 12.18,
+  "spyPrice" : 250.9494
+}, {
+  "stock" : "BABA",
+  "date" : [ 2017, 12, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 174.64,
+  "spyPrice" : 250.9494
+}, {
+  "stock" : "JD",
+  "date" : [ 2017, 12, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.46,
+  "spyPrice" : 250.5073
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2017, 12, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.81,
+  "spyPrice" : 250.5073
+}, {
+  "stock" : "AAPL",
+  "date" : [ 2017, 12, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.5407,
+  "spyPrice" : 250.5073
+}, {
+  "stock" : "TLND",
+  "date" : [ 2017, 12, 7 ],
+  "sellDate" : [ 2018, 12, 14 ],
+  "sellPrice" : 35.11,
+  "price" : 40.37,
+  "spyPrice" : 248.4002
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2017, 12, 6 ],
+  "sellDate" : [ 2019, 3, 18 ],
+  "sellPrice" : 42.99,
+  "price" : 57.09,
+  "spyPrice" : 247.6195
+}, {
+  "stock" : "TXN",
+  "date" : [ 2017, 12, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 88.3902,
+  "spyPrice" : 248.4661
+}, {
+  "stock" : "ANET",
+  "date" : [ 2017, 12, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 209.48,
+  "spyPrice" : 248.4661
+}, {
+  "stock" : "CAMP",
+  "date" : [ 2017, 12, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.43,
+  "spyPrice" : 248.4661
+}, {
+  "stock" : "BZUN",
+  "date" : [ 2017, 12, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.44,
+  "spyPrice" : 248.7671
+}, {
+  "stock" : "KLAC",
+  "date" : [ 2017, 11, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 95.3971,
+  "spyPrice" : 249.2844
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2017, 11, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 46.67,
+  "spyPrice" : 247.2714
+}, {
+  "stock" : "ADI",
+  "date" : [ 2017, 11, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 81.8542,
+  "spyPrice" : 244.7881
+}, {
+  "stock" : "NOW",
+  "date" : [ 2017, 11, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 126.99,
+  "spyPrice" : 244.7881
+}, {
+  "stock" : "MSFT",
+  "date" : [ 2017, 11, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 79.8053,
+  "spyPrice" : 244.9104
+}, {
+  "stock" : "MRVL",
+  "date" : [ 2017, 11, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.0324,
+  "spyPrice" : 244.9104
+}, {
+  "stock" : "AMAT",
+  "date" : [ 2017, 11, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 55.0013,
+  "spyPrice" : 244.346
+}, {
+  "stock" : "MIXT",
+  "date" : [ 2017, 11, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.9906,
+  "spyPrice" : 244.5623
+}, {
+  "stock" : "CY",
+  "date" : [ 2017, 11, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.017,
+  "spyPrice" : 242.9726
+}, {
+  "stock" : "CTARF",
+  "date" : [ 2017, 11, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.155,
+  "spyPrice" : 242.9726
+}, {
+  "stock" : "JD",
+  "date" : [ 2017, 11, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.25,
+  "spyPrice" : 242.5587
+}, {
+  "stock" : "BCO",
+  "date" : [ 2017, 11, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 75.7208,
+  "spyPrice" : 243.2736
+}, {
+  "stock" : "IOTS",
+  "date" : [ 2017, 11, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.7,
+  "spyPrice" : 243.2736
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 11, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.4,
+  "spyPrice" : 241.223
+}, {
+  "stock" : "INSG",
+  "date" : [ 2017, 11, 14 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 1.39,
+  "spyPrice" : 242.4364
+}, {
+  "stock" : "XXII",
+  "date" : [ 2017, 11, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.18,
+  "spyPrice" : 242.4364
+}, {
+  "stock" : "UI",
+  "date" : [ 2017, 11, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 61.2754,
+  "spyPrice" : 243.0008
+}, {
+  "stock" : "FN",
+  "date" : [ 2017, 11, 10 ],
+  "sellDate" : [ 2019, 9, 17 ],
+  "sellPrice" : 55.76,
+  "price" : 31.11,
+  "spyPrice" : 242.7751
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 11, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.3,
+  "spyPrice" : 242.7751
+}, {
+  "stock" : "SYNA",
+  "date" : [ 2017, 11, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.27,
+  "spyPrice" : 242.7751
+}, {
+  "stock" : "ACIA",
+  "date" : [ 2017, 11, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 35.95,
+  "spyPrice" : 242.8503
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2017, 11, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.7093,
+  "spyPrice" : 243.7345
+}, {
+  "stock" : "PLUG",
+  "date" : [ 2017, 11, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.06,
+  "spyPrice" : 243.3206
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 11, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 37.82,
+  "spyPrice" : 243.1137
+}, {
+  "stock" : "OCLR",
+  "date" : [ 2017, 11, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.19,
+  "spyPrice" : 243.1137
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2017, 11, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.4,
+  "spyPrice" : 243.1137
+}, {
+  "stock" : "LITE",
+  "date" : [ 2017, 11, 2 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 58.85,
+  "spyPrice" : 242.3047
+}, {
+  "stock" : "MDT",
+  "date" : [ 2017, 11, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 72.0436,
+  "spyPrice" : 242.3047
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 11, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.97,
+  "spyPrice" : 242.2107
+}, {
+  "stock" : "TWTR",
+  "date" : [ 2017, 11, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.61,
+  "spyPrice" : 242.2107
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2017, 10, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 60.43,
+  "spyPrice" : 241.5146
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2017, 10, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 86.73,
+  "spyPrice" : 241.5146
+}, {
+  "stock" : "PII",
+  "date" : [ 2017, 10, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 109.6233,
+  "spyPrice" : 242.4176
+}, {
+  "stock" : "SKX",
+  "date" : [ 2017, 10, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.76,
+  "spyPrice" : 240.4516
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2017, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.35,
+  "spyPrice" : 240.1412
+}, {
+  "stock" : "JD",
+  "date" : [ 2017, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 37.4,
+  "spyPrice" : 240.1412
+}, {
+  "stock" : "OCLR",
+  "date" : [ 2017, 10, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.34,
+  "spyPrice" : 240.9125
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 10, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.81,
+  "spyPrice" : 240.9125
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2017, 10, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.95,
+  "spyPrice" : 240.6115
+}, {
+  "stock" : "DXC",
+  "date" : [ 2017, 10, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 75.7704,
+  "spyPrice" : 240.3105
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 10, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.01,
+  "spyPrice" : 239.8214
+}, {
+  "stock" : "DAIO",
+  "date" : [ 2017, 10, 12 ],
+  "sellDate" : [ 2020, 3, 6 ],
+  "sellPrice" : 3.0,
+  "price" : 9.75,
+  "spyPrice" : 239.5298
+}, {
+  "stock" : "NXTD",
+  "date" : [ 2017, 10, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.91,
+  "spyPrice" : 239.5298
+}, {
+  "stock" : "IRBT",
+  "date" : [ 2017, 10, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 77.22,
+  "spyPrice" : 238.8807
+}, {
+  "stock" : "INSG",
+  "date" : [ 2017, 10, 9 ],
+  "sellDate" : [ 2020, 3, 18 ],
+  "sellPrice" : 5.3,
+  "price" : 1.49,
+  "spyPrice" : 238.8807
+}, {
+  "stock" : "WK",
+  "date" : [ 2017, 10, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.95,
+  "spyPrice" : 239.5486
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2017, 10, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.65,
+  "spyPrice" : 238.1376
+}, {
+  "stock" : "WDAY",
+  "date" : [ 2017, 10, 4 ],
+  "sellDate" : [ 2018, 12, 24 ],
+  "sellPrice" : 142.41,
+  "price" : 105.26,
+  "spyPrice" : 238.1376
+}, {
+  "stock" : "SKX",
+  "date" : [ 2017, 10, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.82,
+  "spyPrice" : 237.8554
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2017, 10, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.18,
+  "spyPrice" : 237.3474
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2017, 9, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.95,
+  "spyPrice" : 235.4943
+}, {
+  "stock" : "LRCX",
+  "date" : [ 2017, 9, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 159.249,
+  "spyPrice" : 234.2997
+}, {
+  "stock" : "ZAYO",
+  "date" : [ 2017, 9, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 34.97,
+  "spyPrice" : 235.2216
+}, {
+  "stock" : "EXTR",
+  "date" : [ 2017, 9, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.84,
+  "spyPrice" : 233.2648
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2017, 9, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.37,
+  "spyPrice" : 233.2648
+}, {
+  "stock" : "MOMO",
+  "date" : [ 2017, 8, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 34.2634,
+  "spyPrice" : 230.2695
+}, {
+  "stock" : "JD",
+  "date" : [ 2017, 8, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.84,
+  "spyPrice" : 229.1837
+}, {
+  "stock" : "PEGA",
+  "date" : [ 2017, 8, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 55.4533,
+  "spyPrice" : 228.9216
+}, {
+  "stock" : "FN",
+  "date" : [ 2017, 8, 23 ],
+  "sellDate" : [ 2019, 9, 17 ],
+  "sellPrice" : 55.76,
+  "price" : 38.59,
+  "spyPrice" : 228.9123
+}, {
+  "stock" : "ESIO",
+  "date" : [ 2017, 8, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.76,
+  "spyPrice" : 227.3585
+}, {
+  "stock" : "XLNX",
+  "date" : [ 2017, 8, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 57.842,
+  "spyPrice" : 227.1807
+}, {
+  "stock" : "MTSI",
+  "date" : [ 2017, 8, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 40.78,
+  "spyPrice" : 227.5363
+}, {
+  "stock" : "UI",
+  "date" : [ 2017, 8, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 64.134,
+  "spyPrice" : 230.7375
+}, {
+  "stock" : "NPTN",
+  "date" : [ 2017, 8, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.89,
+  "spyPrice" : 230.7375
+}, {
+  "stock" : "OCLR",
+  "date" : [ 2017, 8, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.8,
+  "spyPrice" : 230.7656
+}, {
+  "stock" : "CRUS",
+  "date" : [ 2017, 8, 11 ],
+  "sellDate" : [ 2019, 5, 6 ],
+  "sellPrice" : 49.71,
+  "price" : 55.13,
+  "spyPrice" : 228.5004
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 8, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 69.69,
+  "spyPrice" : 232.0105
+}, {
+  "stock" : "CGNX",
+  "date" : [ 2017, 8, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.8137,
+  "spyPrice" : 231.608
+}, {
+  "stock" : "SIMO",
+  "date" : [ 2017, 8, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.9003,
+  "spyPrice" : 231.608
+}, {
+  "stock" : "KLAC",
+  "date" : [ 2017, 7, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 85.3548,
+  "spyPrice" : 230.9809
+}, {
+  "stock" : "VIAV",
+  "date" : [ 2017, 7, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.97,
+  "spyPrice" : 230.9809
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2017, 7, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 90.69,
+  "spyPrice" : 231.1119
+}, {
+  "stock" : "SPLK",
+  "date" : [ 2017, 7, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 62.06,
+  "spyPrice" : 231.5987
+}, {
+  "stock" : "MU",
+  "date" : [ 2017, 7, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.0,
+  "spyPrice" : 231.2898
+}, {
+  "stock" : "SMCI",
+  "date" : [ 2017, 7, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.1,
+  "spyPrice" : 231.2898
+}, {
+  "stock" : "MX",
+  "date" : [ 2017, 7, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.0,
+  "spyPrice" : 231.1868
+}, {
+  "stock" : "TSCO",
+  "date" : [ 2017, 7, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.693,
+  "spyPrice" : 229.8202
+}, {
+  "stock" : "NTNX",
+  "date" : [ 2017, 7, 14 ],
+  "sellDate" : [ 2019, 3, 4 ],
+  "sellPrice" : 33.51,
+  "price" : 22.12,
+  "spyPrice" : 229.8483
+}, {
+  "stock" : "GOOG",
+  "date" : [ 2017, 7, 10 ],
+  "sellDate" : [ 2019, 9, 3 ],
+  "sellPrice" : 1168.39,
+  "price" : 928.8,
+  "spyPrice" : 226.8624
+}, {
+  "stock" : "OCLR",
+  "date" : [ 2017, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.82,
+  "spyPrice" : 226.8624
+}, {
+  "stock" : "SYNA",
+  "date" : [ 2017, 7, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 51.5,
+  "spyPrice" : 227.2368
+}, {
+  "stock" : "MU",
+  "date" : [ 2017, 7, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.14,
+  "spyPrice" : 226.7126
+}, {
+  "stock" : "CY",
+  "date" : [ 2017, 6, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.2903,
+  "spyPrice" : 225.889
+}, {
+  "stock" : "TSLA",
+  "date" : [ 2017, 6, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 76.69,
+  "spyPrice" : 227.5738
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2017, 6, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 27.58,
+  "spyPrice" : 229.0059
+}, {
+  "stock" : "TRIP",
+  "date" : [ 2017, 6, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 33.8547,
+  "spyPrice" : 226.5438
+}, {
+  "stock" : "NVDA",
+  "date" : [ 2017, 6, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 142.9363,
+  "spyPrice" : 226.6835
+}, {
+  "stock" : "FB",
+  "date" : [ 2017, 5, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 151.46,
+  "spyPrice" : 224.8951
+}, {
+  "stock" : "TECD",
+  "date" : [ 2017, 5, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 93.04,
+  "spyPrice" : 224.122
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2017, 5, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 970.67,
+  "spyPrice" : 223.1067
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2017, 5, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 959.84,
+  "spyPrice" : 221.9796
+}, {
+  "stock" : "CRTO",
+  "date" : [ 2017, 5, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.94,
+  "spyPrice" : 219.6602
+}, {
+  "stock" : "ACIA",
+  "date" : [ 2017, 5, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.67,
+  "spyPrice" : 223.8332
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2017, 5, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 55.16,
+  "spyPrice" : 223.8332
+}, {
+  "stock" : "SHOP",
+  "date" : [ 2017, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 92.02,
+  "spyPrice" : 222.9763
+}, {
+  "stock" : "MASI",
+  "date" : [ 2017, 5, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 85.13,
+  "spyPrice" : 222.9763
+}, {
+  "stock" : "UI",
+  "date" : [ 2017, 5, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.5433,
+  "spyPrice" : 223.0321
+}, {
+  "stock" : "AAOI",
+  "date" : [ 2017, 5, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 57.39,
+  "spyPrice" : 223.2371
+}, {
+  "stock" : "PYPL",
+  "date" : [ 2017, 5, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.91,
+  "spyPrice" : 222.3987
+}, {
+  "stock" : "WDC",
+  "date" : [ 2017, 5, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 78.6972,
+  "spyPrice" : 222.4081
+}, {
+  "stock" : "CY",
+  "date" : [ 2017, 4, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.0026,
+  "spyPrice" : 220.9177
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2017, 4, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.53,
+  "spyPrice" : 218.5145
+}, {
+  "stock" : "MT",
+  "date" : [ 2017, 4, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.4961,
+  "spyPrice" : 217.4433
+}, {
+  "stock" : "AMZN",
+  "date" : [ 2017, 4, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 899.2,
+  "spyPrice" : 217.4433
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2017, 4, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.144,
+  "spyPrice" : 218.4959
+}, {
+  "stock" : "LITE",
+  "date" : [ 2017, 4, 17 ],
+  "sellDate" : [ 2020, 2, 10 ],
+  "sellPrice" : 88.98,
+  "price" : 45.0,
+  "spyPrice" : 218.4959
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2017, 4, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.88,
+  "spyPrice" : 219.0827
+}, {
+  "stock" : "NVDA",
+  "date" : [ 2017, 4, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 99.6614,
+  "spyPrice" : 219.3062
+}, {
+  "stock" : "UI",
+  "date" : [ 2017, 3, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.8686,
+  "spyPrice" : 219.5857
+}, {
+  "stock" : "MU",
+  "date" : [ 2017, 3, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.76,
+  "spyPrice" : 217.611
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2017, 3, 16 ],
+  "sellDate" : [ 2019, 3, 18 ],
+  "sellPrice" : 42.99,
+  "price" : 55.98,
+  "spyPrice" : 221.1756
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2017, 3, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.58,
+  "spyPrice" : 221.6115
+}, {
+  "stock" : "NTGR",
+  "date" : [ 2017, 3, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.6,
+  "spyPrice" : 220.5542
+}, {
+  "stock" : "MASI",
+  "date" : [ 2017, 3, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 96.28,
+  "spyPrice" : 220.5542
+}, {
+  "stock" : "SHOP",
+  "date" : [ 2017, 2, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 62.73,
+  "spyPrice" : 219.2836
+}, {
+  "stock" : "INTC",
+  "date" : [ 2017, 2, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.7889,
+  "spyPrice" : 217.8739
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2017, 2, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 97.43,
+  "spyPrice" : 215.8799
+}, {
+  "stock" : "INTC",
+  "date" : [ 2017, 1, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 34.2995,
+  "spyPrice" : 212.3557
+}, {
+  "stock" : "CRTO",
+  "date" : [ 2017, 1, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.78,
+  "spyPrice" : 210.575
+}, {
+  "stock" : "MSFT",
+  "date" : [ 2017, 1, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 58.7014,
+  "spyPrice" : 210.0927
+}, {
+  "stock" : "JKS",
+  "date" : [ 2017, 1, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.55,
+  "spyPrice" : 210.0278
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2017, 1, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.8995,
+  "spyPrice" : 209.9721
+}, {
+  "stock" : "MSFT",
+  "date" : [ 2017, 1, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 58.6733,
+  "spyPrice" : 208.8963
+}, {
+  "stock" : "PII",
+  "date" : [ 2016, 12, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 73.5529,
+  "spyPrice" : 208.0709
+}, {
+  "stock" : "CLF",
+  "date" : [ 2016, 12, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.494,
+  "spyPrice" : 208.1173
+}, {
+  "stock" : "MT",
+  "date" : [ 2016, 12, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.4423,
+  "spyPrice" : 209.3879
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2016, 12, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 82.52,
+  "spyPrice" : 209.9721
+}, {
+  "stock" : "VWDRY",
+  "date" : [ 2016, 12, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.2471,
+  "spyPrice" : 208.2624
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2016, 12, 12 ],
+  "sellDate" : [ 2019, 3, 18 ],
+  "sellPrice" : 42.99,
+  "price" : 53.05,
+  "spyPrice" : 208.6036
+}, {
+  "stock" : "HIMX",
+  "date" : [ 2016, 12, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.9216,
+  "spyPrice" : 208.6036
+}, {
+  "stock" : "XOM",
+  "date" : [ 2016, 11, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 70.6836,
+  "spyPrice" : 203.2836
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 11, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 33.76,
+  "spyPrice" : 196.5253
+}, {
+  "stock" : "AKAM",
+  "date" : [ 2016, 10, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 69.47,
+  "spyPrice" : 195.9721
+}, {
+  "stock" : "PYPL",
+  "date" : [ 2016, 10, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.87,
+  "spyPrice" : 198.1296
+}, {
+  "stock" : "SKX",
+  "date" : [ 2016, 10, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.34,
+  "spyPrice" : 198.1296
+}, {
+  "stock" : "FNSR",
+  "date" : [ 2016, 10, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.86,
+  "spyPrice" : 197.936
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2016, 9, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 44.32,
+  "spyPrice" : 198.4639
+}, {
+  "stock" : "MT",
+  "date" : [ 2016, 8, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.9237,
+  "spyPrice" : 199.9501
+}, {
+  "stock" : "SKX",
+  "date" : [ 2016, 8, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.42,
+  "spyPrice" : 198.5279
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2016, 8, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 96.27,
+  "spyPrice" : 199.0143
+}, {
+  "stock" : "HIMX",
+  "date" : [ 2016, 6, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.8306,
+  "spyPrice" : 190.9048
+}, {
+  "stock" : "CTARF",
+  "date" : [ 2016, 6, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.1271,
+  "spyPrice" : 190.6754
+}, {
+  "stock" : "EWN",
+  "date" : [ 2016, 6, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 22.8608,
+  "spyPrice" : 193.1839
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2016, 6, 6 ],
+  "sellDate" : [ 2019, 3, 18 ],
+  "sellPrice" : 42.99,
+  "price" : 46.55,
+  "spyPrice" : 192.8828
+}, {
+  "stock" : "AMBA",
+  "date" : [ 2016, 5, 13 ],
+  "sellDate" : [ 2019, 3, 18 ],
+  "sellPrice" : 42.99,
+  "price" : 36.38,
+  "spyPrice" : 186.8686
+}, {
+  "stock" : "MU",
+  "date" : [ 2016, 5, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.63,
+  "spyPrice" : 188.5113
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2016, 5, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.8686,
+  "spyPrice" : 190.2362
+}, {
+  "stock" : "MT",
+  "date" : [ 2016, 5, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.0745,
+  "spyPrice" : 187.8991
+}, {
+  "stock" : "SKX",
+  "date" : [ 2016, 4, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.26,
+  "spyPrice" : 186.1933
+}, {
+  "stock" : "XXII",
+  "date" : [ 2016, 2, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.98,
+  "spyPrice" : 174.6153
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2016, 2, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 79.71,
+  "spyPrice" : 176.8488
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2015, 11, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 67.88,
+  "spyPrice" : 189.865
+}, {
+  "stock" : "ANY",
+  "date" : [ 2015, 10, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 546.0,
+  "spyPrice" : 183.556
+}, {
+  "stock" : "JKS",
+  "date" : [ 2015, 8, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.67,
+  "spyPrice" : 170.1973
+}, {
+  "stock" : "FENG",
+  "date" : [ 2015, 6, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.1837,
+  "spyPrice" : 188.4951
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2015, 5, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.935,
+  "spyPrice" : 188.6649
+}, {
+  "stock" : "CTARF",
+  "date" : [ 2015, 5, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.2925,
+  "spyPrice" : 185.8949
+}, {
+  "stock" : "ANY",
+  "date" : [ 2015, 2, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 818.0,
+  "spyPrice" : 186.7947
+}, {
+  "stock" : "INTZ",
+  "date" : [ 2015, 2, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.15,
+  "spyPrice" : 186.6168
+}, {
+  "stock" : "INTZ",
+  "date" : [ 2014, 12, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.88,
+  "spyPrice" : 183.2083
+}, {
+  "stock" : "JKS",
+  "date" : [ 2014, 11, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 24.82,
+  "spyPrice" : 183.3631
+}, {
+  "stock" : "XXII",
+  "date" : [ 2014, 9, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.89,
+  "spyPrice" : 177.7195
+}, {
+  "stock" : "XXII",
+  "date" : [ 2014, 9, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.73,
+  "spyPrice" : 176.3018
+}, {
+  "stock" : "INTZ",
+  "date" : [ 2014, 8, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.69,
+  "spyPrice" : 176.4074
+}, {
+  "stock" : "AMAT",
+  "date" : [ 2014, 8, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 20.097,
+  "spyPrice" : 175.4035
+}, {
+  "stock" : "FENG",
+  "date" : [ 2014, 8, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.7759,
+  "spyPrice" : 173.792
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2014, 8, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.0009,
+  "spyPrice" : 171.573
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2014, 8, 11 ],
+  "sellDate" : [ 2015, 4, 7 ],
+  "sellPrice" : 57.02,
+  "price" : 34.49,
+  "spyPrice" : 170.6528
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2014, 8, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.7445,
+  "spyPrice" : 168.218
+}, {
+  "stock" : "ANY",
+  "date" : [ 2014, 8, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1268.0,
+  "spyPrice" : 169.1338
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2014, 7, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.405,
+  "spyPrice" : 174.1002
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2014, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.35,
+  "spyPrice" : 174.3204
+}, {
+  "stock" : "ANY",
+  "date" : [ 2014, 5, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1668.4,
+  "spyPrice" : 164.3662
+}, {
+  "stock" : "MUEL",
+  "date" : [ 2014, 5, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 47.5,
+  "spyPrice" : 165.0454
+}, {
+  "stock" : "JKS",
+  "date" : [ 2014, 3, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 32.46,
+  "spyPrice" : 163.365
+}, {
+  "stock" : "JKS",
+  "date" : [ 2014, 1, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.1,
+  "spyPrice" : 155.3203
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2014, 1, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.2,
+  "spyPrice" : 160.7038
+}, {
+  "stock" : "MANU",
+  "date" : [ 2014, 1, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.3605,
+  "spyPrice" : 160.9132
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2013, 12, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.8,
+  "spyPrice" : 159.6131
+}, {
+  "stock" : "LKM",
+  "date" : [ 2013, 11, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.06,
+  "spyPrice" : 157.0761
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2013, 8, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.14,
+  "spyPrice" : 146.2186
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2013, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.75,
+  "spyPrice" : 142.6622
+}, {
+  "stock" : "MSFT",
+  "date" : [ 2013, 7, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.1523,
+  "spyPrice" : 140.7865
+}, {
+  "stock" : "NOK",
+  "date" : [ 2013, 7, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.0729,
+  "spyPrice" : 139.3529
+}, {
+  "stock" : "MSFT",
+  "date" : [ 2013, 5, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.8937,
+  "spyPrice" : 143.4043
+}, {
+  "stock" : "LKM",
+  "date" : [ 2013, 4, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.28,
+  "spyPrice" : 133.257
+}, {
+  "stock" : "AAPL",
+  "date" : [ 2013, 3, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.1323,
+  "spyPrice" : 130.7873
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2013, 2, 25 ],
+  "sellDate" : [ 2015, 4, 7 ],
+  "sellPrice" : 57.02,
+  "price" : 19.38,
+  "spyPrice" : 127.4346
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2013, 2, 19 ],
+  "sellDate" : [ 2015, 4, 7 ],
+  "sellPrice" : 57.02,
+  "price" : 21.81,
+  "spyPrice" : 131.0695
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2013, 2, 6 ],
+  "sellDate" : [ 2015, 4, 7 ],
+  "sellPrice" : 57.02,
+  "price" : 19.9,
+  "spyPrice" : 129.282
+}, {
+  "stock" : "AAPL",
+  "date" : [ 2012, 11, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.3376,
+  "spyPrice" : 115.2424
+}, {
+  "stock" : "AAPL",
+  "date" : [ 2012, 11, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 17.004,
+  "spyPrice" : 117.3315
+}, {
+  "stock" : "SPWR",
+  "date" : [ 2012, 10, 1 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.8546,
+  "spyPrice" : 122.5841
+}, {
+  "stock" : "GDOT",
+  "date" : [ 2012, 9, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.99,
+  "spyPrice" : 123.8546
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2012, 9, 10 ],
+  "sellDate" : [ 2015, 4, 7 ],
+  "sellPrice" : 57.02,
+  "price" : 26.17,
+  "spyPrice" : 121.2275
+}, {
+  "stock" : "DSNY",
+  "date" : [ 2012, 8, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.8495,
+  "spyPrice" : 118.8242
+}, {
+  "stock" : "MANU",
+  "date" : [ 2012, 8, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.5264,
+  "spyPrice" : 118.8242
+}, {
+  "stock" : "ZNGA",
+  "date" : [ 2012, 8, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.01,
+  "spyPrice" : 118.5328
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2012, 8, 2 ],
+  "sellDate" : [ 2015, 4, 7 ],
+  "sellPrice" : 57.02,
+  "price" : 24.83,
+  "spyPrice" : 115.4242
+}, {
+  "stock" : "TCOM",
+  "date" : [ 2012, 7, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.725,
+  "spyPrice" : 117.1432
+}, {
+  "stock" : "QCOM",
+  "date" : [ 2012, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 42.187,
+  "spyPrice" : 114.402
+}, {
+  "stock" : "AMRC",
+  "date" : [ 2012, 7, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.53,
+  "spyPrice" : 114.402
+}, {
+  "stock" : "ASML",
+  "date" : [ 2012, 7, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 61.2412,
+  "spyPrice" : 113.3292
+}, {
+  "stock" : "MSFT",
+  "date" : [ 2012, 7, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 25.4372,
+  "spyPrice" : 116.0763
+}, {
+  "stock" : "WDC",
+  "date" : [ 2012, 6, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.8431,
+  "spyPrice" : 112.7379
+}, {
+  "stock" : "NOK",
+  "date" : [ 2012, 6, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.2927,
+  "spyPrice" : 110.9044
+}, {
+  "stock" : "BB",
+  "date" : [ 2012, 6, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.985,
+  "spyPrice" : 108.4673
+}, {
+  "stock" : "OLED",
+  "date" : [ 2012, 5, 30 ],
+  "sellDate" : [ 2019, 1, 23 ],
+  "sellPrice" : 94.4074,
+  "price" : 28.9768,
+  "spyPrice" : 110.7279
+}, {
+  "stock" : "ELLI",
+  "date" : [ 2012, 5, 21 ],
+  "sellDate" : [ 2015, 4, 7 ],
+  "sellPrice" : 57.02,
+  "price" : 15.19,
+  "spyPrice" : 110.9044
+}, {
+  "stock" : "QUMU",
+  "date" : [ 2012, 1, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.3567,
+  "spyPrice" : 109.9939
+}, {
+  "stock" : "TM",
+  "date" : [ 2012, 1, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 65.4374,
+  "spyPrice" : 106.8562
+}, {
+  "stock" : "AMRC",
+  "date" : [ 2011, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.41,
+  "spyPrice" : 102.3074
+}, {
+  "stock" : "JKS",
+  "date" : [ 2011, 9, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.5,
+  "spyPrice" : 100.0301
+}, {
+  "stock" : "FUQI",
+  "date" : [ 2010, 3, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.93,
+  "spyPrice" : 92.8233
+}, {
+  "stock" : "FUQI",
+  "date" : [ 2009, 12, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.0,
+  "spyPrice" : 89.1524
+} ]

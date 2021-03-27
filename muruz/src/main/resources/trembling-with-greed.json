@@ -1,0 +1,92 @@
+[ {
+  "stock" : "NTDOF",
+  "date" : [ 2020, 11, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 511.54,
+  "spyPrice" : 359.0893
+}, {
+  "stock" : "NTDOY",
+  "date" : [ 2020, 11, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 64.15,
+  "spyPrice" : 359.0893
+}, {
+  "stock" : "PETS",
+  "date" : [ 2020, 11, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.1838,
+  "spyPrice" : 328.7984
+}, {
+  "stock" : "GTXMQ",
+  "date" : [ 2020, 10, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.75,
+  "spyPrice" : 325.154
+}, {
+  "stock" : "GTX",
+  "date" : [ 2020, 10, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.75,
+  "spyPrice" : 325.154
+}, {
+  "stock" : "BJ",
+  "date" : [ 2020, 10, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.62,
+  "spyPrice" : 341.2753
+}, {
+  "stock" : "GOOG",
+  "date" : [ 2020, 7, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1558.42,
+  "spyPrice" : 322.3399
+}, {
+  "stock" : "GOOGL",
+  "date" : [ 2020, 7, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1555.92,
+  "spyPrice" : 322.3399
+}, {
+  "stock" : "HBI",
+  "date" : [ 2020, 6, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.9542,
+  "spyPrice" : 305.8267
+}, {
+  "stock" : "CARR",
+  "date" : [ 2020, 5, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.807,
+  "spyPrice" : 299.7172
+}, {
+  "stock" : "VIAC",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.5571,
+  "spyPrice" : 283.4442
+}, {
+  "stock" : "VIACA",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 19.44,
+  "spyPrice" : 283.4442
+}, {
+  "stock" : "OTIS",
+  "date" : [ 2020, 4, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 43.5195,
+  "spyPrice" : 270.5878
+} ]

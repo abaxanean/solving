@@ -1,0 +1,204 @@
+[ {
+  "stock" : "DTEA",
+  "date" : [ 2020, 9, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.06,
+  "spyPrice" : 354.7614
+}, {
+  "stock" : "AMTD",
+  "date" : [ 2019, 7, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 48.6889,
+  "spyPrice" : 292.4421
+}, {
+  "stock" : "RZREF",
+  "date" : [ 2018, 5, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.7723,
+  "spyPrice" : 259.4885
+}, {
+  "stock" : "GLGDF",
+  "date" : [ 2018, 5, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.3474,
+  "spyPrice" : 249.8441
+}, {
+  "stock" : "CDDRF",
+  "date" : [ 2017, 8, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.4551,
+  "spyPrice" : 231.1587
+}, {
+  "stock" : "IVFH",
+  "date" : [ 2017, 7, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.68,
+  "spyPrice" : 231.5893
+}, {
+  "stock" : "RSRV",
+  "date" : [ 2017, 4, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 218.4681,
+  "spyPrice" : 219.3062
+}, {
+  "stock" : "FMTNF",
+  "date" : [ 2017, 2, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.5463,
+  "spyPrice" : 217.8739
+}, {
+  "stock" : "GDX",
+  "date" : [ 2016, 9, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 25.3582,
+  "spyPrice" : 196.765
+}, {
+  "stock" : "GIFI",
+  "date" : [ 2016, 8, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.0279,
+  "spyPrice" : 199.8491
+}, {
+  "stock" : "ESTE",
+  "date" : [ 2016, 6, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.15,
+  "spyPrice" : 190.2354
+}, {
+  "stock" : "ESTE",
+  "date" : [ 2016, 6, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.1,
+  "spyPrice" : 192.8828
+}, {
+  "stock" : "CBKCQ",
+  "date" : [ 2016, 3, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.51,
+  "spyPrice" : 188.0185
+}, {
+  "stock" : "YY",
+  "date" : [ 2015, 12, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 64.2258,
+  "spyPrice" : 181.6072
+}, {
+  "stock" : "CRFQF",
+  "date" : [ 2015, 5, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.451,
+  "spyPrice" : 189.8444
+}, {
+  "stock" : "HGHAF",
+  "date" : [ 2015, 4, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.5458,
+  "spyPrice" : 188.933
+}, {
+  "stock" : "EPSN",
+  "date" : [ 2015, 1, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.5998,
+  "spyPrice" : 180.2741
+}, {
+  "stock" : "EPSN",
+  "date" : [ 2014, 7, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.28,
+  "spyPrice" : 174.1795
+}, {
+  "stock" : "PRMRF",
+  "date" : [ 2014, 2, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 39.5458,
+  "spyPrice" : 161.2884
+}, {
+  "stock" : "CNNEF",
+  "date" : [ 2014, 2, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.6594,
+  "spyPrice" : 153.0298
+}, {
+  "stock" : "ZPTAF",
+  "date" : [ 2014, 1, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.6758,
+  "spyPrice" : 156.2451
+}, {
+  "stock" : "RENFF",
+  "date" : [ 2014, 1, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.45,
+  "spyPrice" : 159.491
+}, {
+  "stock" : "POEFF",
+  "date" : [ 2013, 9, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.1584,
+  "spyPrice" : 147.4693
+}, {
+  "stock" : "ZPTAF",
+  "date" : [ 2013, 5, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.9355,
+  "spyPrice" : 143.4043
+}, {
+  "stock" : "ZPTAF",
+  "date" : [ 2013, 4, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.8194,
+  "spyPrice" : 133.8944
+}, {
+  "stock" : "ZPTAF",
+  "date" : [ 2013, 1, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.5203,
+  "spyPrice" : 127.5458
+}, {
+  "stock" : "RENFF",
+  "date" : [ 2012, 12, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.11,
+  "spyPrice" : 121.875
+}, {
+  "stock" : "CPG",
+  "date" : [ 2012, 11, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 16.46,
+  "spyPrice" : 117.2296
+}, {
+  "stock" : "CNNEF",
+  "date" : [ 2012, 10, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.1083,
+  "spyPrice" : 122.461
+} ]

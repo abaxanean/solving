@@ -1,0 +1,57 @@
+[ {
+  "stock" : "BEEM",
+  "date" : [ 2020, 5, 4 ],
+  "sellDate" : [ 2020, 12, 9 ],
+  "sellPrice" : 34.4,
+  "price" : 7.48,
+  "spyPrice" : 280.008
+}, {
+  "stock" : "RUN",
+  "date" : [ 2020, 3, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.16,
+  "spyPrice" : 243.69
+}, {
+  "stock" : "JKS",
+  "date" : [ 2019, 10, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 15.65,
+  "spyPrice" : 286.2997
+}, {
+  "stock" : "NEE",
+  "date" : [ 2018, 9, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 41.3124,
+  "spyPrice" : 274.7654
+}, {
+  "stock" : "SEDG",
+  "date" : [ 2018, 7, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 53.0,
+  "spyPrice" : 266.937
+}, {
+  "stock" : "FSLR",
+  "date" : [ 2016, 10, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 38.24,
+  "spyPrice" : 197.0416
+}, {
+  "stock" : "REPYY",
+  "date" : [ 2012, 3, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.8203,
+  "spyPrice" : 117.9047
+}, {
+  "stock" : "SD",
+  "date" : [ 2009, 2, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.92,
+  "spyPrice" : 62.2304
+} ]

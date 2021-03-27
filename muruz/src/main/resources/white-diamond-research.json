@@ -1,0 +1,22 @@
+[ {
+  "stock" : "ESTA",
+  "date" : [ 2019, 5, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 26.54,
+  "spyPrice" : 278.6214
+}, {
+  "stock" : "PDLI",
+  "date" : [ 2017, 7, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.8515,
+  "spyPrice" : 226.8624
+}, {
+  "stock" : "SGMS",
+  "date" : [ 2016, 9, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.87,
+  "spyPrice" : 200.3261
+} ]

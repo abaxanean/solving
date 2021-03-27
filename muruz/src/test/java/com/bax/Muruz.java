@@ -91,4 +91,24 @@ public class Muruz {
         }
         return ChronoUnit.MILLIS.between(now, next);
     }
+
+    @Test
+    public void lvlPoints() {
+        int points = (5 * 219) + (180 * 6);
+        int pointsPerLevel = 6;
+        int perStat = 0;
+        int lvl = 400;
+        int exp = 50;
+        while(perStat < 32_000) {
+            lvl++;
+            pointsPerLevel++;
+            if (exp > 1) {
+                exp--;
+            }
+            points+= pointsPerLevel;
+            perStat = points / 4;
+            System.out.printf("%d | %d %d   %d %n", exp, points, perStat, lvl);
+        }
+
+    }
 }

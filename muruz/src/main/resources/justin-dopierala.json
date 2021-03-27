@@ -1,0 +1,78 @@
+[ {
+  "stock" : "PBI",
+  "date" : [ 2021, 1, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.5551,
+  "spyPrice" : 383.79
+}, {
+  "stock" : "GME",
+  "date" : [ 2020, 10, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.8,
+  "spyPrice" : 350.9341
+}, {
+  "stock" : "GME",
+  "date" : [ 2020, 9, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.91,
+  "spyPrice" : 335.6794
+}, {
+  "stock" : "GME",
+  "date" : [ 2020, 4, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.09,
+  "spyPrice" : 261.533
+}, {
+  "stock" : "UNFI",
+  "date" : [ 2020, 3, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 11.31,
+  "spyPrice" : 220.1494
+}, {
+  "stock" : "GME",
+  "date" : [ 2020, 2, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.19,
+  "spyPrice" : 331.2344
+}, {
+  "stock" : "RAD",
+  "date" : [ 2019, 11, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.64,
+  "spyPrice" : 301.2164
+}, {
+  "stock" : "GME",
+  "date" : [ 2019, 5, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.13,
+  "spyPrice" : 277.2473
+}, {
+  "stock" : "RAD",
+  "date" : [ 2019, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.79,
+  "spyPrice" : 274.2379
+}, {
+  "stock" : "GME",
+  "date" : [ 2019, 5, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 8.77,
+  "spyPrice" : 281.7664
+}, {
+  "stock" : "UNFI",
+  "date" : [ 2019, 4, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.7,
+  "spyPrice" : 284.3694
+} ]

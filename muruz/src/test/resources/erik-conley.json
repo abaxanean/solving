@@ -1,0 +1,15 @@
+[ {
+  "stock" : "SGC",
+  "date" : [ 2020, 8, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 21.4028,
+  "spyPrice" : 330.066
+}, {
+  "stock" : "TAN",
+  "date" : [ 2020, 1, 2 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 31.9093,
+  "spyPrice" : 318.9145
+} ]

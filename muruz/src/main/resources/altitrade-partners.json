@@ -1,0 +1,239 @@
+[ {
+  "stock" : "ALLM",
+  "date" : [ 2021, 1, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.43,
+  "spyPrice" : 378.65
+}, {
+  "stock" : "ALLM",
+  "date" : [ 2021, 1, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.27,
+  "spyPrice" : 373.55
+}, {
+  "stock" : "GLUC",
+  "date" : [ 2020, 11, 18 ],
+  "sellDate" : [ 2020, 12, 22 ],
+  "sellPrice" : 4.345,
+  "price" : 2.79,
+  "spyPrice" : 354.7677
+}, {
+  "stock" : "CELH",
+  "date" : [ 2020, 11, 13 ],
+  "sellDate" : [ 2020, 12, 17 ],
+  "sellPrice" : 39.88,
+  "price" : 32.58,
+  "spyPrice" : 356.58
+}, {
+  "stock" : "GLUC",
+  "date" : [ 2020, 11, 13 ],
+  "sellDate" : [ 2020, 12, 22 ],
+  "sellPrice" : 4.345,
+  "price" : 2.19,
+  "spyPrice" : 356.58
+}, {
+  "stock" : "CELH",
+  "date" : [ 2020, 11, 11 ],
+  "sellDate" : [ 2020, 12, 17 ],
+  "sellPrice" : 39.88,
+  "price" : 24.77,
+  "spyPrice" : 355.1561
+}, {
+  "stock" : "GLUC",
+  "date" : [ 2020, 11, 11 ],
+  "sellDate" : [ 2020, 12, 22 ],
+  "sellPrice" : 4.345,
+  "price" : 1.88,
+  "spyPrice" : 355.1561
+}, {
+  "stock" : "GLUC",
+  "date" : [ 2020, 10, 23 ],
+  "sellDate" : [ 2020, 12, 22 ],
+  "sellPrice" : 4.345,
+  "price" : 1.79,
+  "spyPrice" : 344.3123
+}, {
+  "stock" : "GLUC",
+  "date" : [ 2020, 10, 14 ],
+  "sellDate" : [ 2020, 12, 22 ],
+  "sellPrice" : 4.345,
+  "price" : 1.6175,
+  "spyPrice" : 346.4532
+}, {
+  "stock" : "GLUC",
+  "date" : [ 2020, 8, 24 ],
+  "sellDate" : [ 2020, 12, 22 ],
+  "sellPrice" : 4.345,
+  "price" : 1.65,
+  "spyPrice" : 340.1028
+}, {
+  "stock" : "CELH",
+  "date" : [ 2020, 8, 10 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 19.83,
+  "spyPrice" : 332.8132
+}, {
+  "stock" : "CELH",
+  "date" : [ 2020, 7, 14 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 13.38,
+  "spyPrice" : 316.3
+}, {
+  "stock" : "CELH",
+  "date" : [ 2020, 2, 19 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 6.17,
+  "spyPrice" : 332.1375
+}, {
+  "stock" : "CELH",
+  "date" : [ 2020, 1, 22 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 5.765,
+  "spyPrice" : 325.2659
+}, {
+  "stock" : "CELH",
+  "date" : [ 2020, 1, 9 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.69,
+  "spyPrice" : 320.6618
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 12, 19 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.36,
+  "spyPrice" : 313.476
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 12, 2 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.76,
+  "spyPrice" : 304.4303
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 11, 11 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.05,
+  "spyPrice" : 301.2164
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 9, 3 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 3.95,
+  "spyPrice" : 282.7086
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 3, 18 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.99,
+  "spyPrice" : 273.2025
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 2, 26 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 3.67,
+  "spyPrice" : 269.1043
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 1, 31 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.09,
+  "spyPrice" : 260.0578
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 1, 28 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 3.65,
+  "spyPrice" : 254.1134
+}, {
+  "stock" : "CELH",
+  "date" : [ 2019, 1, 10 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 3.97,
+  "spyPrice" : 249.4119
+}, {
+  "stock" : "CELH",
+  "date" : [ 2018, 11, 12 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.07,
+  "spyPrice" : 261.0762
+}, {
+  "stock" : "CELH",
+  "date" : [ 2018, 10, 22 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 3.95,
+  "spyPrice" : 263.4133
+}, {
+  "stock" : "CELH",
+  "date" : [ 2018, 10, 2 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 3.98,
+  "spyPrice" : 279.2654
+}, {
+  "stock" : "CELH",
+  "date" : [ 2018, 8, 13 ],
+  "sellDate" : [ 2020, 8, 20 ],
+  "sellPrice" : 22.88,
+  "price" : 4.36,
+  "spyPrice" : 268.987
+}, {
+  "stock" : "CELH",
+  "date" : [ 2016, 3, 28 ],
+  "sellDate" : [ 2017, 9, 13 ],
+  "sellPrice" : 6.48,
+  "price" : 2.135,
+  "spyPrice" : 185.4814
+}, {
+  "stock" : "CELH",
+  "date" : [ 2016, 3, 16 ],
+  "sellDate" : [ 2017, 9, 13 ],
+  "sellPrice" : 6.48,
+  "price" : 2.0,
+  "spyPrice" : 184.6208
+}, {
+  "stock" : "CELH",
+  "date" : [ 2016, 3, 3 ],
+  "sellDate" : [ 2017, 9, 13 ],
+  "sellPrice" : 6.48,
+  "price" : 1.93,
+  "spyPrice" : 181.384
+}, {
+  "stock" : "CELH",
+  "date" : [ 2015, 3, 30 ],
+  "sellDate" : [ 2017, 9, 13 ],
+  "sellPrice" : 6.48,
+  "price" : 1.25,
+  "spyPrice" : 186.0825
+}, {
+  "stock" : "CELH",
+  "date" : [ 2015, 3, 16 ],
+  "sellDate" : [ 2017, 9, 13 ],
+  "sellPrice" : 6.48,
+  "price" : 0.96,
+  "spyPrice" : 185.5493
+}, {
+  "stock" : "CELH",
+  "date" : [ 2015, 1, 28 ],
+  "sellDate" : [ 2017, 9, 13 ],
+  "sellPrice" : 6.48,
+  "price" : 0.64,
+  "spyPrice" : 178.0412
+} ]

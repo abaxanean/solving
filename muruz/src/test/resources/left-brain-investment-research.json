@@ -1,0 +1,134 @@
+[ {
+  "stock" : "SE",
+  "date" : [ 2020, 11, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 177.7,
+  "spyPrice" : 361.1207
+}, {
+  "stock" : "NVDA",
+  "date" : [ 2020, 11, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 518.1569,
+  "spyPrice" : 361.6783
+}, {
+  "stock" : "NOW",
+  "date" : [ 2020, 9, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 443.14,
+  "spyPrice" : 330.4726
+}, {
+  "stock" : "AAXN",
+  "date" : [ 2020, 7, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 90.77,
+  "spyPrice" : 312.2535
+}, {
+  "stock" : "SPG",
+  "date" : [ 2020, 6, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 65.0333,
+  "spyPrice" : 308.0682
+}, {
+  "stock" : "DOCU",
+  "date" : [ 2020, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 146.54,
+  "spyPrice" : 319.1402
+}, {
+  "stock" : "AYX",
+  "date" : [ 2020, 6, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 143.06,
+  "spyPrice" : 319.1402
+}, {
+  "stock" : "HTGC",
+  "date" : [ 2020, 5, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.8873,
+  "spyPrice" : 295.3232
+}, {
+  "stock" : "SQ",
+  "date" : [ 2020, 5, 4 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 63.69,
+  "spyPrice" : 280.008
+}, {
+  "stock" : "TTD",
+  "date" : [ 2020, 4, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 263.17,
+  "spyPrice" : 283.4443
+}, {
+  "stock" : "NVDA",
+  "date" : [ 2020, 3, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 248.9183,
+  "spyPrice" : 240.0957
+}, {
+  "stock" : "ZM",
+  "date" : [ 2020, 3, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 135.18,
+  "spyPrice" : 240.0957
+}, {
+  "stock" : "SPLK",
+  "date" : [ 2020, 3, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 110.3,
+  "spyPrice" : 225.926
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2020, 3, 17 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 29.28,
+  "spyPrice" : 248.1657
+}, {
+  "stock" : "TDOC",
+  "date" : [ 2020, 3, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 127.95,
+  "spyPrice" : 264.3829
+}, {
+  "stock" : "SHOP",
+  "date" : [ 2020, 2, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 463.31,
+  "spyPrice" : 290.829
+}, {
+  "stock" : "OXY",
+  "date" : [ 2020, 1, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 45.7749,
+  "spyPrice" : 322.1737
+}, {
+  "stock" : "ROKU",
+  "date" : [ 2019, 12, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 136.89,
+  "spyPrice" : 314.8504
+}, {
+  "stock" : "ZS",
+  "date" : [ 2019, 10, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 49.88,
+  "spyPrice" : 286.2997
+} ]

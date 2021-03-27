@@ -1,0 +1,477 @@
+[ {
+  "stock" : "PROF",
+  "date" : [ 2020, 8, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 14.83,
+  "spyPrice" : 334.6678
+}, {
+  "stock" : "PROF",
+  "date" : [ 2020, 5, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.52,
+  "spyPrice" : 299.7173
+}, {
+  "stock" : "PROF",
+  "date" : [ 2020, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.32,
+  "spyPrice" : 275.5744
+}, {
+  "stock" : "PROF",
+  "date" : [ 2020, 4, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.75,
+  "spyPrice" : 245.0724
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 12, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 25.96,
+  "spyPrice" : 313.4761
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 11, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 18.99,
+  "spyPrice" : 302.3887
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 10, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 23.71,
+  "spyPrice" : 292.0925
+}, {
+  "stock" : "AOSL",
+  "date" : [ 2019, 10, 9 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 12.73,
+  "spyPrice" : 284.5316
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 9, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 25.06,
+  "spyPrice" : 290.7347
+}, {
+  "stock" : "AOSL",
+  "date" : [ 2019, 8, 19 ],
+  "sellDate" : [ 2019, 9, 9 ],
+  "sellPrice" : 12.29,
+  "price" : 12.04,
+  "spyPrice" : 284.2547
+}, {
+  "stock" : "AOSL",
+  "date" : [ 2019, 8, 8 ],
+  "sellDate" : [ 2019, 9, 9 ],
+  "sellPrice" : 12.29,
+  "price" : 11.38,
+  "spyPrice" : 285.5091
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 8, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 28.72,
+  "spyPrice" : 279.8499
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 5, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 13.69,
+  "spyPrice" : 271.7801
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 4, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.75,
+  "spyPrice" : 283.4115
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 4, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 10.24,
+  "spyPrice" : 279.4537
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 3, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 9.2,
+  "spyPrice" : 273.2703
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 2, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.66,
+  "spyPrice" : 264.3451
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2019, 1, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.59,
+  "spyPrice" : 253.2464
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 12, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.0,
+  "spyPrice" : 236.7473
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 11, 23 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.21,
+  "spyPrice" : 252.1492
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 10, 29 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.15,
+  "spyPrice" : 252.7335
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 9, 28 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.85,
+  "spyPrice" : 278.4609
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 9, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.41,
+  "spyPrice" : 275.6807
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 8, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.79,
+  "spyPrice" : 276.3101
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 8, 7 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.87,
+  "spyPrice" : 272.3053
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 7, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 7.03,
+  "spyPrice" : 258.3077
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 6, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 6.98,
+  "spyPrice" : 258.403
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 6, 13 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.98,
+  "spyPrice" : 263.9216
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 5, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.73,
+  "spyPrice" : 257.1913
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 5, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 5.18,
+  "spyPrice" : 259.1278
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 4, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.38,
+  "spyPrice" : 252.7963
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 4, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.0,
+  "spyPrice" : 251.6951
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 3, 20 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 4.76,
+  "spyPrice" : 257.2008
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 3, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.71,
+  "spyPrice" : 257.3474
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 1, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.2,
+  "spyPrice" : 266.5279
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2018, 1, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.26,
+  "spyPrice" : 259.1722
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 12, 15 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.8,
+  "spyPrice" : 251.9772
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 11, 24 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.66,
+  "spyPrice" : 244.9104
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 11, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.49,
+  "spyPrice" : 243.49
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 9, 26 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.37,
+  "spyPrice" : 234.2997
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 8, 11 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.8185,
+  "spyPrice" : 228.5004
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 7, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.8249,
+  "spyPrice" : 229.8483
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 6, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.77,
+  "spyPrice" : 227.1151
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 5, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 0.765,
+  "spyPrice" : 223.6283
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 4, 18 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.26,
+  "spyPrice" : 217.8438
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 4, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.29,
+  "spyPrice" : 218.6915
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 3, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.37,
+  "spyPrice" : 221.1756
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 2, 22 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.61,
+  "spyPrice" : 219.1352
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 2, 14 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.5,
+  "spyPrice" : 216.7424
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 1, 30 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.49,
+  "spyPrice" : 211.0387
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 1, 19 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.78,
+  "spyPrice" : 209.5177
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2017, 1, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.05,
+  "spyPrice" : 208.8963
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 12, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.24,
+  "spyPrice" : 208.7108
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 11, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.08,
+  "spyPrice" : 202.9793
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 11, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.11,
+  "spyPrice" : 200.8772
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 11, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.2,
+  "spyPrice" : 197.4104
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 10, 31 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.0,
+  "spyPrice" : 195.9721
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 10, 25 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.11,
+  "spyPrice" : 197.4658
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 10, 12 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.09,
+  "spyPrice" : 197.0416
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 10, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.19,
+  "spyPrice" : 198.9502
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 9, 27 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.2,
+  "spyPrice" : 198.7566
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 9, 21 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.48,
+  "spyPrice" : 198.9871
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 9, 6 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.85,
+  "spyPrice" : 200.9324
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 8, 10 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.83,
+  "spyPrice" : 199.6565
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 7, 5 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.9,
+  "spyPrice" : 191.1892
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 5, 16 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 1.81,
+  "spyPrice" : 188.7121
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 3, 3 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 3.33,
+  "spyPrice" : 181.384
+}, {
+  "stock" : "ENPH",
+  "date" : [ 2016, 2, 8 ],
+  "sellDate" : null,
+  "sellPrice" : 0.0,
+  "price" : 2.09,
+  "spyPrice" : 168.3505
+} ]

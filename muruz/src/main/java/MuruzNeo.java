@@ -26,19 +26,20 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
+// /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/lib/tools.jar:/Users/abaxanean/projects2/solving/muruz/target/classes:/Users/abaxanean/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/abaxanean/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar MuruzNeo
 public class MuruzNeo {
 
     private static Map<String, Boolean> PLAYERS = new HashMap<>();
 
     static {
-        PLAYERS.put("Minato", true);
-        PLAYERS.put("Astro", true);
-        PLAYERS.put("Bacs", true);
-        PLAYERS.put("Funtik", true);
+//        PLAYERS.put("MoHeTka", true);
+        PLAYERS.put("Balbes", true);
+//        PLAYERS.put("Trus", true);
+//        PLAYERS.put("Byvalyj", true);
 
-        PLAYERS.put("Lagertha", true);
-        PLAYERS.put("Pycckuj", true);
+//        PLAYERS.put("walcott", true);
+//        PLAYERS.put("EsTeT", true);
+//        PLAYERS.put("HeBonpoC", true);
     }
 //    private static final JFrame frame = createGUI();
 
@@ -46,7 +47,7 @@ public class MuruzNeo {
 //        printTop();
         monitor();
 
-        //        List<Player> players =  getPlayers();
+//                List<Player> players =  getPlayers();
 //        group(players, p -> p.location);
     }
 
@@ -86,7 +87,14 @@ public class MuruzNeo {
             List<Map.Entry<String, Integer>> entries = new ArrayList<>();
             Map<String, Boolean> players = new HashMap<>(PLAYERS);
             List<Player> playerList = getPlayers();
+            Map<Integer, List<String>> abyss = new HashMap<>();
+            abyss.put(1, new ArrayList<>());
+            abyss.put(2, new ArrayList<>());
+            abyss.put(3, new ArrayList<>());
             for (Player player : playerList) {
+                if (player.location.equals("Abyss")) {
+                    abyss.get(player.server).add(player.name);
+                }
                 if (!players.containsKey(player.name)) {
                     continue;
                 }
@@ -98,6 +106,7 @@ public class MuruzNeo {
                     entries.add(new AbstractMap.SimpleEntry<>(player.name, player.lvl));
                 }
             }
+            abyss.forEach((k,v) -> System.out.printf("%d %s %n", k, v));
             if (!players.isEmpty()) {
                 createAndShowGUI(players.keySet().toString());
                 return;
@@ -153,12 +162,14 @@ public class MuruzNeo {
         final int lvl;
         final String name;
         final String location;
+        final int server;
 
-        public Player(final int res, final int lvl, final String name, final String location) {
+        public Player(final int res, final int lvl, final String name, final String location, final int server) {
             this.res = res;
             this.lvl = lvl;
             this.name = name;
             this.location = location;
+            this.server = server;
         }
 
         @Override
@@ -176,7 +187,7 @@ public class MuruzNeo {
     }
 
     private static List<Player> getPlayers() throws IOException {
-        Connection.Response response = Jsoup.connect("http://muruz.ru/onlineneo.html").execute();
+        Connection.Response response = Jsoup.connect("http://muruz.ru/onlineevo.html").execute();
         Document document = response.parse();
         Element element = document.body().select(".statisticstb").get(0);
         Elements elements = element.select("tr:not(.row1)");
@@ -190,7 +201,7 @@ public class MuruzNeo {
             String[] parts = res.split("\\D");
             int resInt = Integer.parseInt(parts[2]);
             if (resInt > 0) {
-                playerList.add(new Player(resInt, Integer.parseInt(parts[0]), tds.get(1).text(), tds.get(5).text()));
+                playerList.add(new Player(resInt, Integer.parseInt(parts[0]), tds.get(1).text(), tds.get(5).text(), Integer.parseInt(tds.get(6).text())));
             }
         }
         return playerList;
