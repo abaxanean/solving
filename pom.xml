@@ -26,6 +26,7 @@
         <module>atp</module>
         <module>interviewcake</module>
         <module>pramp</module>
+        <module>leetcode</module>
     </modules>
 
 
