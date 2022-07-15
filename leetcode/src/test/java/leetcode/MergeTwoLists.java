@@ -1,12 +1,12 @@
-import java.util.Objects;
+package leetcode;
 
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import shared.ListNode;
+import leetcode.shared.ListNode;
 
 import static org.testng.Assert.assertEquals;
-import static shared.ListNode.createList;
+import static leetcode.shared.ListNode.createList;
 
 /**
  * Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.

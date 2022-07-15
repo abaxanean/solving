@@ -1,4 +1,4 @@
-package shared;
+package leetcode.shared;
 
 import java.util.Objects;
 
@@ -14,7 +14,7 @@ public class ListNode {
         this.val = val;
     }
 
-    ListNode(int val, ListNode next) {
+    public ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
@@ -45,10 +45,16 @@ public class ListNode {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        ListNode cursor = this;
-        while (cursor != null) {
-            sb.append(cursor.val);
+        int limit = 10;
+        sb.append(this.val);
+        ListNode cursor = this.next;
+        while (cursor != null && limit > 0) {
+            sb.append("->").append(cursor.val);
             cursor = cursor.next;
+            limit--;
+        }
+        if (limit == 0) {
+            sb.append("...");
         }
         return sb.toString();
     }

@@ -1,17 +1,16 @@
+package leetcode;
+
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
-import java.util.HashSet;
-import java.util.List;
 import java.util.Objects;
 import java.util.PriorityQueue;
 
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import shared.ListNode;
+import leetcode.shared.ListNode;
 
-import static shared.ListNode.createList;
+import static leetcode.shared.ListNode.createList;
 
 import static org.testng.Assert.assertEquals;
 
